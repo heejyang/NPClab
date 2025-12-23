@@ -2,47 +2,27 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Professor</a> at Kangwon National University.
+subtitle: <a href='#'>Lab of Natural Products Chemistry>La> at Kangwon National University.
 
 profile:
   align: right
-  image: prof_pic_hj.jpg
-  image_circular: true # true로 바꾸면 사진이 동그랗게 나옵니다
+  image: prof_pic_hj.jpg # 교수님 사진 파일명
+  image_circular: false # 사각형 사진
   address: >
     <p>College of Pharmacy</p>
     <p>Kangwon National University</p>
-    <p>Chuncheon, Republic of Korea</p>
 
-news: true  # 뉴스 기능을 켭니다
-selected_papers: true # 중요 논문 기능을 켭니다
-social: true  # 이메일 등 연락처 아이콘을 켭니다
+news: true  # 뉴스(공지사항) 요약 보이기
+selected_papers: true # 대표 논문(Selected) 요약 보이기
+social: true  # 하단 연락처 아이콘 보이기
+nav: true
+nav_order: 1
 ---
 
-I am a Professor at the College of Pharmacy, **Kangwon National University**. Before joining KNU, I worked as a Visiting Scholar at the **Skaggs School of Pharmacy, UCSD**, and as a Visiting Fellow at the **National Cancer Institute (NCI/NIH)**.
+**Lab of Natural Products Chemistry**에 오신 것을 환영합니다.
 
-My research focuses on **Natural Products Science**, specifically integrating **Mass Spectrometry-based Metabolomics** and **Molecular Networking** to discover bioactive compounds. Our lab aims to identify novel natural products with anti-inflammatory and anti-viral properties from various medicinal plants.
+우리 연구실은 천연물 화학(Natural Products Chemistry)과 대사체학(Metabolomics)을 기반으로 생리활성 물질을 탐색하고 연구합니다.
 
-### **Research Interests**
-
-* **Natural Products Chemistry:** Isolation and structural elucidation of bioactive compounds from medicinal plants (e.g., *Juglans sinensis*, *Panax ginseng*).
-* **Metabolomics & Molecular Networking:** Global natural products social molecular networking (GNPS) and MS-based dereplication.
-* **Bioinformatics:** Machine learning approaches for natural product discovery and chemotaxonomy.
-
-### **Education**
-
-* **Ph.D.** in Pharmacy, Seoul National University, Korea (2011) 
-* **M.S.** in Pharmacy, Seoul National University, Korea (2008) 
-* **B.S.** in Pharmacy, Seoul National University, Korea (2006) 
-
-### **Professional Experience**
-
-* **2014 - Present:** Professor, College of Pharmacy, Kangwon National University
-* **2018, 2023 - 2024:** Visiting Scholar, Skaggs School of Pharmacy, UCSD 
-* **2013 - 2014:** Visiting Fellow, NCI/NIH, Bethesda, MD, USA 
-* **2011 - 2013:** Senior Researcher, RIPS, Seoul National University 
-
-### **Honors & Awards**
-
-* **Science & Technology Excellent Paper Award**, KOFST (2020) 
-* **Excellent Research Award**, Seoul National University (2011) 
-* **Namgang Academy Award**, Korea Society of Pharmacognosy (2011) 
+### **Research Highlights**
+* **Projects:** 천연물 유래 신약 후보 물질 발굴 및 구조 규명
+* **Goal:** 염증 및 바이러스 질환 제어를 위한 소재 개발
