@@ -1,13 +1,13 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /NPClab
 subtitle: <a href='#'>Professor</a> at Kangwon National University.
 
 profile:
   align: right
   image: prof_pic_hj.jpg
-  image_circular: false # true로 바꾸면 사진이 동그랗게 나옵니다
+  image_circular: true # true로 바꾸면 사진이 동그랗게 나옵니다
   address: >
     <p>College of Pharmacy</p>
     <p>Kangwon National University</p>
