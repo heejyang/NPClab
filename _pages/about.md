@@ -18,31 +18,31 @@ selected_papers: true # 중요 논문 기능을 켭니다
 social: true  # 이메일 등 연락처 아이콘을 켭니다
 ---
 
-[cite_start]I am a Professor at the College of Pharmacy, **Kangwon National University**[cite: 6]. [cite_start]Before joining KNU, I worked as a Visiting Scholar at the **Skaggs School of Pharmacy, UCSD** [cite: 6][cite_start], and as a Visiting Fellow at the **National Cancer Institute (NCI/NIH)**[cite: 6].
+I am a Professor at the College of Pharmacy, **Kangwon National University**. Before joining KNU, I worked as a Visiting Scholar at the **Skaggs School of Pharmacy, UCSD**, and as a Visiting Fellow at the **National Cancer Institute (NCI/NIH)**.
 
-[cite_start]My research focuses on **Natural Products Science**, specifically integrating **Mass Spectrometry-based Metabolomics** and **Molecular Networking** to discover bioactive compounds[cite: 1, 8, 30]. [cite_start]Our lab aims to identify novel natural products with anti-inflammatory and anti-viral properties from various medicinal plants[cite: 13, 28, 55].
+My research focuses on **Natural Products Science**, specifically integrating **Mass Spectrometry-based Metabolomics** and **Molecular Networking** to discover bioactive compounds. Our lab aims to identify novel natural products with anti-inflammatory and anti-viral properties from various medicinal plants.
 
 ### **Research Interests**
 
-* [cite_start]**Natural Products Chemistry:** Isolation and structural elucidation of bioactive compounds from medicinal plants (e.g., *Juglans sinensis*, *Panax ginseng*)[cite: 2, 26].
-* [cite_start]**Metabolomics & Molecular Networking:** Global natural products social molecular networking (GNPS) and MS-based dereplication[cite: 30, 42].
-* [cite_start]**Bioinformatics:** Machine learning approaches for natural product discovery and chemotaxonomy[cite: 9, 20].
+* **Natural Products Chemistry:** Isolation and structural elucidation of bioactive compounds from medicinal plants (e.g., *Juglans sinensis*, *Panax ginseng*).
+* **Metabolomics & Molecular Networking:** Global natural products social molecular networking (GNPS) and MS-based dereplication.
+* **Bioinformatics:** Machine learning approaches for natural product discovery and chemotaxonomy.
 
 ### **Education**
 
-* [cite_start]**Ph.D.** in Pharmacy, Seoul National University, Korea (2011) [cite: 1, 2]
-* [cite_start]**M.S.** in Pharmacy, Seoul National University, Korea (2008) [cite: 3, 4]
-* [cite_start]**B.S.** in Pharmacy, Seoul National University, Korea (2006) [cite: 5, 6]
+* **Ph.D.** in Pharmacy, Seoul National University, Korea (2011) 
+* **M.S.** in Pharmacy, Seoul National University, Korea (2008) 
+* **B.S.** in Pharmacy, Seoul National University, Korea (2006) 
 
 ### **Professional Experience**
 
-* [cite_start]**2014 - Present:** Professor, College of Pharmacy, Kangwon National University [cite: 6]
-* [cite_start]**2018, 2023 - 2024:** Visiting Scholar, Skaggs School of Pharmacy, UCSD [cite: 6]
-* [cite_start]**2013 - 2014:** Visiting Fellow, NCI/NIH, Bethesda, MD, USA [cite: 6]
-* [cite_start]**2011 - 2013:** Senior Researcher, RIPS, Seoul National University [cite: 7]
+* **2014 - Present:** Professor, College of Pharmacy, Kangwon National University
+* **2018, 2023 - 2024:** Visiting Scholar, Skaggs School of Pharmacy, UCSD 
+* **2013 - 2014:** Visiting Fellow, NCI/NIH, Bethesda, MD, USA 
+* **2011 - 2013:** Senior Researcher, RIPS, Seoul National University 
 
 ### **Honors & Awards**
 
-* [cite_start]**Science & Technology Excellent Paper Award**, KOFST (2020) [cite: 163]
-* [cite_start]**Excellent Research Award**, Seoul National University (2011) [cite: 163]
-* [cite_start]**Namgang Academy Award**, Korea Society of Pharmacognosy (2011) [cite: 163]
+* **Science & Technology Excellent Paper Award**, KOFST (2020) 
+* **Excellent Research Award**, Seoul National University (2011) 
+* **Namgang Academy Award**, Korea Society of Pharmacognosy (2011) 
