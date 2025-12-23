@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /NPClab
+permalink: /
 subtitle: <a href='#'>Professor</a> at Kangwon National University.
 
 profile:
