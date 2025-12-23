@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /NPClab/cv/
 title: cv
 nav: true
 nav_order: 5
