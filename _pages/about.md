@@ -15,7 +15,7 @@ profile:
 news: true  # 뉴스(공지사항) 요약 보이기
 selected_papers: true # 대표 논문(Selected) 요약 보이기
 social: true  # 하단 연락처 아이콘 보이기
-nav: true
+nav: false
 ---
 
 **Lab of Natural Products Chemistry**에 오신 것을 환영합니다.
