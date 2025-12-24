@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Lab of Natural Products Chemistry>La> at Kangwon National University.
+subtitle: <a href='#'>Lab of Natural Products Chemistry at Kangwon National University.
 
 profile:
   align: right
   image: prof_pic_hj.jpg # 교수님 사진 파일명
-  image_circular: false # 사각형 사진
+  image_circular: true # 사각형 사진
   address: >
     <p>College of Pharmacy</p>
     <p>Kangwon National University</p>
@@ -20,8 +20,6 @@ nav: true
 
 **Lab of Natural Products Chemistry**에 오신 것을 환영합니다.
 
-우리 연구실은 천연물 화학(Natural Products Chemistry)과 대사체학(Metabolomics)을 기반으로 생리활성 물질을 탐색하고 연구합니다.
-
 ### **Research Highlights**
-* **Projects:** 천연물 유래 신약 후보 물질 발굴 및 구조 규명
-* **Goal:** 염증 및 바이러스 질환 제어를 위한 소재 개발
+- 천연물화학(Natural Products Chemistry)과 대사체학(Metabolomics) 기반 천연물 생리활성물질 탐색연구
+- 
