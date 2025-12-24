@@ -4,7 +4,7 @@ title: people
 permalink: /people/
 description: Meet the team leading our research.
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 ## **Professor**
