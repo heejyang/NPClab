@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: Metabolomics
 description: Mass Spectrometry-based Plant Metabolomics
 img: assets/img/3.jpg
 importance: 2
