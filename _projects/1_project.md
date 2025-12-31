@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Natural Products Discovery
 description: Isolation & Structural Elucidations of Natural Products
 img: assets/img/12.jpg
 importance: 1
