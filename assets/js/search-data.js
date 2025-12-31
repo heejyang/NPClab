@@ -423,7 +423,7 @@ ninja.data = [{
           title: 'project 7',
           description: "Target Identification using Chemoproteomics &amp; AI/ML",
           section: "Projects",handler: () => {
-              window.location.href = "/NPClab/projects/7_project/";
+              window.location.href = "/NPClab/projects/3_project/";
             },},{
         id: 'social-cv',
         title: 'CV',
