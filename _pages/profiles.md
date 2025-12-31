@@ -3,7 +3,7 @@ layout: page
 title: people
 permalink: /people/
 description: Meet the team leading our research.
-nav: false
+nav: true
 nav_order: 1
 ---
 
