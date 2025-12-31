@@ -411,7 +411,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
-          description: "with background image",
+          description: "Isolation &amp; Structural Elucidations of Natural Products",
           section: "Projects",handler: () => {
               window.location.href = "/NPClab/projects/1_project/";
             },},{id: "projects-project-2",
