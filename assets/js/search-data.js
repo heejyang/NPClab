@@ -414,8 +414,8 @@ ninja.data = [{
           description: "Isolation &amp; Structural Elucidations of Natural Products",
           section: "Projects",handler: () => {
               window.location.href = "/NPClab/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-metabolomics",
+          title: 'Metabolomics',
           description: "Mass Spectrometry-based Plant Metabolomics",
           section: "Projects",handler: () => {
               window.location.href = "/NPClab/projects/2_project/";
