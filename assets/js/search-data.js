@@ -416,7 +416,7 @@ ninja.data = [{
               window.location.href = "/NPClab/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
-          description: "a project with a background image and giscus comments",
+          description: "Mass Spectrometry-based Plant Metabolomics",
           section: "Projects",handler: () => {
               window.location.href = "/NPClab/projects/2_project/";
             },},{id: "projects-project-7",
