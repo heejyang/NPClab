@@ -8,7 +8,7 @@ related_publications: true
 ---
 
 <div class="row justify-content-center">
-    <div class="col-sm-12">
+    <div class="col-sm-12 text-center">
         {% include figure.liquid loading="eager" path="assets/img/project1_1.jpg" title="Workflow of Natural Products Discovery" class="img-fluid rounded z-depth-1" style="width: 70%;" %}
         <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
             Figure 1: General workflow for bioactive compound discovery from medicinal plants. Created and modified by Gemini
@@ -16,7 +16,7 @@ related_publications: true
     </div>
 </div>
 
-<div class="caption">
+<div class="caption text-justify">
     <p><strong>연구 과정</strong></p>
     1. 추출 (Extraction): 식물을 포함한 다양한 천연 자원(Natural Products)으로부터 유효 성분을 효율적으로 얻어내기 위한 초기 추출 공정입니다.
     2. 분리 정제 (Isolation): 분리용 액체 크로마토그래피(Preparative HPLC) 및 컬럼 크로마토그래피 기술을 활용하여 복합적인 혼합물 상태의 추출물에서 개별 성분들을 정밀하게 분리합니다.
