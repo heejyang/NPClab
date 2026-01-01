@@ -7,11 +7,15 @@ importance: 1
 related_publications: true
 ---
 
-<div class="row">
-    <div class="col-sm-12">
+<div class="row justify-content-center">
+    <div class="col-sm-12 text-center">
         {% include figure.liquid loading="eager" path="assets/img/project1_1.jpg" title="Workflow of Natural Products Discovery" class="img-fluid rounded z-depth-1" style="width: 70%;" %}
+        <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
+            * Figure 1: General workflow for bioactive compound discovery from medicinal plants. Created and modified by Gemini
+        </p>
     </div>
 </div>
+
 <div class="caption">
     <p><strong>연구 과정</strong></p>
     1. 추출 (Extraction): 식물을 포함한 다양한 천연 자원(Natural Products)으로부터 유효 성분을 효율적으로 얻어내기 위한 초기 추출 공정입니다.
@@ -23,8 +27,11 @@ related_publications: true
 <br>
 
 <div class="row align-items-center">
-    <div class="col-sm-7">
+<div class="col-sm-7">
         {% include figure.liquid loading="eager" path="assets/img/project1_2.jpg" title="Quantitative study of Natural Products" class="img-fluid rounded z-depth-1" style="width: 100%;" %}
+        <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
+            * Figure 2: Instrumental setup for LC/MS-based quantitative analysis. Created by Biorender
+        </p>
     </div>
     <div class="col-sm-5">
         <p><strong>연구 과정</strong></p>
@@ -38,3 +45,8 @@ related_publications: true
         7. 데이터 분석: 검출된 신호를 크로마토그램으로 변환하여 지표성분의 양을 정량적으로 산출합니다.</p>
     </div>
 </div>
+
+<br><br>
+
+### **References**
+{% bibliography --cited %}
