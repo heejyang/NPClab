@@ -409,9 +409,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-natural-products-discovery",
-          title: 'Natural Products Discovery',
-          description: "Isolation &amp; Structural Elucidations of Natural Products",
+          section: "News",},{id: "projects-1-project",
+          title: '1_project',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/NPClab/projects/1_project/";
             },},{id: "projects-metabolomics",
