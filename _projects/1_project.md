@@ -21,7 +21,7 @@ related_publications: true
     1. 추출 (Extraction): 식물을 포함한 다양한 천연 자원(Natural Products)으로부터 유효 성분을 효율적으로 얻어내기 위한 초기 추출 공정입니다.
     2. 분리 정제 (Isolation): 분리용 액체 크로마토그래피(Preparative HPLC) 및 컬럼 크로마토그래피 기술을 활용하여 복합적인 혼합물 상태의 추출물에서 개별 성분들을 정밀하게 분리합니다.
     3. 구조 규명 (Structural Elucidation): 분리된 성분들의 화학적 구조를 밝히기 위해 질량분석(MS) 및 핵자기공명분광(NMR) 분석을 수행합니다. 이를 통해 화합물의 정확한 분자량과 원자 간 결합 형태를 확인합니다.
-    4. 신규 단일 화합물 확보 (Novel Single Compounds): 최종적으로 구조가 규명된 순수 단일 화합물을 확보합니다. 이는 향후 신약 후보 물질이나 기능성 소재로 활용될 수 있는 신규 화합물(Novel Compound) 발견의 핵심 성과입니다.
+    4. 신규 단일 화합물 확보 (Novel Single Compounds): 최종적으로 구조가 규명된 순수 단일 화합물을 확보합니다. 이는 향후 신약 후보 물질이나 기능성 소재로 활용될 수 있는 신규 화합물(Novel Compound) 발견의 핵심 성과입니다. **{% cite yang2011antiproliferative %}**
 </div>
 
 <br>
@@ -48,4 +48,4 @@ related_publications: true
 
 <br><br>
 
-{% yang2011antiproliferative %}
+{% bibliography --cited %}
