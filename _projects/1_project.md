@@ -5,10 +5,11 @@ description: Isolation & Structural Elucidations of Natural Products
 img: assets/img/12.jpg
 importance: 1
 related_publications: true
+---
 
 <div class="row">
     <div class="col-sm-12">
-        {% include figure.liquid loading="eager" path="assets/img/project1_1.jpg" title="Workflow of Natural Products Discovery" class="img-fluid rounded z-depth-1" style="width: 100%;" %}
+        {% include figure.liquid loading="eager" path="assets/img/project1_1.jpg" title="Workflow of Natural Products Discovery" class="img-fluid rounded z-depth-1" style="width: 70%;" %}
     </div>
 </div>
 <div class="caption">
