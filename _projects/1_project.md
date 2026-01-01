@@ -48,5 +48,4 @@ related_publications: true
 
 <br><br>
 
-### **References**
-{% yang2011antiproliferative lee2020targeted_asiaticum %}
+{% yang2011antiproliferative %}
