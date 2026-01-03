@@ -2,6 +2,8 @@
 layout: page
 title: photos
 permalink: /photos/
+nav: true
+nav_order: 4
 ---
 
 <style>
