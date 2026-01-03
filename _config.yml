@@ -156,6 +156,9 @@ collections:
     output: true
   projects:
     output: true
+  photos:
+    output: true
+    permalink: /photos/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
