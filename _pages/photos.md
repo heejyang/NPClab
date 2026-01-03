@@ -55,7 +55,7 @@ nav_order: 4
       <div class="gallery-grid">
         {% for img in event.images %}
           <div class="photo-card">
-            <img src="{{ img.image_path }}" alt="{{ img.description }}">
+            <img src="{{ img.image_path | relative_url}}" alt="{{ img.description }}">
             {% if img.description %}
               <div class="photo-caption">{{ img.description }}</div>
             {% endif %}
