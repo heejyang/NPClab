@@ -7,60 +7,78 @@ nav_order: 4
 ---
 
 <style>
-   photo-container {
-    margin-bottom: 50px;
+   year-section { margin-bottom: 60px; }
+   year-header { 
+    font-size: 2.2rem; 
+    font-weight: 800; 
+    margin-bottom: 15px; 
+    color: #333;
   }
-   year-title {
-    font-weight: bold;
-    margin-bottom: 20px;
-    border-bottom: 2px solid #eee;
-    padding-bottom: 10px;
+  
+  /* 한 라인에 2장씩 배치하는 설정 */
+   gallery-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* 1:1 비율로 두 칸 생성 */
+    gap: 20px; /* 사진 사이의 간격 */
+    margin-top: 20px;
   }
-  /* 카드 스타일 */
-   custom-card {
-    border: 1px solid #e0e0e0;
-    border-radius: 8px;
+  
+   photo-card {
+    border: 1px solid #eee;
+    border-radius: 12px;
     overflow: hidden;
     background: #fff;
-    margin-bottom: 20px; /* 아래쪽 카드와의 간격 */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    transition: transform 0.2s; /* 살짝 커지는 효과 (선택사항) */
   }
-  /* 이미지 강제 리사이징 (중요) */
-   custom-card img {
-    width: 100% !important;  /* 가로를 무조건 카드 크기에 맞춤 */
-    height: 300px !important; /* 세로 높이 고정 (원하는대로 수정 가능) */
-    object-fit: cover;       /* 비율 유지하며 꽉 채우기 */
+  
+   photo-card:hover {
+    transform: translateY(-5px);
+  }
+  
+   photo-card img {
+    width: 100%;
+    height: 350px; /* 한 줄에 두 장이므로 높이를 조금 더 키웠습니다 */
+    object-fit: cover;
     display: block;
   }
-  caption {
-    padding: 10px;
-    font-size: 0.9rem;
-    color: #666;
+  
+   photo-caption {
+    font-size: 0.95rem;
+    color: #444;
+    padding: 12px;
     text-align: center;
-    background-color: #fafafa;
+    background: #fdfdfd;
+    border-top: 1px solid #eee;
+  }
+
+  /* 모바일(작은 화면)에서도 두 장을 유지할지, 한 장으로 바꿀지 결정 */
+  @media (max-width: 600px) {
+     gallery-grid {
+      grid-template-columns: 1fr 1fr; /* 모바일에서도 2장을 유지하려면 그대로 둠 */
+      /* 만약 모바일에서 너무 작아 보이면 1fr; 로 바꾸시면 됩니다 */
+    }
+     photo-card img { height: 200px; } /* 모바일용 높이 조절 */
   }
 </style>
 
 {% assign grouped_photos = site.photos | group_by: "year" | sort: "name" | reverse %}
 
 {% for year_group in grouped_photos %}
-  <div class="photo-container">
-    <h1 class="year-title">{{ year_group.name }}</h1>
+  <div class="year-section">
+    <h1 class="year-header">{{ year_group.name }}</h1>
+    <hr>
 
     {% for event in year_group.items %}
-      <div class="row">
+      <div class="gallery-grid">
         {% for img in event.images %}
-          <div class="col-6 col-md-6">
-            <div class="custom-card">
-              <img src="{{ img.image_path | relative_url }}" alt="{{ img.description }}">
-              {% if img.description %}
-                <div class="caption">{{ img.description }}</div>
-              {% endif %}
-            </div>
+          <div class="photo-card">
+            <img src="{{ img.image_path | relative_url }}" alt="{{ img.description }}">
+            {% if img.description %}
+              <div class="photo-caption">{{ img.description }}</div>
+            {% endif %}
           </div>
         {% endfor %}
       </div>
-      <br> 
     {% endfor %}
   </div>
 {% endfor %}
