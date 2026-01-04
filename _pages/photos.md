@@ -12,7 +12,7 @@ nav_order: 4
   /* 격자 레이아웃 (Grid) */
    gallery-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* 화면 크기에 따라 자동 조절 */
+    grid-template-columns: 1fr 1fr; 
     gap: 15px;
     margin-top: 15px;
   }
