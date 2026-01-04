@@ -416,7 +416,17 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "photos-2025",
+          section: "News",},{id: "photos-2022",
+          title: '2022',
+          description: "",
+          section: "Photos",handler: () => {
+              window.location.href = "/NPClab/photos/2022/";
+            },},{id: "photos-2024",
+          title: '2024',
+          description: "",
+          section: "Photos",handler: () => {
+              window.location.href = "/NPClab/photos/2024/";
+            },},{id: "photos-2025",
           title: '2025',
           description: "",
           section: "Photos",handler: () => {
