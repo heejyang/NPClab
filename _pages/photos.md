@@ -7,36 +7,37 @@ nav_order: 4
 ---
 
 <style>
-  .year-section { margin-bottom: 50px; }
-  .event-title { font-size: 1.2rem; color: #444; margin-top: 20px; border-left: 4px solid #0056b3; padding-left: 10px; }
+   year-section { margin-bottom: 50px; }
   
   /* 격자 레이아웃 (Grid) */
-  .gallery-grid {
+   gallery-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* 화면 크기에 따라 자동 조절 */
     gap: 15px;
     margin-top: 15px;
   }
   
-  .photo-card {
-    border: 1px solid #eee;
-    padding: 5px;
+  photo-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
     background: #fff;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
   }
   
-  .photo-card img {
+   photo-card img {
     width: 100%;
-    height: 200px; /* 사진 높이 통일 (필요 시 제거 가능) */
-    object-fit: cover; /* 사진이 찌그러지지 않고 꽉 차게 */
+    height: 250px; 
+    object-fit: cover;
     display: block;
   }
   
-  .photo-caption {
-    font-size: 0.85rem;
-    color: #666;
-    padding: 5px;
+   photo-caption {
+    font-size: 0.9rem;
+    color: #555;
+    padding: 10px;
     text-align: center;
+    background: #f9f9f9;
   }
 </style>
 
@@ -44,18 +45,14 @@ nav_order: 4
 
 {% for year_group in grouped_photos %}
   <div class="year-section">
-    <h1>{{ year_group.name }}</h1>
-    <hr>
+    <h1 class="year-header">{{ year_group.name }}</h1>
+    <hr style="border: 1px solid #eee;">
 
     {% for event in year_group.items %}
-      <h3 class="event-title">
-        {{ event.title }} <small style="color:#888; font-weight:normal; font-size:0.8em;">({{ event.date | date: "%Y.%m.%d" }})</small>
-      </h3>
-
       <div class="gallery-grid">
         {% for img in event.images %}
           <div class="photo-card">
-            <img src="{{ img.image_path | relative_url}}" alt="{{ img.description }}">
+            <img src="{{ img.image_path | relative_url }}" alt="{{ img.description }}">
             {% if img.description %}
               <div class="photo-caption">{{ img.description }}</div>
             {% endif %}
