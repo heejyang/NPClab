@@ -25,12 +25,12 @@ nav_order: 1
 ## **Current Members**
 
 ### **Ph.D. Candidates**
-* 박진영(Jinyoung PARK) 
-* 이민성(Minseong LEE) 
-* 장영선(Youngseon JANG) 
+* 박진영(Jinyoung PARK), full-time
+* 이민성(Minseong LEE), part-time
+* 장영선(Youngseon JANG), part-time
 
 ### **Integrated MS–PhD course**
-* 조채연(Chayeon CHOI)
+* 조채연(Chayeon CHO)
 
 ### **M.S. Students**
 * 곽민(Min KWAK)
