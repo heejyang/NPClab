@@ -421,6 +421,11 @@ ninja.data = [{
           description: "",
           section: "Photos",handler: () => {
               window.location.href = "/NPClab/photos/2022/";
+            },},{id: "photos-2023",
+          title: '2023',
+          description: "",
+          section: "Photos",handler: () => {
+              window.location.href = "/NPClab/photos/2023/";
             },},{id: "photos-2024",
           title: '2024',
           description: "",
