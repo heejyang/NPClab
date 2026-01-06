@@ -26,17 +26,17 @@ nav_order: 1
 
 ### **Ph.D. Candidates**
 * 박진영(Jinyoung PARK), full-time
-* 이민성(Minseong LEE), part-time
+* 이민성(Min Sung LEE), part-time
 * 장영선(Youngseon JANG), part-time
 
 ### **Integrated MS–PhD course**
-* 조채연(Chayeon CHO)
+* 조채연(Chaeyeon CHO)
 
 ### **M.S. Students**
 * 곽민(Min KWAK)
 
 ### **Researcher**
-* 최경원(Kyoungwon CHOI)
+* 최경원(Kyeongwon Choi)
 
 ---
 
@@ -46,6 +46,7 @@ nav_order: 1
 * 정비랑 Ph.D. (2023) - 우리씨드(URISEED)
 * 고기원 M.S.  (2018) - 종근당바이오(CKD Healthcare)
 * 이지호 Ph.D. (2022) - 서울대학교병원 단백질체학센터
+* 박진영 M.S.  (2020) - 강원대학교 약학대학 천연물연구실 박사과정
 * 목은영 M.S.  (2022) - 
 * 조인희 M.S.  (2023) - 마더스제약(Mother's Pharmaceutical Co. Ltd.)
 * 강정연 M.S.  (2023) - 삼성서울병원 단백질체학센터
