@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-01-19'
 papers:
   fO9fNboAAAAJ:-f6ydRqryjwC:
     citations: 41
@@ -90,7 +90,7 @@ papers:
     title: Development of hit compounds targeting STAT3 for autoimmune diseases and cancers using a chemoproteomics-driven approach
     year: '2025'
   fO9fNboAAAAJ:BqipwSGYUEgC:
-    citations: 59
+    citations: 60
     title: 'Stereoisomer-specific anticancer activities of ginsenoside Rg3 and Rh2 in HepG2 cells: disparity in cytotoxicity and autophagy-inducing effects due to 20 (S)-epimers'
     year: '2015'
   fO9fNboAAAAJ:CHSYGLWDkRkC:
@@ -110,23 +110,23 @@ papers:
     title: 'Lewis acid-mediated cyclization of allenyl-aldehyde dimethyl acetals: synthesis of cis-and trans-2-haloalkenylcycloalkyl methyl ethers'
     year: '2002'
   fO9fNboAAAAJ:HDshCWvjkbEC:
-    citations: 17
+    citations: 18
     title: Determination of five active compounds in Artemisia princeps and A. capillaris based on UPLC-DAD and discrimination of two species with multivariate analysis
     year: '2014'
   fO9fNboAAAAJ:HoB7MX3m0LUC:
-    citations: 45
+    citations: 46
     title: Complete 1H-NMR and 13C-NMR spectral analysis of the pairs of 20 (S) and 20 (R) ginsenosides
     year: '2014'
   fO9fNboAAAAJ:IWHjjKOFINEC:
     citations: 0
-    title: A new phenolic compound from Lespedeza tomentosa.
+    title: A New Phenolic Compound from Lespedeza tomentosa
     year: '2021'
   fO9fNboAAAAJ:IjCSPb-OGe4C:
-    citations: 4
+    citations: 5
     title: Two New Pterocarpans from Lespedeza tomentosa
     year: '2021'
   fO9fNboAAAAJ:JV2RwH3_ST0C:
-    citations: 26
+    citations: 25
     title: Hepatoprotective constituents of Firmiana simplex stem bark against ethanol insult to primary rat hepatocytes
     year: '2015'
   fO9fNboAAAAJ:J_g5lzvAfSwC:
@@ -198,7 +198,7 @@ papers:
     title: Anti-inflammatory phenolics isolated from Juniperus rigida leaves and twigs in lipopolysaccharide-stimulated RAW264.7 macrophage cells
     year: '2012'
   fO9fNboAAAAJ:RHpTSmoSYBkC:
-    citations: 28
+    citations: 30
     title: Morin hydrate inhibits influenza virus entry into host cells and has anti-inflammatory effect in influenza-infected mice
     year: '2020'
   fO9fNboAAAAJ:RYcK_YlVTxYC:
@@ -258,7 +258,7 @@ papers:
     title: Effect of Gangjihwan on hepatic steatosis and inflammation in high fat diet-fed mice
     year: '2017'
   fO9fNboAAAAJ:WbkHhVStYXYC:
-    citations: 98
+    citations: 99
     title: 'Ginsenoside Rh1: a systematic review of its pharmacological properties'
     year: '2018'
   fO9fNboAAAAJ:Wp0gIr-vW9MC:
@@ -290,7 +290,7 @@ papers:
     title: In silico annotation of discriminative markers of three Zanthoxylum species using molecular network derived annotation propagation
     year: '2019'
   fO9fNboAAAAJ:ZeXyd9-uunAC:
-    citations: 16
+    citations: 17
     title: Plant-derived juvenile hormone III analogues and other sesquiterpenes from the stem bark of Cananga latifolia
     year: '2013'
   fO9fNboAAAAJ:Zph67rFs4hoC:
@@ -350,7 +350,7 @@ papers:
     title: "Investigation of Chemical Profiles of Different Parts of Morus alba Using a Combination of Molecular Networking Methods with Mass Spectral Data from Two \u2026"
     year: '2021'
   fO9fNboAAAAJ:dhFuZR0502QC:
-    citations: 170
+    citations: 172
     title: Neuroprotective and anti-inflammatory effects of flavonoids isolated from Rhus verniciflua in neuronal HT22 and microglial BV2 cell lines
     year: '2012'
   fO9fNboAAAAJ:dshw04ExmUIC:
@@ -367,7 +367,7 @@ papers:
     year: '2025'
   fO9fNboAAAAJ:eQOLeE2rZwMC:
     citations: 7
-    title: The Isolation of Acetylcholinesterase Inhibitory Constituents from Lycoris radiate using On-Line HPLC-biochemical Detection System
+    title: The isolation of acetylcholinesterase inhibitory constituents from Lycoris radiata using on-line HPLC-biochemical detection system
     year: '2010'
   fO9fNboAAAAJ:eflP2zaiRacC:
     citations: 0
@@ -390,7 +390,7 @@ papers:
     title: "Fast and Simple Discriminative Analysis of Anthocyanins\u2010Containing Berries Using LC/MS Spectral Data"
     year: '2017'
   fO9fNboAAAAJ:geHnlv5EZngC:
-    citations: 0
+    citations: 1
     title: 'Ex Vivo Interaction Between Human Gut Microbiota and Artemisinin: A Multi-Omics Perspective'
     year: '2025'
   fO9fNboAAAAJ:hC7cP41nSMkC:
@@ -426,15 +426,15 @@ papers:
     title: "New polyhydroxytriterpenoid derivatives from fruits of Terminalia chebula Retz. and their \u03B1-glucosidase and \u03B1-amylase inhibitory activity"
     year: '2017'
   fO9fNboAAAAJ:k_IJM867U9cC:
-    citations: 17
+    citations: 18
     title: Implication of the stereoisomers of ginsenoside derivatives in the antiproliferative effect of HSC-T6 cells
     year: '2012'
   fO9fNboAAAAJ:lSLTfruPkqcC:
-    citations: 76
+    citations: 75
     title: Neuroprotective iridoid glycosides from Cornus officinalis fruits against glutamate-induced toxicity in HT22 hippocampal cells
     year: '2012'
   fO9fNboAAAAJ:ldfaerwXgEUC:
-    citations: 137
+    citations: 138
     title: Cognitive-enhancing effects of Rhus verniciflua bark extract and its active flavonoids with neuroprotective and anti-inflammatory activities
     year: '2013'
   fO9fNboAAAAJ:mB3voiENLucC:
@@ -454,7 +454,7 @@ papers:
     title: Cytotoxic terpenoids from Juglans sinensis leaves and twigs
     year: '2012'
   fO9fNboAAAAJ:p2g8aNsByqUC:
-    citations: 6
+    citations: 7
     title: "Antiviral Mechanisms of Saucerneol from Saururus chinensis against Enterovirus A71, Coxsackievirus A16, and Coxsackievirus B3: Role of Mitochondrial ROS and \u2026"
     year: '2023'
   fO9fNboAAAAJ:pqnbT2bcN3wC:
@@ -470,19 +470,19 @@ papers:
     title: Lysosomal SLC46A3 modulates hepatic cytosolic copper homeostasis
     year: '2021'
   fO9fNboAAAAJ:qjMakFHDy7sC:
-    citations: 15
+    citations: 16
     title: Chemical constituents of Polygala tenuifolia roots and their inhibitory activity on lipopolysaccharide-induced nitric oxide production in BV2 microglia
     year: '2012'
   fO9fNboAAAAJ:qxL8FJ1GzNcC:
-    citations: 101
+    citations: 102
     title: Ginsenoside 20 (S)-Rh2 exerts anti-cancer activity through targeting IL-6-induced JAK2/STAT3 pathway in human colorectal cancer cells
     year: '2016'
   fO9fNboAAAAJ:r0BpntZqJG4C:
-    citations: 5
+    citations: 6
     title: A new phenolic compound from Phedimus middendorffianus with antiproliferative activity
     year: '2020'
   fO9fNboAAAAJ:rO6llkc54NcC:
-    citations: 1469
+    citations: 1501
     title: Feature-based molecular networking in the GNPS analysis environment
     year: '2020'
   fO9fNboAAAAJ:roLk4NBRz8UC:
@@ -490,7 +490,7 @@ papers:
     title: Comparative transcriptome analysis reveals higher expression of stress and defense responsive genes in dwarf soybeans obtained from the crossing of G. max and G. soja
     year: '2019'
   fO9fNboAAAAJ:sSrBHYA8nusC:
-    citations: 16
+    citations: 19
     title: plantMASST-Community-driven chemotaxonomic digitization of plants
     year: '2024'
   fO9fNboAAAAJ:tOudhMTPpwUC:
@@ -499,7 +499,7 @@ papers:
     year: '2024'
   fO9fNboAAAAJ:tS2w5q8j5-wC:
     citations: 3
-    title: Simultaneous determination of gastrodin and gastrodigenin in Gastrodia elata by HPLC-UV.
+    title: Simultaneous determination of gastrodin and gastrodigenin in gastrodia elata by HPLC-UV
     year: '2017'
   fO9fNboAAAAJ:u-x6o8ySG0sC:
     citations: 9
@@ -518,7 +518,7 @@ papers:
     title: Stereochemical elucidation of norbornene derivatives synthesized as leukotriene D4 receptor antagonists
     year: '2003'
   fO9fNboAAAAJ:ufrVoPGSRksC:
-    citations: 28
+    citations: 29
     title: Flavonoids isolated from Lespedeza cuneata G. Don and their inhibitory effects on nitric oxide production in lipopolysaccharide-stimulated BV-2 microglia cells
     year: '2015'
   fO9fNboAAAAJ:vRqMK49ujn8C:
