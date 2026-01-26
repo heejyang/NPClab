@@ -1,80 +1,144 @@
 ---
 layout: page
-title: Chemoproteomics
+title: Chemoproteomics & AI/ML
 description: Target Identification using Chemoproteomics & AI/ML
 img: assets/img/4.jpg
 importance: 3
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center mb-4">
+    <div class="col-sm-12">
+        <p class="lead">우리 연구실은 케모프로테오믹스(Chemoproteomics)와 인공지능/머신러닝(AI/ML)을 융합하여 천연물의 약리 타겟을 발굴하고, 바이오인포매틱스 기법을 통해 약용식물-질병-타겟 네트워크를 체계적으로 분석합니다.</p>
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+---
+
+### **핵심 연구 분야**
+
+#### **1. AI/ML 기반 신약 후보 물질 발굴**
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>Machine Learning과 Virtual Screening을 이용한 RORγt 억제제 발굴</strong></p>
+        <p>머신러닝, 가상 스크리닝(virtual screening), 그리고 in vivo 검증을 결합하여 천연물 유래 RORγt (Retinoic acid receptor-related Orphan Receptor gamma t) 억제제를 발굴하였습니다. RORγt는 자가면역질환의 핵심 타겟으로, 본 연구는 AI 기반 천연물 신약 개발의 성공 사례를 제시합니다. {% cite yoo2025discovery %}</p>
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>불균형 데이터를 위한 최적화 알고리즘 개발</strong></p>
+        <p>이진 분류에서 불균형 데이터(imbalanced data)의 F_β score 최적화를 위한 surrogate loss function을 개발하였습니다. 이 방법은 천연물 활성 예측과 같이 양성 데이터가 적은 상황에서 모델 성능을 향상시킵니다. {% cite lee2021surrogate %}</p>
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+
+#### **2. 바이오인포매틱스 및 네트워크 분석**
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>약용식물-타겟 네트워크의 군집 분석</strong></p>
+        <p>Multipartite network 기반 군집 분석을 통해 약용식물과 약리 타겟 간의 관계를 체계적으로 분석하였습니다. 이 연구는 약용식물의 다중타겟(multi-target) 효과를 이해하고, 새로운 약리 작용을 예측하는 데 활용됩니다. {% cite lee2021cluster %}</p>
+    </div>
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>문헌 기반 생물학적 개체 네트워크 분석</strong></p>
+        <p>문헌에서 동시 출현하는 생물학적 개체(약물, 단백질, 질병 등)의 계층적 네트워크 분석(Hierarchical network analysis)을 수행하였습니다. 이를 통해 숨겨진 약물-타겟-질병 간의 연관성을 발굴할 수 있습니다. {% cite yang2022hierarchical %}</p>
+    </div>
 </div>
-```
 
-{% endraw %}
+#### **3. 프로테오믹스 및 통계 분석 방법론**
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>정량 프로테오믹스를 위한 Shrinkage-based 통계 검정법</strong></p>
+        <p>Bottom-up 정량 프로테오믹스에서 그룹 간 평균 차이를 검정하기 위한 shrinkage-based 통계 방법을 개발하였습니다. 이 방법은 적은 샘플 수에서도 높은 검정력(statistical power)을 제공하여, 케모프로테오믹스 연구에서 신뢰도 높은 타겟 동정을 가능하게 합니다. {% cite lee2025shrinkage %}</p>
+    </div>
+</div>
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>SLC46A3의 간 구리 항상성 조절 메커니즘 규명</strong></p>
+        <p>Lysosomal transporter SLC46A3가 간세포의 세포질 구리 항상성을 조절하는 메커니즘을 프로테오믹스 및 대사체학 접근법으로 규명하였습니다. 이 연구는 Nature Communications에 발표되었으며, 금속 이온 대사와 관련된 질환 치료 타겟 발굴에 기여합니다. {% cite kim2021lysosomal %}</p>
+    </div>
+</div>
+
+---
+
+### **타겟 검증 및 메커니즘 연구**
+
+#### **1. 천연물의 분자 타겟 및 신호 경로 규명**
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>인삼 사포닌 Ginsenoside 20(S)-Rh2의 항암 메커니즘</strong></p>
+        <p>Ginsenoside 20(S)-Rh2가 IL-6로 유도된 JAK2/STAT3 신호 경로를 표적으로 하여 대장암 세포 증식을 억제함을 규명하였습니다. 이는 인삼 사포닌의 명확한 분자 타겟을 제시한 연구입니다. {% cite han2016ginsenoside %}</p>
+    </div>
+</div>
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>Amentoflavone의 Nrf2 활성화 경로</strong></p>
+        <p>Amentoflavone이 p38 MAPK-AKT 경로를 통해 산화 스트레스를 유발하고, 이것이 Nrf2 (Nuclear Factor Erythroid 2-Related Factor 2)를 활성화하여 항산화 방어 시스템을 증진시킴을 규명하였습니다. {% cite wahyudi2018amentoflavone %}</p>
+    </div>
+</div>
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>E-p-Methoxycinnamoyl-α-L-rhamnopyranosyl ester의 Nrf2 안정화 메커니현</strong></p>
+        <p>Scrophularia buergeriana에서 분리한 phenylpropanoid가 ubiquitination을 억제하여 Nrf2의 안정성을 증가시키는 메커니즘을 밝혔습니다. {% cite jeong2018epmethoxycinnamoyl %}</p>
+    </div>
+</div>
+
+#### **2. Inflammasome 및 면역 조절 타겟**
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>Obovatol의 다중 inflammasome 억제 효과</strong></p>
+        <p>후박(Magnolia obovata)에서 분리한 obovatol이 NLRP3, AIM2, 그리고 non-canonical inflammasome을 모두 억제하는 광범위한 항염증 효과를 나타냄을 규명하였습니다. {% cite kim2019obovatol %}</p>
+    </div>
+</div>
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>Panaxydol의 NLRP3 inflammasome 억제를 통한 NASH 개선</strong></p>
+        <p>인삼에서 추출한 panaxydol이 NLRP3 inflammasome 활성화를 억제하여 비알코올성 지방간염(NASH)으로 인한 간 손상을 개선시킴을 확인하였습니다. {% cite kim2024panaxydol %}</p>
+    </div>
+</div>
+
+#### **3. 대사 질환 관련 타겟**
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>복합 천연물 처방의 지방간 개선 메커니즘</strong></p>
+        <p>여러 복합 천연물 처방(Gangjihwan, GGEx18, Gambigyeongsinhwan 등)이 SREBP1C, PPARγ, C/EBPα 등의 지방 생성 전사인자를 조절하여 지방간 및 염증을 개선시키는 메커니즘을 규명하였습니다. {% cite jang2018gangjihwan %} {% cite roh2017effect %} {% cite yoon2017effects %} {% cite lim2018polyherbal %}</p>
+    </div>
+</div>
+
+---
+
+### **정량 분석 및 품질 관리**
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>천연물 표준화를 위한 HPLC 정량 분석법 개발</strong></p>
+        <p>다양한 약용식물 추출물의 지표성분을 동시 정량하는 HPLC 분석법을 개발하여 천연물 의약품의 품질 관리에 기여하였습니다. {% cite yoo2020simultaneous %} {% cite jang2018simultaneous %} {% cite jeong2018determination %}</p>
+    </div>
+</div>
+
+---
+
+### **연구 의의 및 미래 방향**
+
+우리 연구실의 chemoproteomics 및 AI/ML 연구는 다음과 같은 혁신을 추구합니다:
+
+1. **AI 기반 신약 발굴**: 머신러닝과 가상 스크리닝을 활용하여 방대한 천연물 라이브러리에서 효율적으로 활성 화합물을 발굴
+2. **다중 오믹스 통합**: 프로테오믹스, 대사체학, 트랜스크립토믹스 데이터를 통합하여 천연물의 작용 메커니즘을 종합적으로 이해
+3. **네트워크 약리학**: 약용식물-타겟-질병 네트워크 분석을 통해 천연물의 다중타겟 효과와 시너지 작용을 규명
+4. **정밀 의학**: 개별 천연물 성분의 명확한 분자 타겟을 규명하여 정밀 의학 기반 천연물 치료제 개발에 기여
+
+우리는 전통 천연물 화학과 최첨단 AI/오믹스 기술을 융합하여, 천연물 기반 신약 개발의 새로운 패러다임을 제시하고 있습니다.
+
+{% bibliography --cited %}
