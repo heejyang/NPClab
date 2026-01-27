@@ -2,7 +2,7 @@
 layout: page
 title: Chemoproteomics & AI/ML
 description: Target Identification using Chemoproteomics & AI/ML
-img: assets/img/4.jpg
+img: assets/img/project1_2.jpg
 importance: 3
 related_publications: true
 ---

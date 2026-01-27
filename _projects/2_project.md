@@ -2,7 +2,7 @@
 layout: page
 title: Metabolomics
 description: Mass Spectrometry-based Plant Metabolomics
-img: assets/img/3.jpg
+img: assets/img/project2_1.jpg
 importance: 2
 related_publications: true
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Natural Products Discovery
 description: Isolation & Structural Elucidations of Natural Products
-img: assets/img/12.jpg
+img: assets/img/project1_1.jpg
 importance: 1
 related_publications: true
 ---
