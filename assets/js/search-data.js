@@ -446,8 +446,8 @@ ninja.data = [{
           description: "Mass Spectrometry-based Plant Metabolomics",
           section: "Projects",handler: () => {
               window.location.href = "/NPClab/projects/2_project/";
-            },},{id: "projects-chemoproteomics",
-          title: 'Chemoproteomics',
+            },},{id: "projects-chemoproteomics-amp-ai-ml",
+          title: 'Chemoproteomics &amp;amp; AI/ML',
           description: "Target Identification using Chemoproteomics &amp; AI/ML",
           section: "Projects",handler: () => {
               window.location.href = "/NPClab/projects/3_project/";
