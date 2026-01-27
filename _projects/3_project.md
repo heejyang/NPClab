@@ -7,9 +7,49 @@ importance: 3
 related_publications: true
 ---
 
-<div class="row justify-content-center mb-4">
-    <div class="col-sm-12">
-        <p class="lead">우리 연구실은 케모프로테오믹스(Chemoproteomics)와 인공지능/머신러닝(AI/ML)을 융합하여 천연물의 약리 타겟을 발굴하고, 바이오인포매틱스 기법을 통해 약용식물-질병-타겟 네트워크를 체계적으로 분석합니다.</p>
+<div class="row justify-content-center">
+    <div class="col-sm-12 text-center">
+        {% include figure.liquid loading="eager" path="assets/img/project1_2.jpg" title="Chemoproteomics and AI/ML Workflow" class="img-fluid rounded z-depth-1" style="width: 70%;" %}
+        <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
+            Figure 1: AI/ML 기반 천연물 타겟 발굴 연구 흐름도
+        </p>
+    </div>
+</div>
+
+<div class="caption text-justify">
+    <p><strong>Chemoproteomics & AI/ML이란?</strong></p>
+    케모프로테오믹스(Chemoproteomics)는 화학(Chemistry)과 단백체학(Proteomics)을 결합한 학문으로, 천연물이 결합하는 단백질 타겟을 대규모로 동정하는 기술입니다. 우리 연구실은 여기에 인공지능(AI)과 머신러닝(ML)을 융합하여 천연물 기반 신약 개발을 가속화합니다.
+
+    <p><strong>연구 과정</strong></p>
+    1. 천연물 라이브러리 구축 (Natural Product Library): 다양한 약용식물로부터 추출한 천연물 화합물 라이브러리를 구축합니다.
+    2. AI/ML 기반 활성 예측 (AI/ML-based Activity Prediction): 머신러닝 모델을 학습시켜 화합물의 생리활성과 타겟 단백질을 예측합니다.
+    3. 가상 스크리닝 (Virtual Screening): 분자 도킹(Molecular Docking)과 약물동력학 예측을 통해 유망 화합물을 선별합니다.
+    4. 생화학적 검증 (Biochemical Validation): In vitro assay를 통해 예측된 활성을 실험적으로 검증합니다.
+    5. 프로테오믹스 분석 (Proteomics Analysis): LC-MS/MS 기반 프로테오믹스로 천연물이 결합하는 타겟 단백질을 동정합니다.
+    6. 네트워크 약리학 (Network Pharmacology): 약용식물-타겟-질병 네트워크를 구축하여 다중타겟 효과와 작용 메커니즘을 규명합니다.
+    7. In vivo 검증 (In vivo Validation): 동물 모델에서 치료 효능을 검증하고 작용 기전을 확인합니다.
+</div>
+
+<br>
+
+<div class="row align-items-center">
+    <div class="col-sm-7">
+        {% include figure.liquid loading="eager" path="assets/img/project2_2.jpg" title="Network Pharmacology" class="img-fluid rounded z-depth-1" style="width: 100%;" %}
+        <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
+            Figure 2: 네트워크 약리학을 통한 약용식물-타겟-질병 관계 분석
+        </p>
+    </div>
+    <div class="col-sm-5">
+        <p><strong>AI/ML과 Chemoproteomics의 시너지</strong></p>
+        <p>
+        - 효율적인 후보 물질 발굴: AI 모델이 수만 개의 화합물 중에서 활성이 높은 후보를 우선 선별하여 실험 비용과 시간을 획기적으로 단축합니다.
+        <br>
+        - 타겟 예측 정확도 향상: 머신러닝이 화합물-단백질 상호작용 패턴을 학습하여 새로운 타겟을 예측합니다.
+        <br>
+        - 다중타겟 효과 규명: 네트워크 분석을 통해 약용식물의 복합적인 약리 작용을 체계적으로 이해합니다.
+        <br>
+        - 정밀 의학 구현: 개별 화합물의 명확한 분자 타겟을 규명하여 정밀 의학 기반 천연물 치료제를 개발합니다.
+        </p>
     </div>
 </div>
 

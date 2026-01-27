@@ -7,9 +7,48 @@ importance: 2
 related_publications: true
 ---
 
-<div class="row justify-content-center mb-4">
-    <div class="col-sm-12">
-        <p class="lead">우리 연구실은 질량분석(Mass Spectrometry) 기반 대사체학(Metabolomics)을 활용하여 약용식물의 화학적 다양성을 탐구하고, 분자 네트워킹(Molecular Networking) 기술을 통해 대규모 화학 프로파일링을 수행합니다.</p>
+<div class="row justify-content-center">
+    <div class="col-sm-12 text-center">
+        {% include figure.liquid loading="eager" path="assets/img/project2_1.jpg" title="Metabolomics Workflow" class="img-fluid rounded z-depth-1" style="width: 70%;" %}
+        <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
+            Figure 1: Mass Spectrometry-based Metabolomics 연구 흐름도
+        </p>
+    </div>
+</div>
+
+<div class="caption text-justify">
+    <p><strong>Metabolomics란?</strong></p>
+    대사체학(Metabolomics)은 생물체 내에 존재하는 저분자량 대사산물(metabolites)을 포괄적으로 분석하는 학문입니다. 우리 연구실은 질량분석(Mass Spectrometry) 기반 기술을 활용하여 약용식물의 화학적 다양성을 체계적으로 탐구합니다.
+
+    <p><strong>연구 과정</strong></p>
+    1. 시료 준비 (Sample Preparation): 약용식물을 용매로 추출하여 대사산물을 추출합니다.
+    2. LC-MS 분석 (LC-MS Analysis): 액체 크로마토그래피-질량분석(LC-MS)을 통해 수백-수천 개의 대사산물을 동시에 검출합니다.
+    3. 데이터 전처리 (Data Processing): MZmine, MS-DIAL 등의 소프트웨어를 사용하여 피크를 검출하고 정렬합니다.
+    4. 분자 네트워킹 (Molecular Networking): GNPS 플랫폼을 활용하여 구조적으로 유사한 화합물들을 네트워크로 시각화합니다.
+    5. 통계 분석 및 화합물 동정 (Statistical Analysis & Annotation): 다변량 통계 분석과 데이터베이스 검색을 통해 바이오마커를 발굴하고 화합물을 동정합니다.
+    6. 생물학적 해석 (Biological Interpretation): 동정된 대사산물의 생리활성과 약리 작용을 해석합니다.
+</div>
+
+<br>
+
+<div class="row align-items-center">
+    <div class="col-sm-7">
+        {% include figure.liquid loading="eager" path="assets/img/project2_2.jpg" title="Molecular Networking" class="img-fluid rounded z-depth-1" style="width: 100%;" %}
+        <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
+            Figure 2: Molecular Networking을 통한 천연물 화학 프로파일링
+        </p>
+    </div>
+    <div class="col-sm-5">
+        <p><strong>Molecular Networking의 장점</strong></p>
+        <p>
+        - 대규모 데이터 시각화: 수천 개의 화합물을 네트워크 형태로 시각화하여 구조적 유사성을 한눈에 파악할 수 있습니다.
+        <br>
+        - 신규 화합물 발견 가속화: 기지 화합물과의 유사성을 기반으로 신규 유도체를 효율적으로 예측할 수 있습니다.
+        <br>
+        - 표적 분리 전략 수립: 생리활성이 있는 화합물 군집을 선별하여 분리 정제의 우선순위를 결정합니다.
+        <br>
+        - 식물 화학분류학: 식물 종 간의 화학적 차이를 비교하여 분류학적 관계를 규명합니다.
+        </p>
     </div>
 </div>
 
