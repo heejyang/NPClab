@@ -145,7 +145,7 @@ related_publications: true
 #### **5. 신경 보호 화합물**
 
 <div class="row align-items-center mb-4">
-    <div col-sm-12">
+    <div class="col-sm-12">
         <p><strong>버들(Salix pseudo-lasiogyne)의 신경보호 화합물</strong></p>
         <p>버들 가지에서 신경보호 활성을 가진 화합물들을 분리하였으며, 스코폴라민으로 유도된 기억력 감퇴 마우스 모델에서 항기억상실 효과를 확인하였습니다. {% cite yang2013neuroprotective %}</p>
     </div>

@@ -87,7 +87,7 @@ related_publications: true
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>E-p-Methoxycinnamoyl-α-L-rhamnopyranosyl ester의 Nrf2 안정화 메커니현</strong></p>
+        <p><strong>E-p-Methoxycinnamoyl-α-L-rhamnopyranosyl ester의 Nrf2 안정화 메커니즘</strong></p>
         <p>Scrophularia buergeriana에서 분리한 phenylpropanoid가 ubiquitination을 억제하여 Nrf2의 안정성을 증가시키는 메커니즘을 밝혔습니다. {% cite jeong2018epmethoxycinnamoyl %}</p>
     </div>
 </div>
