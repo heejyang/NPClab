@@ -19,6 +19,7 @@ docker compose up
 ```
 
 For a slimmer docker image (<100MB):
+
 ```bash
 docker compose -f docker-compose-slim.yml up
 ```
@@ -73,13 +74,14 @@ This is a Jekyll static site with the following key directories:
 - `_sass/` - SCSS stylesheets
 - `_plugins/` - Custom Jekyll plugins for citations, external posts, etc.
 - `assets/` - Static assets (images, PDFs, JS, CSS)
-  - `assets/json/resume.json` - CV in JSON Resume format (takes precedence over _data/cv.yml)
+  - `assets/json/resume.json` - CV in JSON Resume format (takes precedence over \_data/cv.yml)
 
 ### Content Management
 
 **Publications**: Managed through `_bibliography/papers.bib`. The Jekyll Scholar plugin automatically generates the publications page. Supported BibTeX fields include: abstract, pdf, code, slides, website, blog, arxiv, doi, video, poster.
 
 **CV**: Two options:
+
 1. JSON format at `assets/json/resume.json` (preferred, follows jsonresume.org standard)
 2. YAML fallback at `_data/cv.yml`
 
@@ -88,6 +90,7 @@ This is a Jekyll static site with the following key directories:
 ### Plugin System
 
 Key plugins in `_plugins/`:
+
 - `google-scholar-citations.rb` - Fetches citation counts from Google Scholar
 - `inspirehep-citations.rb` - Fetches citation counts from InspireHEP
 - `external-posts.rb` - Integrates external blog posts
@@ -96,6 +99,7 @@ Key plugins in `_plugins/`:
 ### Deployment
 
 The site deploys automatically via GitHub Actions (`.github/workflows/deploy.yml`) when pushing to `main` or `master` branch. The workflow:
+
 1. Builds the Jekyll site with ImageMagick support for responsive images
 2. Converts Jupyter notebooks using nbconvert
 3. Purges unused CSS with PurgeCSS
@@ -105,7 +109,7 @@ The site deploys automatically via GitHub Actions (`.github/workflows/deploy.yml
 
 ## Configuration Notes
 
-### Site Settings (_config.yml)
+### Site Settings (\_config.yml)
 
 - `url`: Base URL (https://heejyang.github.io)
 - `baseurl`: Subpath (/NPClab) - required for project pages
@@ -115,6 +119,7 @@ The site deploys automatically via GitHub Actions (`.github/workflows/deploy.yml
 ### Jekyll Scholar
 
 Publications are sorted by year (descending) by default. Configuration in `_config.yml`:
+
 - `source: /_bibliography/`
 - `bibliography: papers.bib`
 - `style: apa`
