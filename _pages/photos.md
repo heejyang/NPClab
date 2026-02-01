@@ -70,6 +70,7 @@ nav_order: 4
 {% assign grouped_photos = site.photos | group_by: "year" | sort: "name" | reverse %}
 
 {% for year_group in grouped_photos %}
+
   <div class="lab-gallery-section">
     <h1 class="year-header">{{ year_group.name }}</h1>
 
@@ -87,5 +88,6 @@ nav_order: 4
         {% endfor %}
       </div>
     {% endfor %}
+
   </div>
 {% endfor %}

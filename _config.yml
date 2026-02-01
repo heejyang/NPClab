@@ -23,7 +23,7 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 # Social Integrations
 # -----------------------------------------------------------------------------
-email: heejyang@kangwon.ac.kr  # <-- 여기에 교수님 이메일 입력
+email: heejyang@kangwon.ac.kr # <-- 여기에 교수님 이메일 입력
 # inspire_hep:  <-- 이 줄은 아예 지우거나 주석(#) 처리하세요.
 # semantic_scholar: <-- 필요 없다면 지우세요.
 google_scholar: fO9fNboAAAAJ # <-- 교수님 ID가 맞는지 확인 (맞다면 유지)

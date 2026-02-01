@@ -27,6 +27,7 @@ related_publications: true
     4. 분자 네트워킹 (Molecular Networking): GNPS 플랫폼을 활용하여 구조적으로 유사한 화합물들을 네트워크로 시각화합니다.
     5. 통계 분석 및 화합물 동정 (Statistical Analysis & Annotation): 다변량 통계 분석과 데이터베이스 검색을 통해 바이오마커를 발굴하고 화합물을 동정합니다.
     6. 생물학적 해석 (Biological Interpretation): 동정된 대사산물의 생리활성과 약리 작용을 해석합니다.
+
 </div>
 
 <br>

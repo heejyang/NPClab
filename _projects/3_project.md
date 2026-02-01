@@ -28,6 +28,7 @@ related_publications: true
     5. 프로테오믹스 분석 (Proteomics Analysis): LC-MS/MS 기반 프로테오믹스로 천연물이 결합하는 타겟 단백질을 동정합니다.
     6. 네트워크 약리학 (Network Pharmacology): 약용식물-타겟-질병 네트워크를 구축하여 다중타겟 효과와 작용 메커니즘을 규명합니다.
     7. In vivo 검증 (In vivo Validation): 동물 모델에서 치료 효능을 검증하고 작용 기전을 확인합니다.
+
 </div>
 
 <br>
