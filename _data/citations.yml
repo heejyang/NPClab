@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-02-02'
 papers:
   fO9fNboAAAAJ:-f6ydRqryjwC:
-    citations: 41
+    citations: 42
     title: "Identification of ginsenoside markers from dry purified extract of Panax ginseng by a dereplication approach and UPLC\u2013QTOF/MS analysis"
     year: '2015'
   fO9fNboAAAAJ:08ZZubdj9fEC:
@@ -50,7 +50,7 @@ papers:
     title: Feature-based Molecular Networking in the GNPS Analysis Environment. bioRxiv, 812404
     year: '2019'
   fO9fNboAAAAJ:4TOpqqG69KYC:
-    citations: 13
+    citations: 14
     title: Triterpenoid saponins from Camellia sinensis roots with cytotoxic and immunomodulatory effects
     year: '2023'
   fO9fNboAAAAJ:4fKUyHm3Qg0C:
@@ -70,7 +70,7 @@ papers:
     title: New Pregnane Glycosides Isolated from Stapelia gigantea
     year: '2022'
   fO9fNboAAAAJ:738O_yMBCRsC:
-    citations: 4
+    citations: 5
     title: Identification of novel dimers and chemical profiling of acid amide alkaloids in Piper nigrum
     year: '2024'
   fO9fNboAAAAJ:7PzlFSSx8tAC:
@@ -122,11 +122,11 @@ papers:
     title: A New Phenolic Compound from Lespedeza tomentosa
     year: '2021'
   fO9fNboAAAAJ:IjCSPb-OGe4C:
-    citations: 5
+    citations: 6
     title: Two New Pterocarpans from Lespedeza tomentosa
     year: '2021'
   fO9fNboAAAAJ:JV2RwH3_ST0C:
-    citations: 25
+    citations: 26
     title: Hepatoprotective constituents of Firmiana simplex stem bark against ethanol insult to primary rat hepatocytes
     year: '2015'
   fO9fNboAAAAJ:J_g5lzvAfSwC:
@@ -142,7 +142,7 @@ papers:
     title: The amelioration effect of the ethanolic extract of cnidium officinale in mice with imiquimod-induced psoriasis-like skin lesion
     year: '2018'
   fO9fNboAAAAJ:L8Ckcad2t8MC:
-    citations: 100
+    citations: 101
     title: Anti-influenza activity of betulinic acid from Zizyphus jujuba on influenza A/PR/8 virus
     year: '2015'
   fO9fNboAAAAJ:LPZeul_q3PIC:
@@ -198,7 +198,7 @@ papers:
     title: Anti-inflammatory phenolics isolated from Juniperus rigida leaves and twigs in lipopolysaccharide-stimulated RAW264.7 macrophage cells
     year: '2012'
   fO9fNboAAAAJ:RHpTSmoSYBkC:
-    citations: 30
+    citations: 32
     title: Morin hydrate inhibits influenza virus entry into host cells and has anti-inflammatory effect in influenza-infected mice
     year: '2020'
   fO9fNboAAAAJ:RYcK_YlVTxYC:
@@ -218,7 +218,7 @@ papers:
     title: "E-p-Methoxycinnamoyl-\u03B1-l-rhamnopyranosyl Ester, a Phenylpropanoid Isolated from Scrophularia buergeriana, Increases Nuclear Factor Erythroid-Derived 2 \u2026"
     year: '2018'
   fO9fNboAAAAJ:TFP_iSt0sucC:
-    citations: 107
+    citations: 108
     title: "Hydrolyzable tannins from the fruits of Terminalia chebula Retz and their \u03B1-glucosidase inhibitory activities"
     year: '2017'
   fO9fNboAAAAJ:TQgYirikUcIC:
@@ -258,7 +258,7 @@ papers:
     title: Effect of Gangjihwan on hepatic steatosis and inflammation in high fat diet-fed mice
     year: '2017'
   fO9fNboAAAAJ:WbkHhVStYXYC:
-    citations: 99
+    citations: 100
     title: 'Ginsenoside Rh1: a systematic review of its pharmacological properties'
     year: '2018'
   fO9fNboAAAAJ:Wp0gIr-vW9MC:
@@ -274,7 +274,7 @@ papers:
     title: Targeted Isolation of Cytotoxic Sesquiterpene Lactones from Eupatorium fortunei by the NMR Annotation Tool, SMART 2.0
     year: '2020'
   fO9fNboAAAAJ:YFjsv_pBGBYC:
-    citations: 19
+    citations: 20
     title: Stereochemical assignment of five new lignan glycosides from Viscum album by NMR study combined with CD spectroscopy
     year: '2012'
   fO9fNboAAAAJ:YOwf2qJgpHMC:
@@ -302,7 +302,7 @@ papers:
     title: A study on compliance in self-medication of pulmonary tuberculosis patients
     year: '1998'
   fO9fNboAAAAJ:_Qo2XoVZTnwC:
-    citations: 25
+    citations: 26
     title: The polyherbal drug GGEx18 from Laminaria japonica, Rheum palmatum, and Ephedra sinica inhibits hepatic steatosis and fibroinflammtion in high-fat diet-induced obese mice
     year: '2018'
   fO9fNboAAAAJ:_kc_bZDykSQC:
@@ -342,7 +342,7 @@ papers:
     title: Mass spectrometry data on specialized metabolome of medicinal plants used in East Asian traditional medicine
     year: '2022'
   fO9fNboAAAAJ:d1gkVwhDpl0C:
-    citations: 21
+    citations: 22
     title: A surrogate loss function for optimization of  score in binary classification with imbalanced data
     year: '2021'
   fO9fNboAAAAJ:dfsIfKJdRG4C:
@@ -350,7 +350,7 @@ papers:
     title: "Investigation of Chemical Profiles of Different Parts of Morus alba Using a Combination of Molecular Networking Methods with Mass Spectral Data from Two \u2026"
     year: '2021'
   fO9fNboAAAAJ:dhFuZR0502QC:
-    citations: 172
+    citations: 173
     title: Neuroprotective and anti-inflammatory effects of flavonoids isolated from Rhus verniciflua in neuronal HT22 and microglial BV2 cell lines
     year: '2012'
   fO9fNboAAAAJ:dshw04ExmUIC:
@@ -390,7 +390,7 @@ papers:
     title: "Fast and Simple Discriminative Analysis of Anthocyanins\u2010Containing Berries Using LC/MS Spectral Data"
     year: '2017'
   fO9fNboAAAAJ:geHnlv5EZngC:
-    citations: 1
+    citations: 2
     title: 'Ex Vivo Interaction Between Human Gut Microbiota and Artemisinin: A Multi-Omics Perspective'
     year: '2025'
   fO9fNboAAAAJ:hC7cP41nSMkC:
@@ -482,7 +482,7 @@ papers:
     title: A new phenolic compound from Phedimus middendorffianus with antiproliferative activity
     year: '2020'
   fO9fNboAAAAJ:rO6llkc54NcC:
-    citations: 1501
+    citations: 1521
     title: Feature-based molecular networking in the GNPS analysis environment
     year: '2020'
   fO9fNboAAAAJ:roLk4NBRz8UC:
