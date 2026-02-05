@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Lab of Natural Products Chemistry at Kangwon National University.<br><span style="font-size: 0.9em; color: #828282;">강원대학교 천연물화학 연구실</span>
+subtitle: <a href='#'>Lab of Natural Products Chemistry at Kangwon National University.<br><span style="font-size: 0.9em; color: #828282;">강원대학교 천연물화학 연구실</span></a>
 
 profile:
   align: right
