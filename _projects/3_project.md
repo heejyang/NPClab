@@ -80,22 +80,22 @@ Bionsight와의 산학 협력을 통해 첨단 화학단백체학 기술을 천�
 
 #### **1. 화학단백체학 기술 소개** <span style="color: #666; font-size: 0.9em;">(Chemoproteomics Technology)</span>
 
-<div style="background-color: #f5f5f5; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<div style="background-color: #f5f5f5; padding: 20px; border-radius: 8px; margin-bottom: 20px; color: #212529;">
     <h5 style="color: #1976d2;"><strong>Limited Proteolysis (LiP) 기술의 핵심 원리</strong></h5>
-    <p style="line-height: 1.8;">
+    <p style="line-height: 1.8; color: #333;">
     Limited Proteolysis는 비공유 결합(non-covalent binding)에 의한 단백질의 3D 구조 변화(conformational changes)를 감지하는 혁신적인 화학단백체학 기술입니다. 이 방법은 기존의 공유 결합 기반 프로브와 달리, 약물과 표적 단백질 간의 자연스러운 상호작용을 그대로 관찰할 수 있습니다.
     </p>
 
-    <p><strong>기술적 원리:</strong></p>
-    <ul style="line-height: 1.8;">
+    <p style="color: #212529;"><strong>기술적 원리:</strong></p>
+    <ul style="line-height: 1.8; color: #333;">
         <li><strong>구조 변화 감지</strong>: 저분자 화합물 또는 항체가 표적 단백질에 결합하면, 단백질의 3차원 구조가 미세하게 변화합니다.</li>
         <li><strong>선택적 분해</strong>: 이러한 구조 변화는 특정 부위의 단백질 분해효소(protease) 접근성을 변화시킵니다. 약물이 결합한 부위는 protease로부터 보호되거나, 반대로 더 노출될 수 있습니다.</li>
         <li><strong>질량분석 기반 동정</strong>: 약물 처리군과 대조군의 단백질 분해 패턴을 DIA (Data-Independent Acquisition) 질량분석으로 비교 분석합니다.</li>
         <li><strong>결합 부위 및 구조 변화 매핑</strong>: 분해 패턴의 차이를 통해 약물의 직접 결합 부위뿐만 아니라, allosteric site 등 간접적인 구조 변화까지 전체적으로 규명할 수 있습니다.</li>
     </ul>
 
-    <p><strong>기술적 장점:</strong></p>
-    <ul style="line-height: 1.8;">
+    <p style="color: #212529;"><strong>기술적 장점:</strong></p>
+    <ul style="line-height: 1.8; color: #333;">
         <li><strong>Label-free & Unbiased</strong>: 화학적 변형이나 표지 없이 천연 상태의 약물-단백질 상호작용을 관찰</li>
         <li><strong>Proteome-wide Analysis</strong>: 단일 실험으로 수천 개의 단백질에 대한 상호작용을 동시에 분석</li>
         <li><strong>Allosteric Effects 검출</strong>: 직접 결합 부위뿐만 아니라 원거리 구조 변화까지 감지</li>
@@ -121,12 +121,12 @@ Bionsight와의 산학 협력을 통해 첨단 화학단백체학 기술을 천�
 
 #### **2. 저분자화합물 및 항체의약품의 약물 프로파일링 연구** <span style="color: #666; font-size: 0.9em;">(Drug Profiling Studies)</span>
 
-<div style="background-color: #fff3e0; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<div style="background-color: #fff3e0; padding: 20px; border-radius: 8px; margin-bottom: 20px; color: #212529;">
     <h5 style="color: #e65100;"><strong>약물 프로파일링의 중요성</strong></h5>
-    <p style="line-height: 1.8;">
+    <p style="line-height: 1.8; color: #333;">
     약물 프로파일링(Drug Profiling)은 신약 후보 물질의 <strong>on-target</strong> 및 <strong>off-target</strong> 상호작용을 전체 프로테옴 수준에서 규명하여, 약물의 효능(efficacy)과 안전성(safety)을 조기에 평가하는 핵심 기술입니다. Bionsight의 화학단백체학 플랫폼을 활용하면 다음과 같은 정보를 얻을 수 있습니다:
     </p>
-    <ul style="line-height: 1.8;">
+    <ul style="line-height: 1.8; color: #333;">
         <li><strong>Target Identification</strong>: 약물의 직접적인 결합 타겟 단백질 동정</li>
         <li><strong>Mechanism of Action (MOA)</strong>: 약물이 어떤 신호 경로와 생물학적 프로세스에 영향을 미치는지 규명</li>
         <li><strong>Off-target Profiling</strong>: 의도하지 않은 타겟 결합을 통한 부작용 가능성 예측</li>
@@ -168,8 +168,8 @@ Bionsight와의 산학 협력을 통해 우리 연구실은 다음과 같은 혁
   <li><strong>산업화 기반 구축</strong>: 학술 연구와 산업 응용을 연결하여 천연물 신약의 상업화 가능성 제고</li>
 </ul>
 
-<div style="background-color: #e8f5e9; padding: 15px; border-radius: 8px; border-left: 4px solid #4caf50; margin-top: 20px;">
-    <p style="margin-bottom: 0; line-height: 1.7;"><strong>협력 성과:</strong> Bionsight의 <strong>Javelin™</strong> 및 <strong>SynapSpec™</strong> 플랫폼을 활용하여 천연물 기반 신약 후보 물질의 타겟 발굴, 작용 기전 규명, 안전성 평가를 통합적으로 수행하고 있으며, 전통 천연물 화학과 최첨단 AI/Proteomics 기술을 융합한 새로운 연구 패러다임을 제시하고 있습니다.</p>
+<div style="background-color: #e8f5e9; padding: 15px; border-radius: 8px; border-left: 4px solid #4caf50; margin-top: 20px; color: #212529;">
+    <p style="margin-bottom: 0; line-height: 1.7; color: #333;"><strong>협력 성과:</strong> Bionsight의 <strong>Javelin™</strong> 및 <strong>SynapSpec™</strong> 플랫폼을 활용하여 천연물 기반 신약 후보 물질의 타겟 발굴, 작용 기전 규명, 안전성 평가를 통합적으로 수행하고 있으며, 전통 천연물 화학과 최첨단 AI/Proteomics 기술을 융합한 새로운 연구 패러다임을 제시하고 있습니다.</p>
 </div>
 
 {% bibliography --cited %}
