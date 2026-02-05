@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-",
+    title: "",
     section: "Navigation",
     handler: () => {
       window.location.href = "/NPClab/";
@@ -448,7 +448,7 @@ ninja.data = [{
               window.location.href = "/NPClab/projects/2_project/";
             },},{id: "projects-chemoproteomics-and-ai-ml",
           title: 'Chemoproteomics and AI/ML',
-          description: "Target Identification using Chemoproteomics &amp; AI/ML",
+          description: "Target Identification using Chemoproteomics &amp; AI/ML in collaboration with Bionsight",
           section: "Projects",handler: () => {
               window.location.href = "/NPClab/projects/3_project/";
             },},{
