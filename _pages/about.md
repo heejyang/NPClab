@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Lab of Natural Products Chemistry at Kangwon National University.
+subtitle: <a href='#'>Lab of Natural Products Chemistry at Kangwon National University.<br><span style="font-size: 0.9em; color: #828282;">강원대학교 천연물화학 연구실</span>
 
 profile:
   align: right
@@ -19,13 +19,25 @@ social: true # 하단 소셜 아이콘을 표시합니다.
 ---
 
 ### **Welcome to Lab of Natural Products Science**
+<p style="font-size: 0.95em; color: #555; margin-top: -10px; margin-bottom: 20px;">천연물 과학 연구실에 오신 것을 환영합니다</p>
 
-Our research group, led by **Prof. Heejung Yang**, focuses on the discovery and characterization of bioactive secondary metabolites from various natural sources. We integrate classical **Natural Products Chemistry** with modern **Mass Spectrometry-based Metabolomics** and **Molecular Networking** to explore the chemical diversity of medicinal plants.
+Our research group, led by **Prof. Heejung Yang** <span style="color: #666;">(양희정 교수)</span>, focuses on the discovery and characterization of bioactive secondary metabolites from various natural sources. We integrate classical **Natural Products Chemistry** with modern **Mass Spectrometry-based Metabolomics** and **Molecular Networking** to explore the chemical diversity of medicinal plants.
 
-#### **Core Research Areas**
+<p style="font-size: 0.9em; color: #555; line-height: 1.7; margin-top: 15px;">
+저희 연구실은 다양한 천연물로부터 생리활성 이차대사산물의 발견과 특성 규명에 중점을 두고 있습니다. 고전적인 천연물화학과 현대적인 질량분석 기반 대사체학, 분자 네트워킹 기법을 통합하여 약용식물의 화학적 다양성을 탐구합니다.
+</p>
 
-- **Drug Discovery:** Isolation and structural elucidation of novel anti-inflammatory and anti-viral agents.
-- **Advanced Metabolomics:** Large-scale chemical profiling using GNPS and in silico annotation tools.
-- **Bioinformatics:** Applying machine learning to predict bioactivity and digitize chemotaxonomic data.
+#### **Core Research Areas** <span style="font-size: 0.85em; color: #666; font-weight: normal;">핵심 연구 분야</span>
+
+<ul style="line-height: 1.9;">
+  <li><strong>Drug Discovery</strong> <span style="color: #666;">(신약 발굴)</span>: Isolation and structural elucidation of novel anti-inflammatory and anti-viral agents.<br>
+  <span style="font-size: 0.9em; color: #555;">신규 항염증 및 항바이러스 물질의 분리 및 구조 규명</span></li>
+
+  <li><strong>Advanced Metabolomics</strong> <span style="color: #666;">(첨단 대사체학)</span>: Large-scale chemical profiling using GNPS and in silico annotation tools.<br>
+  <span style="font-size: 0.9em; color: #555;">GNPS 및 전산 주석 도구를 이용한 대규모 화학 프로파일링</span></li>
+
+  <li><strong>Bioinformatics</strong> <span style="color: #666;">(생물정보학)</span>: Applying machine learning to predict bioactivity and digitize chemotaxonomic data.<br>
+  <span style="font-size: 0.9em; color: #555;">기계학습을 적용한 생리활성 예측 및 화학분류학 데이터 디지털화</span></li>
+</ul>
 
 ---

@@ -1,33 +1,49 @@
 ---
 layout: page
 title: Chemoproteomics and AI/ML
-description: Target Identification using Chemoproteomics & AI/ML
+description: Target Identification using Chemoproteomics & AI/ML in collaboration with Bionsight
 img: assets/img/project1_2.jpg
 importance: 3
 related_publications: true
 ---
 
+<div class="row justify-content-center mb-4">
+    <div class="col-sm-12 text-center">
+        <div class="alert alert-info" role="alert" style="background-color: #e3f2fd; border-color: #90caf9;">
+            <h5 style="color: #1976d2; margin-bottom: 10px;">
+                <strong>Industry-Academia Collaboration</strong> <span style="font-size: 0.85em;">(산학 협력)</span>
+            </h5>
+            <p style="margin-bottom: 0; color: #424242;">
+                This project is conducted in collaboration with <a href="https://bionsight.com/" target="_blank" style="color: #1565c0; font-weight: bold;">Bionsight</a>, a leading chemoproteomics company specializing in AI-powered target identification and drug profiling.<br>
+                <span style="font-size: 0.9em;">본 연구는 AI 기반 타겟 발굴 및 약물 프로파일링 전문기업 <a href="https://bionsight.com/" target="_blank" style="color: #1565c0; font-weight: bold;">Bionsight</a>와의 협력으로 진행됩니다.</span>
+            </p>
+        </div>
+    </div>
+</div>
+
 <div class="row justify-content-center">
     <div class="col-sm-12 text-center">
         {% include figure.liquid loading="eager" path="assets/img/project1_2.jpg" title="Chemoproteomics and AI/ML Workflow" class="img-fluid rounded z-depth-1" style="width: 70%;" %}
         <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
-            Figure 1: AI/ML 기반 천연물 타겟 발굴 연구 흐름도
+            Figure 1: AI/ML 기반 화학단백체학을 이용한 타겟 발굴 연구 흐름도
         </p>
     </div>
 </div>
 
 <div class="caption text-justify">
-    <p><strong>Chemoproteomics & AI/ML이란?</strong></p>
-    케모프로테오믹스(Chemoproteomics)는 화학(Chemistry)과 단백체학(Proteomics)을 결합한 학문으로, 천연물이 결합하는 단백질 타겟을 대규모로 동정하는 기술입니다. 우리 연구실은 여기에 인공지능(AI)과 머신러닝(ML)을 융합하여 천연물 기반 신약 개발을 가속화합니다.
+    <p><strong>Chemoproteomics란?</strong></p>
+    화학단백체학(Chemoproteomics)은 화학(Chemistry)과 단백체학(Proteomics)을 결합한 학문으로, 저분자 화합물 또는 항체의약품이 결합하는 단백질 타겟을 대규모로 동정하고, 약물-단백질 상호작용을 체계적으로 규명하는 기술입니다.
 
-    <p><strong>연구 과정</strong></p>
-    1. 천연물 라이브러리 구축 (Natural Product Library): 다양한 약용식물로부터 추출한 천연물 화합물 라이브러리를 구축합니다.
-    2. AI/ML 기반 활성 예측 (AI/ML-based Activity Prediction): 머신러닝 모델을 학습시켜 화합물의 생리활성과 타겟 단백질을 예측합니다.
-    3. 가상 스크리닝 (Virtual Screening): 분자 도킹(Molecular Docking)과 약물동력학 예측을 통해 유망 화합물을 선별합니다.
-    4. 생화학적 검증 (Biochemical Validation): In vitro assay를 통해 예측된 활성을 실험적으로 검증합니다.
-    5. 프로테오믹스 분석 (Proteomics Analysis): LC-MS/MS 기반 프로테오믹스로 천연물이 결합하는 타겟 단백질을 동정합니다.
-    6. 네트워크 약리학 (Network Pharmacology): 약용식물-타겟-질병 네트워크를 구축하여 다중타겟 효과와 작용 메커니즘을 규명합니다.
-    7. In vivo 검증 (In vivo Validation): 동물 모델에서 치료 효능을 검증하고 작용 기전을 확인합니다.
+    <p><strong>Bionsight의 혁신적인 기술</strong></p>
+    Bionsight는 <strong>Javelin™</strong> (AI-Assisted Chemoproteomics Platform)과 <strong>SynapSpec™</strong> (Advanced DIA Mass Spectrometry Analysis Solution)를 통해 AI 기반 화학단백체학 분석을 제공합니다. 이들 플랫폼은 다음과 같은 핵심 기능을 수행합니다:
+    <br><br>
+    - <strong>Target Identification</strong>: AI를 활용한 고품질 치료 타겟 발굴
+    <br>
+    - <strong>Protein Interactions</strong>: 복잡한 단백질-리간드 상호작용 해독 및 작용 기전 규명
+    <br>
+    - <strong>Predictive Models</strong>: 머신러닝 알고리즘을 통한 효능 예측 및 화합물 최적화
+    <br>
+    - <strong>Safety Profiling</strong>: 포괄적인 독성 평가로 후기 단계 실패 감소
 
 </div>
 
@@ -35,151 +51,125 @@ related_publications: true
 
 <div class="row align-items-center">
     <div class="col-sm-7">
-        {% include figure.liquid loading="eager" path="assets/img/project2_2.jpg" title="Network Pharmacology" class="img-fluid rounded z-depth-1" style="width: 100%;" %}
+        {% include figure.liquid loading="eager" path="assets/img/project2_2.jpg" title="Limited Proteolysis Workflow" class="img-fluid rounded z-depth-1" style="width: 100%;" %}
         <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
-            Figure 2: 네트워크 약리학을 통한 약용식물-타겟-질병 관계 분석
+            Figure 2: Limited Proteolysis를 통한 약물-단백질 상호작용 분석
         </p>
     </div>
     <div class="col-sm-5">
-        <p><strong>AI/ML과 Chemoproteomics의 시너지</strong></p>
-        <p>
-        - 효율적인 후보 물질 발굴: AI 모델이 수만 개의 화합물 중에서 활성이 높은 후보를 우선 선별하여 실험 비용과 시간을 획기적으로 단축합니다.
+        <p><strong>Limited Proteolysis 기술의 원리</strong></p>
+        <p style="font-size: 0.95em; line-height: 1.7;">
+        Limited Proteolysis (LiP)는 약물이 단백질에 비공유 결합(non-covalent binding)할 때 유도되는 <strong>3D 구조 변화(conformational changes)</strong>를 감지하는 혁신적인 기술입니다.
+        <br><br>
+        <strong>작동 원리:</strong>
         <br>
-        - 타겟 예측 정확도 향상: 머신러닝이 화합물-단백질 상호작용 패턴을 학습하여 새로운 타겟을 예측합니다.
+        1. 약물이 표적 단백질에 결합하면 단백질의 3차원 구조가 변화합니다.
         <br>
-        - 다중타겟 효과 규명: 네트워크 분석을 통해 약용식물의 복합적인 약리 작용을 체계적으로 이해합니다.
+        2. 이러한 구조 변화는 단백질 분해효소(protease)에 대한 민감도를 변화시킵니다.
         <br>
-        - 정밀 의학 구현: 개별 화합물의 명확한 분자 타겟을 규명하여 정밀 의학 기반 천연물 치료제를 개발합니다.
+        3. 질량분석을 통해 분해 패턴의 차이를 분석하여 약물 결합 부위와 구조 변화를 규명합니다.
         </p>
     </div>
 </div>
 
+### Related Studies
+
+Bionsight와의 산학 협력을 통해 첨단 화학단백체학 기술을 천연물 및 신약 개발 연구에 적용하고 있습니다. 주요 연구 성과를 다음 두 가지 주제로 분류하여 소개합니다.
+
 ---
 
-### **핵심 연구 분야**
+#### **1. 화학단백체학 기술 소개** <span style="color: #666; font-size: 0.9em;">(Chemoproteomics Technology)</span>
 
-#### **1. AI/ML 기반 신약 후보 물질 발굴**
+<div style="background-color: #f5f5f5; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+    <h5 style="color: #1976d2;"><strong>Limited Proteolysis (LiP) 기술의 핵심 원리</strong></h5>
+    <p style="line-height: 1.8;">
+    Limited Proteolysis는 비공유 결합(non-covalent binding)에 의한 단백질의 3D 구조 변화(conformational changes)를 감지하는 혁신적인 화학단백체학 기술입니다. 이 방법은 기존의 공유 결합 기반 프로브와 달리, 약물과 표적 단백질 간의 자연스러운 상호작용을 그대로 관찰할 수 있습니다.
+    </p>
 
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>Machine Learning과 Virtual Screening을 이용한 RORγt 억제제 발굴</strong></p>
-        <p>머신러닝, 가상 스크리닝(virtual screening), 그리고 in vivo 검증을 결합하여 천연물 유래 RORγt (Retinoic acid receptor-related Orphan Receptor gamma t) 억제제를 발굴하였습니다. RORγt는 자가면역질환의 핵심 타겟으로, 본 연구는 AI 기반 천연물 신약 개발의 성공 사례를 제시합니다. {% cite yoo2025discovery %}</p>
-    </div>
+    <p><strong>기술적 원리:</strong></p>
+    <ul style="line-height: 1.8;">
+        <li><strong>구조 변화 감지</strong>: 저분자 화합물 또는 항체가 표적 단백질에 결합하면, 단백질의 3차원 구조가 미세하게 변화합니다.</li>
+        <li><strong>선택적 분해</strong>: 이러한 구조 변화는 특정 부위의 단백질 분해효소(protease) 접근성을 변화시킵니다. 약물이 결합한 부위는 protease로부터 보호되거나, 반대로 더 노출될 수 있습니다.</li>
+        <li><strong>질량분석 기반 동정</strong>: 약물 처리군과 대조군의 단백질 분해 패턴을 DIA (Data-Independent Acquisition) 질량분석으로 비교 분석합니다.</li>
+        <li><strong>결합 부위 및 구조 변화 매핑</strong>: 분해 패턴의 차이를 통해 약물의 직접 결합 부위뿐만 아니라, allosteric site 등 간접적인 구조 변화까지 전체적으로 규명할 수 있습니다.</li>
+    </ul>
+
+    <p><strong>기술적 장점:</strong></p>
+    <ul style="line-height: 1.8;">
+        <li><strong>Label-free & Unbiased</strong>: 화학적 변형이나 표지 없이 천연 상태의 약물-단백질 상호작용을 관찰</li>
+        <li><strong>Proteome-wide Analysis</strong>: 단일 실험으로 수천 개의 단백질에 대한 상호작용을 동시에 분석</li>
+        <li><strong>Allosteric Effects 검출</strong>: 직접 결합 부위뿐만 아니라 원거리 구조 변화까지 감지</li>
+        <li><strong>항체의약품 적용 가능</strong>: 저분자 화합물뿐만 아니라 대분자 항체의 epitope mapping 및 conformational dynamics 분석 가능</li>
+    </ul>
 </div>
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>불균형 데이터를 위한 최적화 알고리즘 개발</strong></p>
-        <p>이진 분류에서 불균형 데이터(imbalanced data)의 F_β score 최적화를 위한 surrogate loss function을 개발하였습니다. 이 방법은 천연물 활성 예측과 같이 양성 데이터가 적은 상황에서 모델 성능을 향상시킵니다. {% cite lee2021surrogate %}</p>
+        <p><strong>AI 기반 화학단백체학 플랫폼: Javelin™ & SynapSpec™</strong></p>
+        <p>Bionsight의 <strong>Javelin™</strong> 플랫폼은 AI를 활용한 화학단백체학 분석 플랫폼으로, Limited Proteolysis 데이터를 머신러닝 알고리즘으로 분석하여 타겟 단백질을 고속으로 동정합니다. <strong>SynapSpec™</strong>는 Advanced DIA 질량분석 솔루션으로, 복잡한 프로테옴 샘플에서 미세한 구조 변화 시그널을 정밀하게 포착합니다. 이러한 통합 플랫폼은 전통적인 화학단백체학 방법 대비 분석 시간을 수개월에서 수주로 단축시킵니다.</p>
     </div>
 </div>
-
-#### **2. 바이오인포매틱스 및 네트워크 분석**
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>약용식물-타겟 네트워크의 군집 분석</strong></p>
-        <p>Multipartite network 기반 군집 분석을 통해 약용식물과 약리 타겟 간의 관계를 체계적으로 분석하였습니다. 이 연구는 약용식물의 다중타겟(multi-target) 효과를 이해하고, 새로운 약리 작용을 예측하는 데 활용됩니다. {% cite lee2021cluster %}</p>
-    </div>
-</div>
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>문헌 기반 생물학적 개체 네트워크 분석</strong></p>
-        <p>문헌에서 동시 출현하는 생물학적 개체(약물, 단백질, 질병 등)의 계층적 네트워크 분석(Hierarchical network analysis)을 수행하였습니다. 이를 통해 숨겨진 약물-타겟-질병 간의 연관성을 발굴할 수 있습니다. {% cite yang2022hierarchical %}</p>
-    </div>
-</div>
-
-#### **3. 프로테오믹스 및 통계 분석 방법론**
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
         <p><strong>정량 프로테오믹스를 위한 Shrinkage-based 통계 검정법</strong></p>
-        <p>Bottom-up 정량 프로테오믹스에서 그룹 간 평균 차이를 검정하기 위한 shrinkage-based 통계 방법을 개발하였습니다. 이 방법은 적은 샘플 수에서도 높은 검정력(statistical power)을 제공하여, 케모프로테오믹스 연구에서 신뢰도 높은 타겟 동정을 가능하게 합니다. {% cite lee2025shrinkage %}</p>
-    </div>
-</div>
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>SLC46A3의 간 구리 항상성 조절 메커니즘 규명</strong></p>
-        <p>Lysosomal transporter SLC46A3가 간세포의 세포질 구리 항상성을 조절하는 메커니즘을 프로테오믹스 및 대사체학 접근법으로 규명하였습니다. 이 연구는 Nature Communications에 발표되었으며, 금속 이온 대사와 관련된 질환 치료 타겟 발굴에 기여합니다. {% cite kim2021lysosomal %}</p>
+        <p>Bottom-up 정량 프로테오믹스에서 그룹 간 평균 차이를 검정하기 위한 shrinkage-based 통계 방법을 개발하였습니다. 이 방법은 적은 샘플 수에서도 높은 검정력(statistical power)을 제공하여, 화학단백체학 연구에서 신뢰도 높은 타겟 동정을 가능하게 합니다. {% cite lee2025shrinkage %}</p>
     </div>
 </div>
 
 ---
 
-### **타겟 검증 및 메커니즘 연구**
+#### **2. 저분자화합물 및 항체의약품의 약물 프로파일링 연구** <span style="color: #666; font-size: 0.9em;">(Drug Profiling Studies)</span>
 
-#### **1. 천연물의 분자 타겟 및 신호 경로 규명**
+<div style="background-color: #fff3e0; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+    <h5 style="color: #e65100;"><strong>약물 프로파일링의 중요성</strong></h5>
+    <p style="line-height: 1.8;">
+    약물 프로파일링(Drug Profiling)은 신약 후보 물질의 <strong>on-target</strong> 및 <strong>off-target</strong> 상호작용을 전체 프로테옴 수준에서 규명하여, 약물의 효능(efficacy)과 안전성(safety)을 조기에 평가하는 핵심 기술입니다. Bionsight의 화학단백체학 플랫폼을 활용하면 다음과 같은 정보를 얻을 수 있습니다:
+    </p>
+    <ul style="line-height: 1.8;">
+        <li><strong>Target Identification</strong>: 약물의 직접적인 결합 타겟 단백질 동정</li>
+        <li><strong>Mechanism of Action (MOA)</strong>: 약물이 어떤 신호 경로와 생물학적 프로세스에 영향을 미치는지 규명</li>
+        <li><strong>Off-target Profiling</strong>: 의도하지 않은 타겟 결합을 통한 부작용 가능성 예측</li>
+        <li><strong>Safety Profiling</strong>: 독성 관련 단백질과의 상호작용 평가로 후기 임상 실패 위험 감소</li>
+    </ul>
+</div>
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>인삼 사포닌 Ginsenoside 20(S)-Rh2의 항암 메커니즘</strong></p>
-        <p>Ginsenoside 20(S)-Rh2가 IL-6로 유도된 JAK2/STAT3 신호 경로를 표적으로 하여 대장암 세포 증식을 억제함을 규명하였습니다. 이는 인삼 사포닌의 명확한 분자 타겟을 제시한 연구입니다. {% cite han2016ginsenoside %}</p>
+        <p><strong>천연물 유래 저분자화합물의 타겟 발굴: RORγt 억제제</strong></p>
+        <p>머신러닝(Machine Learning), 가상 스크리닝(Virtual Screening), 그리고 in vivo 검증을 통합한 AI 기반 파이프라인을 구축하여 천연물 유래 RORγt (Retinoic acid receptor-related Orphan Receptor gamma t) 억제제를 발굴하였습니다. RORγt는 Th17 세포 분화와 자가면역 반응의 핵심 전사인자로, 본 연구는 화학단백체학과 AI/ML을 융합한 천연물 신약 개발의 성공 사례입니다. {% cite yoo2025discovery %}</p>
     </div>
 </div>
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>Amentoflavone의 Nrf2 활성화 경로</strong></p>
-        <p>Amentoflavone이 p38 MAPK-AKT 경로를 통해 산화 스트레스를 유발하고, 이것이 Nrf2 (Nuclear Factor Erythroid 2-Related Factor 2)를 활성화하여 항산화 방어 시스템을 증진시킴을 규명하였습니다. {% cite wahyudi2018amentoflavone %}</p>
+        <p><strong>항체의약품 개발을 위한 Epitope Mapping 및 구조 분석</strong></p>
+        <p>Limited Proteolysis 기술은 항체의약품(antibody therapeutics)의 에피토프(epitope) 매핑에도 활용됩니다. 항체가 항원 단백질에 결합할 때 유도되는 3D 구조 변화를 분석하여, 항체의 정확한 결합 부위와 결합 강도, 그리고 항원-항체 복합체의 구조적 특성을 규명할 수 있습니다. 이는 항체 최적화(antibody engineering) 및 바이오시밀러(biosimilar) 개발에 필수적인 정보를 제공합니다.</p>
     </div>
 </div>
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>E-p-Methoxycinnamoyl-α-L-rhamnopyranosyl ester의 Nrf2 안정화 메커니즘</strong></p>
-        <p>Scrophularia buergeriana에서 분리한 phenylpropanoid가 ubiquitination을 억제하여 Nrf2의 안정성을 증가시키는 메커니즘을 밝혔습니다. {% cite jeong2018epmethoxycinnamoyl %}</p>
-    </div>
-</div>
-
-#### **2. Inflammasome 및 면역 조절 타겟**
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>Obovatol의 다중 inflammasome 억제 효과</strong></p>
-        <p>후박(Magnolia obovata)에서 분리한 obovatol이 NLRP3, AIM2, 그리고 non-canonical inflammasome을 모두 억제하는 광범위한 항염증 효과를 나타냄을 규명하였습니다. {% cite kim2019obovatol %}</p>
-    </div>
-</div>
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>Panaxydol의 NLRP3 inflammasome 억제를 통한 NASH 개선</strong></p>
-        <p>인삼에서 추출한 panaxydol이 NLRP3 inflammasome 활성화를 억제하여 비알코올성 지방간염(NASH)으로 인한 간 손상을 개선시킴을 확인하였습니다. {% cite kim2024panaxydol %}</p>
-    </div>
-</div>
-
-#### **3. 대사 질환 관련 타겟**
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>복합 천연물 처방의 지방간 개선 메커니즘</strong></p>
-        <p>여러 복합 천연물 처방(Gangjihwan, GGEx18, Gambigyeongsinhwan 등)이 SREBP1C, PPARγ, C/EBPα 등의 지방 생성 전사인자를 조절하여 지방간 및 염증을 개선시키는 메커니즘을 규명하였습니다. {% cite jang2018gangjihwan %} {% cite roh2017effect %} {% cite yoon2017effects %} {% cite lim2018polyherbal %}</p>
+        <p><strong>Network Pharmacology: 약용식물-타겟-질병 다중 상호작용 규명</strong></p>
+        <p>Multipartite network 기반 군집 분석을 통해 약용식물 유래 천연물과 약리 타겟 간의 복잡한 상호작용 네트워크를 체계적으로 분석하였습니다. 화학단백체학으로 동정된 다중 타겟(multi-target) 정보를 네트워크로 통합하면, 약용식물의 복합적인 약리 작용과 시너지 효과를 이해하고, 새로운 치료 적응증을 예측할 수 있습니다. {% cite lee2021cluster %} {% cite yang2022hierarchical %}</p>
     </div>
 </div>
 
 ---
 
-### **정량 분석 및 품질 관리**
+### **연구 의의 및 산학 협력의 가치** <span style="color: #666; font-size: 0.9em;">(Research Significance & Value of Collaboration)</span>
 
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>천연물 표준화를 위한 HPLC 정량 분석법 개발</strong></p>
-        <p>다양한 약용식물 추출물의 지표성분을 동시 정량하는 HPLC 분석법을 개발하여 천연물 의약품의 품질 관리에 기여하였습니다. {% cite yoo2020simultaneous %} {% cite jang2018simultaneous %} {% cite jeong2018determination %}</p>
-    </div>
+Bionsight와의 산학 협력을 통해 우리 연구실은 다음과 같은 혁신을 추구합니다:
+
+<ul style="line-height: 1.9;">
+  <li><strong>첨단 기술 접근성</strong>: Limited Proteolysis, AI-driven proteomics 등 최첨단 화학단백체학 기술을 천연물 연구에 적용</li>
+  <li><strong>신약 개발 가속화</strong>: 타겟 발굴부터 안전성 평가까지의 과정을 수개월에서 수주로 단축</li>
+  <li><strong>정밀 의학 구현</strong>: 개별 천연물 성분의 명확한 분자 타겟을 규명하여 정밀 의학 기반 천연물 치료제 개발</li>
+  <li><strong>산업화 기반 구축</strong>: 학술 연구와 산업 응용을 연결하여 천연물 신약의 상업화 가능성 제고</li>
+</ul>
+
+<div style="background-color: #e8f5e9; padding: 15px; border-radius: 8px; border-left: 4px solid #4caf50; margin-top: 20px;">
+    <p style="margin-bottom: 0; line-height: 1.7;"><strong>협력 성과:</strong> Bionsight의 <strong>Javelin™</strong> 및 <strong>SynapSpec™</strong> 플랫폼을 활용하여 천연물 기반 신약 후보 물질의 타겟 발굴, 작용 기전 규명, 안전성 평가를 통합적으로 수행하고 있으며, 전통 천연물 화학과 최첨단 AI/Proteomics 기술을 융합한 새로운 연구 패러다임을 제시하고 있습니다.</p>
 </div>
-
----
-
-### **연구 의의 및 미래 방향**
-
-우리 연구실의 chemoproteomics 및 AI/ML 연구는 다음과 같은 혁신을 추구합니다:
-
-1. **AI 기반 신약 발굴**: 머신러닝과 가상 스크리닝을 활용하여 방대한 천연물 라이브러리에서 효율적으로 활성 화합물을 발굴
-2. **다중 오믹스 통합**: 프로테오믹스, 대사체학, 트랜스크립토믹스 데이터를 통합하여 천연물의 작용 메커니즘을 종합적으로 이해
-3. **네트워크 약리학**: 약용식물-타겟-질병 네트워크 분석을 통해 천연물의 다중타겟 효과와 시너지 작용을 규명
-4. **정밀 의학**: 개별 천연물 성분의 명확한 분자 타겟을 규명하여 정밀 의학 기반 천연물 치료제 개발에 기여
-
-우리는 전통 천연물 화학과 최첨단 AI/오믹스 기술을 융합하여, 천연물 기반 신약 개발의 새로운 패러다임을 제시하고 있습니다.
 
 {% bibliography --cited %}

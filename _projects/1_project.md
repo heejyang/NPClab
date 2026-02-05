@@ -48,152 +48,86 @@ related_publications: true
 
 ### Related Studies
 
-우리 연구실은 다양한 약용식물로부터 생리활성 천연물을 발굴하고 구조를 규명해왔습니다.
+우리 연구실은 다양한 약용식물로부터 생리활성 천연물을 발굴하고 구조를 규명해왔습니다. 주요 연구 성과를 다음 세 가지 주제로 분류하여 소개합니다.
 
-#### **1. 항염증 및 항바이러스 천연물**
+---
+
+#### **1. 신규화합물 연구** <span style="color: #666; font-size: 0.9em;">(Novel Compound Discovery)</span>
+
+신규 천연물의 분리 및 구조 규명을 통해 화학적 다양성을 확대하고 있습니다.
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>Quercetin-3-Methyl Ether의 항바이러스 활성</strong></p>
-        <p>HRV1B (Human Rhinovirus 1B) 바이러스에 대한 quercetin-3-methyl ether의 항바이러스 메커니즘을 규명하였습니다. 이 화합물은 초기 세포자멸사(apoptosis)를 유도하여 바이러스의 면역 회피를 극복하고, 바이러스 복제를 억제하며, 염증 병원성을 완화시키는 것으로 나타났습니다. {% cite song2025quercetin %}</p>
+        <p><strong>산형과 약용식물로부터 신규 chromone 유도체 발굴</strong></p>
+        <p>강활(Ostericum koreanum), 구릿대(Angelica dahurica, A. polymorpha) 등 산형과 식물에서 신규 chromone 화합물들을 분리 및 구조 규명하였습니다. 이들은 전통적으로 진통, 항염 등의 효능으로 사용되어 온 약재로부터 새로운 화학적 실체를 밝혀낸 연구입니다. {% cite lee2023new %} {% cite jeong2024new %} {% cite kim2024new %} {% cite kwon2022new %}</p>
     </div>
 </div>
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>Saucerneol의 항바이러스 메커니즘</strong></p>
-        <p>삼백초(Saururus chinensis)에서 분리한 saucerneol이 장바이러스(Enterovirus A71, Coxsackievirus A16, B3)에 대해 강력한 항바이러스 활성을 나타냄을 확인하였습니다. {% cite song2023saucerneol %}</p>
+        <p><strong>덜꿩나무에서 신규 α-glucosidic hydroquinone 유도체 발견</strong></p>
+        <p>덜꿩나무(Viburnum erosum)에서 신규 α-glucosidic hydroquinone 유도체들을 발굴하고 구조를 규명하였습니다. 이는 당 결합 형태의 새로운 hydroquinone 골격을 가진 화합물로, 천연물 화학의 구조적 다양성을 확장하는 데 기여하였습니다. {% cite park2021alpha %}</p>
     </div>
 </div>
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>Morin Hydrate의 인플루엔자 억제 효과</strong></p>
-        <p>Morin hydrate가 인플루엔자 바이러스의 숙주 세포 침입을 억제하고, 감염된 마우스에서 항염증 효과를 나타냄을 확인하였습니다. {% cite hong2020morin %}</p>
+        <p><strong>다육식물 Stapelia gigantea의 신규 pregnane glycosides</strong></p>
+        <p>아프리카 원산 다육식물인 Stapelia gigantea로부터 신규 pregnane 배당체들을 분리하고 입체화학을 포함한 완전한 구조를 규명하였습니다. Pregnane 골격은 스테로이드 계열의 독특한 화학 구조로, 다양한 생리활성의 기반이 됩니다. {% cite jang2022new %}</p>
     </div>
 </div>
 
-#### **2. 신규 화합물 발견**
+---
+
+#### **2. 생리활성 탐색연구** <span style="color: #666; font-size: 0.9em;">(Bioactivity Exploration)</span>
+
+분리된 천연물의 약리학적 효능을 규명하여 신약 개발 후보 물질을 발굴합니다.
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>약용식물로부터 신규 chromone 유도체 발굴</strong></p>
-        <p>강활(Ostericum koreanum), 구릿대(Angelica dahurica, A. polymorpha) 등 산형과 식물에서 신규 chromone 화합물들을 분리 및 구조 규명하였습니다. {% cite lee2023new %} {% cite jeong2024new %} {% cite kim2024new %} {% cite kwon2022new %}</p>
-    </div>
-</div>
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>Stapelia gigantea의 신규 pregnane glycosides</strong></p>
-        <p>다육식물 Stapelia gigantea로부터 신규 pregnane 배당체들을 분리하고 구조를 규명하였습니다. {% cite jang2022new %}</p>
-    </div>
-</div>
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>검팽나무(Sorbus commixta)의 신규 dibenzofuran</strong></p>
-        <p>검팽나무 수피로부터 신규 dibenzofuran 화합물을 발굴하였습니다. {% cite choi2018new %}</p>
-    </div>
-</div>
-
-#### **3. 세포 보호 및 항산화 활성 천연물**
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>망고나무 잎의 Oxylipin에 의한 Nrf2 활성화</strong></p>
-        <p>Mangifera indica 잎에서 분리한 oxylipin이 Nuclear Factor Erythroid 2-Related Factor-2 (Nrf2)를 활성화하여 항산화 방어 시스템을 증진시킴을 확인하였습니다. {% cite khalil2024activation %}</p>
+        <p><strong>기계학습 기반 RORγt 억제제 발굴 및 in vivo 검증</strong></p>
+        <p>기계학습(Machine Learning), 가상 스크리닝(Virtual Screening), 그리고 in vivo 검증을 통합하여 천연물 유래 RORγt 억제제를 발견하였습니다. RORγt는 자가면역질환의 핵심 표적으로, AI 기반 신약 발굴 플랫폼의 성공적인 사례를 제시하였습니다. {% cite yoo2025discovery %}</p>
     </div>
 </div>
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>동백나무 뿌리의 triterpenoid saponins</strong></p>
-        <p>동백나무(Camellia japonica) 뿌리에서 Nrf2를 활성화하는 triterpenoid saponin들을 분리하였으며, 항산화 유전자 발현을 증가시킴을 확인하였습니다. {% cite ko2018nuclear %} {% cite kim2022camellia %}</p>
+        <p><strong>Quercetin-3-Methyl Ether의 항바이러스 메커니즘 규명</strong></p>
+        <p>HRV1B (Human Rhinovirus 1B) 바이러스에 대한 quercetin-3-methyl ether의 항바이러스 메커니즘을 규명하였습니다. 이 화합물은 초기 세포자멸사(apoptosis)를 유도하여 바이러스의 면역 회피를 극복하고, 바이러스 복제를 억제하며, 염증 병원성을 완화시키는 다면적 항바이러스 효과를 나타냈습니다. {% cite song2025quercetin %}</p>
     </div>
 </div>
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>차나무 뿌리의 saponins와 면역조절 효과</strong></p>
-        <p>차나무(Camellia sinensis) 뿌리에서 세포독성 및 면역조절 효과를 가진 triterpenoid saponin들을 발굴하였습니다. {% cite lee2023camellia %}</p>
+        <p><strong>동백나무 뿌리 유래 Nrf2 활성화 triterpenoid saponins</strong></p>
+        <p>동백나무(Camellia japonica) 뿌리에서 Nuclear Factor Erythroid 2-Related Factor-2 (Nrf2)를 활성화하는 triterpenoid saponin들을 분리하였으며, 항산화 유전자 발현을 증가시켜 산화 스트레스로부터 세포를 보호하는 효과를 확인하였습니다. {% cite ko2018nuclear %} {% cite kim2022camellia %}</p>
     </div>
 </div>
 
-#### **4. 간 보호 및 항염증 화합물**
+---
+
+#### **3. 동시분석 및 정량분석 연구** <span style="color: #666; font-size: 0.9em;">(Simultaneous & Quantitative Analysis)</span>
+
+천연물 품질 관리 및 표준화를 위한 분석법 개발 연구입니다.
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>인삼에서 분리한 Panaxydol의 NASH 개선 효과</strong></p>
-        <p>인삼(Panax ginseng)에서 추출한 panaxydol이 NLRP3 inflammasome 활성화를 억제하여 비알코올성 지방간염(NASH)으로 인한 간 손상을 개선시킴을 확인하였습니다. {% cite kim2024panaxydol %}</p>
-    </div>
-</div>
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>호두나무(Juglans sinensis)의 간 보호 효과</strong></p>
-        <p>호두나무 잎과 가지에서 분리한 triterpene 화합물들이 간세포에 대한 항증식 활성을 나타내며, CCl₄로 유도된 간 산화 스트레스를 완화시킴을 확인하였습니다. {% cite yang2011antiproliferative %} {% cite yang2015ethanolic %} {% cite yang2012cytotoxic %}</p>
-    </div>
-</div>
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>Obovatol의 inflammasome 억제 효과</strong></p>
-        <p>후박(Magnolia obovata)에서 분리한 obovatol이 NLRP3, AIM2, 그리고 non-canonical inflammasome 활성화를 모두 억제함을 밝혔습니다. {% cite kim2019obovatol %}</p>
-    </div>
-</div>
-
-#### **5. 신경 보호 화합물**
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>버들(Salix pseudo-lasiogyne)의 신경보호 화합물</strong></p>
-        <p>버들 가지에서 신경보호 활성을 가진 화합물들을 분리하였으며, 스코폴라민으로 유도된 기억력 감퇴 마우스 모델에서 항기억상실 효과를 확인하였습니다. {% cite yang2013neuroprotective %}</p>
+        <p><strong>인삼 건조 정제 추출물의 ginsenoside 마커 동정</strong></p>
+        <p>Dereplication 접근법과 UPLC-QTOF/MS 분석을 통해 Panax ginseng 건조 정제 추출물에서 ginsenoside 마커 성분들을 신속하게 동정하였습니다. 이는 고품질 인삼 제품의 품질 관리를 위한 효율적인 분석 전략을 제시하였습니다. {% cite yang2015identification %}</p>
     </div>
 </div>
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>옻나무(Rhus verniciflua)의 인지 개선 효과</strong></p>
-        <p>옻나무 수피 추출물과 flavonoid들이 신경보호 및 항염증 활성과 함께 인지 개선 효과를 나타냄을 확인하였습니다. {% cite cho2013cognitive %}</p>
-    </div>
-</div>
-
-#### **6. 항당뇨 화합물**
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>Terminalia chebula의 α-glucosidase 억제제</strong></p>
-        <p>Terminalia chebula 열매에서 hydrolyzable tannin 및 polyhydroxytriterpenoid 유도체들을 분리하였으며, 이들이 α-glucosidase와 α-amylase 억제 활성을 나타내어 항당뇨 소재로서의 가능성을 확인하였습니다. {% cite lee2017hydrolyzable %} {% cite lee2017new %}</p>
+        <p><strong>사철쑥과 인진쑥의 5가지 활성성분 동시 정량 및 판별</strong></p>
+        <p>Artemisia princeps(사철쑥)와 A. capillaris(인진쑥)에서 5가지 활성 화합물의 동시 정량법을 UPLC-DAD 기반으로 확립하고, 다변량 분석을 통해 두 종을 명확히 판별하는 방법을 개발하였습니다. 이는 형태적으로 유사한 약용식물의 과학적 감별에 기여하였습니다. {% cite yang2014simultaneous %}</p>
     </div>
 </div>
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>덜꿩나무(Viburnum erosum)의 α-glucosidic hydroquinone 유도체</strong></p>
-        <p>덜꿩나무에서 신규 α-glucosidic hydroquinone 유도체들을 발굴하였습니다. {% cite park2021alpha %}</p>
-    </div>
-</div>
-
-#### **7. 항암 활성 천연물**
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>인삼 사포닌의 입체이성질체별 항암 활성</strong></p>
-        <p>인삼에서 분리한 ginsenoside Rg3와 Rh2의 20(S)-입체이성질체가 20(R)-형태와 비교하여 뚜렷한 세포독성 및 자가포식(autophagy) 유도 효과 차이를 나타냄을 규명하였습니다. {% cite cheong2015stereoisomer %} {% cite yang2012implication %}</p>
-    </div>
-</div>
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>Ginsenoside 20(S)-Rh2의 대장암 억제 효과</strong></p>
-        <p>Ginsenoside 20(S)-Rh2가 IL-6로 유도된 JAK2/STAT3 신호 경로를 표적으로 하여 대장암 세포에 대한 항암 활성을 나타냄을 확인하였습니다. {% cite han2016ginsenoside %}</p>
-    </div>
-</div>
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>Swietenia mahogany의 B,D-seco limonoids</strong></p>
-        <p>Swietenia mahogany에서 분리한 B,D-seco limonoid들이 항분화(anti-differentiation) 효과를 나타냄을 확인하였습니다. {% cite yang2017antidifferentiation %}</p>
+        <p><strong>천궁(Cnidium Rhizome) 수추출물의 phthalic anhydride 유도체 동시 정량 및 안정성 시험</strong></p>
+        <p>천궁 수추출물에서 senkyunolide A와 Z-ligustilide, 두 가지 phthalic anhydride 유도체의 동시 정량법을 확립하고 안정성 시험을 수행하였습니다. 이는 천궁의 품질 표준화 및 제제 개발에 필수적인 기초 자료를 제공하였습니다. {% cite jang2018simultaneous %}</p>
     </div>
 </div>
 
