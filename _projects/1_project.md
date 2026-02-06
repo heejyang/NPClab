@@ -18,13 +18,13 @@ related_publications: true
 
 <div class="caption text-justify">
     <p><strong>연구 과정</strong></p>
-    1. 추출 (Extraction): 식물을 포함한 다양한 천연 자원(Natural Products)으로부터 유효 성분을 효율적으로 얻어내기 위한 초기 추출 공정입니다.
-    <br><br>
-    2. 분리 정제 (Isolation): 분리용 액체 크로마토그래피(Preparative HPLC) 및 컬럼 크로마토그래피 기술을 활용하여 복합적인 혼합물 상태의 추출물에서 개별 성분들을 정밀하게 분리합니다.
-    <br><br>
-    3. 구조 규명 (Structural Elucidation): 분리된 성분들의 화학적 구조를 밝히기 위해 질량분석(MS) 및 핵자기공명분광(NMR) 분석을 수행합니다. 이를 통해 화합물의 정확한 분자량과 원자 간 결합 형태를 확인합니다.
-    <br><br>
-    4. 신규 단일 화합물 확보 (Novel Single Compounds): 최종적으로 구조가 규명된 순수 단일 화합물을 확보합니다. 이는 향후 신약 후보 물질이나 기능성 소재로 활용될 수 있는 신규 화합물(Novel Compound) 발견의 핵심 성과입니다. 
+    <strong>1. 추출 (Extraction)</strong>: 식물을 포함한 다양한 천연물(Natural Products)으로부터 유효성분을 효율적으로 얻어내기 위한 추출 과정
+    <br>
+    <strong>2. 분리 정제 (Isolation)</strong>: 분석용(Analytical) & 분리용(Preparative) 액체크로마토그래피(HPLC) 및 컬럼크로마토그래피 기술을 활용하여 복합적인 혼합물 상태의 추출물에서 개별성분들을 정밀하게 분리
+    <br>
+    <strong>3. 구조 규명 (Structural Elucidation)</strong>: 분리된 성분들의 화학적 구조를 밝히기 위해 질량분석(MS) 및 핵자기공명분광(NMR) 분석을 수행하고 화합물의 정확한 분자량과 원자 간 결합 형태를 분석
+    <br>
+    <strong>4. 신규 단일 화합물 확보 (Novel Single Compounds)</strong>: 최종적으로 구조가 규명된 순수 단일 화합물을 확보합니다. 이는 향후 신약 후보 물질이나 기능성 소재로 활용될 수 있는 신규 화합물(Novel Compound) 발견의 핵심 성과입니다. 
 </div>
 
 <br>
@@ -139,5 +139,3 @@ related_publications: true
         <p>천궁 수추출물에서 senkyunolide A와 Z-ligustilide, 두 가지 phthalic anhydride 유도체의 동시 정량법을 확립하고 안정성 시험을 수행하였습니다. 이는 천궁의 품질 표준화 및 제제 개발에 필수적인 기초 자료를 제공하였습니다. {% cite jang2018simultaneous %}</p>
     </div>
 </div>
-
-{% bibliography --cited %}

@@ -166,5 +166,3 @@ related_publications: true
   <li><strong>생체시스템 이해</strong>: Multi-omics 접근을 통해 천연물과 장내 미생물 간의 상호작용을 규명</li>
   <li><strong>품질 관리 기술</strong>: 약용식물의 신속한 판별 및 품질 평가 기술 개발로 한약재 표준화에 기여</li>
 </ul>
-
-{% bibliography --cited %}

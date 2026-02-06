@@ -171,5 +171,3 @@ Bionsight와의 산학 협력을 통해 우리 연구실은 다음과 같은 혁
 <div style="background-color: #e8f5e9; padding: 15px; border-radius: 8px; border-left: 4px solid #4caf50; margin-top: 20px; color: #212529;">
     <p style="margin-bottom: 0; line-height: 1.7; color: #333;"><strong>협력 성과:</strong> Bionsight의 <strong>Javelin™</strong> 및 <strong>SynapSpec™</strong> 플랫폼을 활용하여 천연물 기반 신약 후보 물질의 타겟 발굴, 작용 기전 규명, 안전성 평가를 통합적으로 수행하고 있으며, 전통 천연물 화학과 최첨단 AI/Proteomics 기술을 융합한 새로운 연구 패러다임을 제시하고 있습니다.</p>
 </div>
-
-{% bibliography --cited %}
