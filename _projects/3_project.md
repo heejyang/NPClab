@@ -62,11 +62,11 @@ related_publications: true
         Limited Proteolysis (LiP)는 약물이 단백질에 비공유 결합(non-covalent binding)할 때 유도되는 <strong>3D 구조 변화(conformational changes)</strong>를 감지하는 혁신적인 기술입니다.
         <br><br>
         <strong>작동 원리:</strong>
-        <br>
+        <br><br>
         1. 약물이 표적 단백질에 결합하면 단백질의 3차원 구조가 변화합니다.
-        <br>
+        <br><br>
         2. 이러한 구조 변화는 단백질 분해효소(protease)에 대한 민감도를 변화시킵니다.
-        <br>
+        <br><br>
         3. 질량분석을 통해 분해 패턴의 차이를 분석하여 약물 결합 부위와 구조 변화를 규명합니다.
         </p>
     </div>

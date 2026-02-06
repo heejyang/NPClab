@@ -22,10 +22,15 @@ related_publications: true
 
     <p><strong>연구 과정</strong></p>
     1. 시료 준비 (Sample Preparation): 약용식물을 용매로 추출하여 대사산물을 추출합니다.
+    <br><br>
     2. LC-MS 분석 (LC-MS Analysis): 액체 크로마토그래피-질량분석(LC-MS)을 통해 수백-수천 개의 대사산물을 동시에 검출합니다.
+    <br><br>
     3. 데이터 전처리 (Data Processing): MZmine, MS-DIAL 등의 소프트웨어를 사용하여 피크를 검출하고 정렬합니다.
+    <br><br>
     4. 분자 네트워킹 (Molecular Networking): GNPS 플랫폼을 활용하여 구조적으로 유사한 화합물들을 네트워크로 시각화합니다.
+    <br><br>
     5. 통계 분석 및 화합물 동정 (Statistical Analysis & Annotation): 다변량 통계 분석과 데이터베이스 검색을 통해 바이오마커를 발굴하고 화합물을 동정합니다.
+    <br><br>
     6. 생물학적 해석 (Biological Interpretation): 동정된 대사산물의 생리활성과 약리 작용을 해석합니다.
 
 </div>
