@@ -9,9 +9,9 @@ related_publications: true
 
 <div class="row justify-content-center">
     <div class="col-sm-12 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/project2_1.jpg" title="Metabolomics Workflow" class="img-fluid rounded z-depth-1" style="width: 70%;" %}
+        {% include figure.liquid loading="eager" path="assets/img/project2_metabolites.jpg" title="Metabolomics Overview" class="img-fluid rounded z-depth-1" style="width: 90%;" %}
         <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
-            Figure 1: Mass Spectrometry-based Metabolomics 연구 흐름도
+            Figure 1: 대사체학 연구 개요 - 1차/2차 대사산물 및 이종생물질의 포괄적 분석
         </p>
     </div>
 </div>
@@ -37,11 +37,22 @@ related_publications: true
 
 <br>
 
+<div class="row justify-content-center">
+    <div class="col-sm-12 text-center">
+        {% include figure.liquid loading="eager" path="assets/img/project2_1.jpg" title="MS-based Metabolomics Workflow" class="img-fluid rounded z-depth-1" style="width: 70%;" %}
+        <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
+            Figure 2: Mass Spectrometry-based Metabolomics 연구 흐름도
+        </p>
+    </div>
+</div>
+
+<br>
+
 <div class="row align-items-center">
     <div class="col-sm-7">
         {% include figure.liquid loading="eager" path="assets/img/project2_2.jpg" title="Molecular Networking" class="img-fluid rounded z-depth-1" style="width: 100%;" %}
         <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
-            Figure 2: Molecular Networking을 통한 천연물 화학 프로파일링
+            Figure 3: Molecular Networking을 통한 천연물 화학 프로파일링
         </p>
     </div>
     <div class="col-sm-5">
