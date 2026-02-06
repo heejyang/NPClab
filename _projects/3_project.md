@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Chemoproteomics and AI/ML
-description: Target Identification using Chemoproteomics & AI/ML in collaboration with Bionsight
-img: assets/img/Picture3_main.png
+description: Target Identification of Natural Products using Chemoproteomics & AI/ML
+img: assets/img/project3_main.png
 importance: 3
 related_publications: true
 ---

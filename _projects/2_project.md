@@ -2,7 +2,7 @@
 layout: page
 title: Metabolomics
 description: Mass Spectrometry-based Plant Metabolomics
-img: assets/img/project2_main.jepg
+img: assets/img/project2_main.jpeg
 importance: 2
 related_publications: true
 ---
@@ -75,7 +75,7 @@ related_publications: true
 
 ---
 
-#### **1. 분자네트워크 방법론 연구** <span style="color: #666; font-size: 0.9em;">(Molecular Networking Methodology)</span>
+#### **1. 분자네트워크 방법론 연구** <span style="color: #666; font-size: 0.9em;">(Molecular Networking)</span>
 
 천연물 연구를 위한 혁신적인 분석 플랫폼과 도구를 개발하고 있습니다.
 
@@ -129,7 +129,7 @@ related_publications: true
 
 ---
 
-#### **3. 생체물질 대사체학 연구** <span style="color: #666; font-size: 0.9em;">(Biomatrix Metabolomics)</span>
+#### **3. 생체물질 대사체학 연구** <span style="color: #666; font-size: 0.9em;">(Biofluids Metabolomics)</span>
 
 생체 시스템과 천연물의 상호작용을 multi-omics로 규명합니다.
 
