@@ -2,7 +2,7 @@
 layout: page
 title: Chemoproteomics and AI/ML
 description: Target Identification using Chemoproteomics & AI/ML in collaboration with Bionsight
-img: assets/img/project1_2.jpg
+img: assets/img/Picture3_main.png
 importance: 3
 related_publications: true
 ---
@@ -101,6 +101,7 @@ Bionsight와의 산학 협력을 통해 첨단 화학단백체학 기술을 천�
         <li><strong>Allosteric Effects 검출</strong>: 직접 결합 부위뿐만 아니라 원거리 구조 변화까지 감지</li>
         <li><strong>항체의약품 적용 가능</strong>: 저분자 화합물뿐만 아니라 대분자 항체의 epitope mapping 및 conformational dynamics 분석 가능</li>
     </ul>
+
 </div>
 
 <div class="row align-items-center mb-4">
