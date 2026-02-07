@@ -5,6 +5,7 @@ description: Target Identification of Natural Products using Chemoproteomics & A
 img: assets/img/project3_main.png
 importance: 3
 related_publications: true
+published: false
 ---
 
 <div class="row justify-content-center mb-4">
