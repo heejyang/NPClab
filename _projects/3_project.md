@@ -159,6 +159,59 @@ Bionsight와의 산학 협력을 통해 첨단 화학단백체학 기술을 천�
 
 ---
 
+#### **3. 생체물질 대사체학 연구** <span style="color: #666; font-size: 0.9em;">(Metabolomics Research)</span>
+
+<div style="background-color: #f3e5f5; padding: 20px; border-radius: 8px; margin-bottom: 20px; color: #212529;">
+    <h5 style="color: #6a1b9a;"><strong>지질 대사체학: 담즙산 및 타우린 대사 연구</strong></h5>
+    <p style="line-height: 1.8; color: #333;">
+    지질(Lipids)은 생체 내에서 에너지 저장, 세포막 구성, 신호 전달 등 다양한 생물학적 기능을 수행하는 필수 생체분자입니다. 특히 담즙산(Bile Acids)은 간에서 콜레스테롤로부터 합성되어 지질 소화와 흡수를 돕는 주요 생리 활성 물질이며, 장-간 순환(enterohepatic circulation)을 통해 대사 항상성을 조절합니다. 담즙산은 타우린(Taurine) 또는 글리신(Glycine)과 결합하여 <strong>타우린 결합 담즙산(Taurine-Conjugated Bile Acids, TCBA)</strong> 형태로 존재하며, 이는 대사 질환, 노화, 장내 미생물 군집과 밀접한 관련이 있습니다.
+    </p>
+</div>
+
+<div class="row justify-content-center mb-4">
+    <div class="col-sm-12">
+        {% include figure.liquid loading="eager" path="assets/img/project3_lipids.png" title="Bile Acid and Taurine Metabolomics in Aging" class="img-fluid rounded z-depth-1" %}
+        <p style="font-size: 0.8rem; color: #777; margin-top: 5px; text-align: center;">
+            Figure 3: 노화에 따른 담즙산 및 타우린 결합 대사체의 변화 (Bile acid and taurine-conjugated metabolite changes during aging)
+        </p>
+    </div>
+</div>
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>연구 배경 및 방법</strong></p>
+        <p style="line-height: 1.8; color: #333;">
+        노화는 지질 대사의 전반적인 변화를 유도하며, 특히 담즙산 대사의 불균형은 대사 증후군, 염증성 장질환, 인지 기능 저하 등과 연관됩니다. 본 연구에서는 노화 마우스 모델(2개월, 6개월, 12개월, 18개월)을 이용하여 <strong>분변(Fecal)</strong>과 <strong>간(Liver)</strong> 조직에서 담즙산 프로파일링을 수행하였습니다.
+        <br><br>
+        <strong>질량분석 기반 대사체학(Mass Spectrometry-based Metabolomics)</strong> 기법을 활용하여 담즙산의 구조적 특성과 타우린 결합 형태를 정밀 분석하였습니다. 담즙산 구조는 스테로이드 코어(steroid core)에 여러 위치의 수산화(hydroxylation) 가능 부위를 가지며, 타우린과 결합하면 TCBA로 전환됩니다 (Figure 3a). 대표적인 예로 <strong>Cholic Acid (Trihydroxy BA)</strong>는 m/z 319.24 (비결합형) 및 m/z 337.25 (타우린 결합형)으로 검출됩니다.
+        </p>
+    </div>
+</div>
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>주요 연구 결과</strong></p>
+        <ul style="line-height: 1.8; color: #333;">
+            <li><strong>TCBA의 조직별 변화 패턴</strong>: 히트맵 분석 결과, 분변에서는 노화에 따라 TCBA 수준이 점진적으로 증가하는 경향을 보인 반면, 간 조직에서는 초기(2-6개월)에 높은 수준을 유지하다가 고령기(12-18개월)에 감소하는 양상을 나타냈습니다 (Figure 3, center panels). 이는 장-간 순환의 노화 의존적 조절 변화를 시사합니다.</li>
+
+            <li><strong>타우린 관련 대사체의 유의한 증가</strong>: 분변 샘플에서 타우린 자체(Taurine)뿐만 아니라 다양한 타우린 결합 담즙산들(BA_5409, BA_5069, BA_4848, BA_4857 등)이 노화에 따라 유의하게 증가하였습니다 (p < 0.01, p < 0.001) (Figure 3b). NAcT (N-acetyl taurine) 및 기타 타우린 대사체들 역시 고령 그룹에서 log2 fold change 4-8배 이상의 현저한 증가를 보였습니다.</li>
+
+            <li><strong>질량분석 기반 구조 동정</strong>: MS/MS fragmentaion 패턴을 활용하여 타우린 결합 담즙산의 구조를 정밀 동정하였습니다. 특히 precursor ion (m/z 126.0219, taurine) → product ion (m/z 108.0114, dehydrated taurine) transition을 이용한 targeted MS2 분석을 통해 TCBA 화합물을 선택적으로 스크리닝하였습니다 (Figure 3b, right panel).</li>
+        </ul>
+    </div>
+</div>
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>연구 의의</strong></p>
+        <p style="line-height: 1.8; color: #333;">
+        본 연구는 노화 과정에서 담즙산 및 타우린 대사의 변화를 체계적으로 규명한 생체물질 대사체학 연구입니다. 특히 분변 샘플에서 관찰된 TCBA의 현저한 증가는 장내 미생물의 담즙산 대사 활성 변화, 담즙산 재흡수 효율 저하, 또는 간 기능 저하에 따른 이차적 효과로 해석될 수 있습니다. 이러한 발견은 노화 관련 대사 질환의 바이오마커 개발 및 타우린 보충 요법의 과학적 근거를 제공하며, 대사체학 기반 정밀 의학 연구의 모델이 됩니다.
+        </p>
+    </div>
+</div>
+
+---
+
 ### **연구 의의 및 산학 협력의 가치** <span style="color: #666; font-size: 0.9em;">(Research Significance & Value of Collaboration)</span>
 
 Bionsight와의 산학 협력을 통해 우리 연구실은 다음과 같은 혁신을 추구합니다:
