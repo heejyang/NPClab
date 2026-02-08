@@ -16,25 +16,6 @@ related_publications: true
     </div>
 </div>
 
-<div class="caption text-justify">
-    <p><strong>Metabolomics란?</strong></p>
-    대사체학(Metabolomics)은 생물체 내에 존재하는 저분자량 대사산물(metabolites)을 포괄적으로 분석하는 학문입니다. 우리 연구실은 질량분석(Mass Spectrometry) 기반 기술을 활용하여 약용식물의 화학적 다양성을 체계적으로 탐구합니다.
-
-    <p><strong>연구 과정</strong></p>
-    1. 시료 준비 (Sample Preparation): 약용식물을 용매로 추출하여 대사산물을 추출합니다.
-    <br><br>
-    2. LC-MS 분석 (LC-MS Analysis): 액체 크로마토그래피-질량분석(LC-MS)을 통해 수백-수천 개의 대사산물을 동시에 검출합니다.
-    <br><br>
-    3. 데이터 전처리 (Data Processing): MZmine, MS-DIAL 등의 소프트웨어를 사용하여 피크를 검출하고 정렬합니다.
-    <br><br>
-    4. 분자 네트워킹 (Molecular Networking): GNPS 플랫폼을 활용하여 구조적으로 유사한 화합물들을 네트워크로 시각화합니다.
-    <br><br>
-    5. 통계 분석 및 화합물 동정 (Statistical Analysis & Annotation): 다변량 통계 분석과 데이터베이스 검색을 통해 바이오마커를 발굴하고 화합물을 동정합니다.
-    <br><br>
-    6. 생물학적 해석 (Biological Interpretation): 동정된 대사산물의 생리활성과 약리 작용을 해석합니다.
-
-</div>
-
 <br>
 
 <div class="row justify-content-center">
@@ -48,9 +29,30 @@ related_publications: true
 
 <br>
 
+<div class="caption text-justify">
+    <p><strong>Metabolomics란?</strong></p>
+    대사체학(Metabolomics)은 생물체 내에 존재하는 저분자 대사산물(metabolites)을 포괄적으로 분석하는 학문분야입니다. 우리 연구실은 질량분석(Mass Spectrometry) 기반 기술을 활용하여 약용식물의 화학적 다양성을 체계적으로 탐구합니다.
+
+    <p><strong>연구 과정</strong></p>
+    1. 시료 준비 (Sample Preparation): 시료를 추출용매로 대사산물을 추출합니다.
+    <br>
+    2. LC-MS 분석 (LC-MS Analysis): 액체크로마토그래피-질량분석(LC-MS)을 통해 수백-수천 개의 대사산물을 동시에 검출합니다.
+    <br>
+    3. 데이터 전처리 (Data Processing): 다양한 데이터 전처리 소프트웨어 도구를 사용하여 피크를 검출하여 전처리합니다.
+    <br>
+    4. 분자 네트워킹 (Molecular Networking): 구조적으로 유사한 화합물들을 분자네트워킹 플랫폼으로 네트워크 형태로 시각화합니다.
+    <br>
+    5. 통계분석 및 화합물 동정 (Statistical Analysis & Annotation): 다변량 통계분석이나 군집분석 방법 및 데이터베이스 검색을 통해 바이오마커를 발굴하고 화합물을 동정합니다. 경우에 따라서는 실제 물질분리 및 동정을 거친 화합물을 활용하여 화합물을 확인 (Identification)하기도 합니다.
+    <br>
+    6. 생물학적 해석 (Biological Interpretation): 동정된 대사산물의 생리활성과 약리작용 간의 상관관계 분석을 통해 바이오마커를 확인하고, 그 생물학적 의미를 해석합니다.
+
+</div>
+
+<br>
+
 <div class="row align-items-center">
     <div class="col-sm-7">
-        {% include figure.liquid loading="eager" path="assets/img/project2_2.jpg" title="Molecular Networking" class="img-fluid rounded z-depth-1" style="width: 100%;" %}
+        {% include figure.liquid loading="eager" path="assets/img/project2_2.png" title="Molecular Networking" class="img-fluid rounded z-depth-1" style="width: 100%;" %}
         <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
             Figure 3: Molecular Networking을 통한 천연물 화학 프로파일링
         </p>
@@ -75,34 +77,7 @@ related_publications: true
 
 ---
 
-#### **1. 분자네트워크 방법론 연구** <span style="color: #666; font-size: 0.9em;">(Molecular Networking)</span>
-
-천연물 연구를 위한 혁신적인 분석 플랫폼과 도구를 개발하고 있습니다.
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>GNPS Feature-based Molecular Networking 방법론 개발</strong></p>
-        <p>Global Natural Products Social Molecular Networking (GNPS) 플랫폼의 Feature-based Molecular Networking 방법론 개발에 핵심 참여자로 기여하였습니다. 이 기술은 질량분석 데이터에서 분자 구조 유사성을 자동으로 시각화하고, 신규 화합물 발견을 가속화하는 혁신적인 도구로 전 세계 천연물 연구자들이 널리 사용하고 있습니다. {% cite nothias2020feature %}</p>
-    </div>
-</div>
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>Repository-scale Open Access Spectral Library 구축</strong></p>
-        <p>대규모 천연물 대사체 동정을 위한 open access spectral library 구축 프로젝트에 참여하였습니다. 이 라이브러리는 propagated nearest neighbor suspect spectral matching을 활용하여 untargeted metabolomics에서 화합물 동정의 정확도와 커버리지를 획기적으로 향상시켰습니다. {% cite bittremieux2023library %}</p>
-    </div>
-</div>
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>plantMASST: 커뮤니티 주도형 식물 화학분류학 디지털화 플랫폼</strong></p>
-        <p>커뮤니티 주도형 식물 화학분류학(chemotaxonomy) 디지털화 플랫폼 plantMASST 개발에 참여하였습니다. 이 플랫폼은 MASST (Mass Spectrometry Search Tool) 기술을 활용하여 식물의 화학적 특성을 체계적으로 분류하고 비교할 수 있게 하며, 전 세계 연구자들이 데이터를 공유하고 협력할 수 있는 생태계를 구축하였습니다. {% cite gomes2024plantmasst %}</p>
-    </div>
-</div>
-
----
-
-#### **2. 식물대사체학 연구** <span style="color: #666; font-size: 0.9em;">(Plant Metabolomics)</span>
+#### **1. 식물대사체학 연구** <span style="color: #666; font-size: 0.9em;">(Plant Metabolomics)</span>
 
 약용식물의 화학적 다양성을 규명하고 품질 관리 기술을 개발합니다.
 
@@ -129,7 +104,7 @@ related_publications: true
 
 ---
 
-#### **3. 생체물질 대사체학 연구** <span style="color: #666; font-size: 0.9em;">(Biofluids Metabolomics)</span>
+#### **2. 생체물질 대사체학 연구** <span style="color: #666; font-size: 0.9em;">(Biofluids Metabolomics)</span>
 
 생체 시스템과 천연물의 상호작용을 multi-omics로 규명합니다.
 
@@ -203,13 +178,27 @@ related_publications: true
 
 ---
 
-### **연구 의의** <span style="color: #666; font-size: 0.9em;">(Research Significance)</span>
+#### **3. 분자네트워크 방법론 연구** <span style="color: #666; font-size: 0.9em;">(Molecular Networking)</span>
 
-우리 연구실의 대사체학 연구는 다음과 같은 기여를 하고 있습니다:
+분자네트워크 방법론은 UCSD의 Prof. Pieter Dorrestein 연구실 (https://dorresteinlab.ucsd.edu/pieter)에서 개발한 Global Natural Products Social Molecular Networking (GNPS) 플랫폼 기술에서 처음 소개되었습니다.우리 연구실은 분자네트워크 방법 및 다양한 분석기술을 이용해 천연물 내 다양한 화합물의 다양성에 대해 연구를 하고 있습니다. 분자네트워크 방법에 대한 이해는 아래의 연구 논문을 참고해주세요.
 
-<ul style="line-height: 1.9;">
-  <li><strong>방법론 혁신</strong>: GNPS 플랫폼의 핵심 기술 개발에 참여하여 전 세계 천연물 연구자들이 사용할 수 있는 도구를 제공</li>
-  <li><strong>데이터 공유</strong>: 동아시아 약용식물의 대규모 질량분석 데이터를 Scientific Data를 통해 공개하여 학계에 기여</li>
-  <li><strong>생체시스템 이해</strong>: Multi-omics 접근을 통해 천연물과 장내 미생물 간의 상호작용을 규명</li>
-  <li><strong>품질 관리 기술</strong>: 약용식물의 신속한 판별 및 품질 평가 기술 개발로 한약재 표준화에 기여</li>
-</ul>
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>GNPS Feature-based Molecular Networking 방법론 개발</strong></p>
+        <p> GNPS 플랫폼의 Feature-based Molecular Networking 방법론에 대한 연구논문으로, 질량분석 데이터에서 분자 구조 유사성을 자동으로 시각화하고, 신규 화합물 발견을 가속화하는 혁신적인 도구로 다방면으로 천연물 연구자들이 널리 사용하고 있습니다. {% cite nothias2020feature %}</p>
+    </div>
+</div>
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>Repository-scale Open Access Spectral Library 구축</strong></p>
+        <p>대규모 천연물 대사체 동정을 위한 open access spectral library 구축 프로젝트로 propagated nearest neighbor suspect spectral matching을 활용하여 untargeted metabolomics에서 화합물 동정의 정확도와 커버리지를 획기적으로 향상시켰습니다. {% cite bittremieux2023library %}</p>
+    </div>
+</div>
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <p><strong>plantMASST: 커뮤니티 주도형 식물 화학분류학 디지털화 플랫폼</strong></p>
+        <p>커뮤니티 주도형 식물 화학분류학(chemotaxonomy) 디지털화 플랫폼 plantMASST 개발에 관련된 논문으로, 이 플랫폼은 MASST (Mass Spectrometry Search Tool) 기술을 활용하여 식물의 화학적 특성을 체계적으로 분류하고 비교할 수 있게 하여, 저장소에 존재하는 유사한 화합물의 분포를 확인할 수 있습니다.. {% cite gomes2024plantmasst %}</p>
+    </div>
+</div>
