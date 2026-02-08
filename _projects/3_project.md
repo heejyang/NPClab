@@ -199,6 +199,7 @@ Bionsight와의 산학 협력을 통해 첨단 화학단백체학 기술을 천�
             <li><strong>질량분석 기반 구조 동정</strong>: MS/MS fragmentaion 패턴을 활용하여 타우린 결합 담즙산의 구조를 정밀 동정하였습니다. 특히 precursor ion (m/z 126.0219, taurine) → product ion (m/z 108.0114, dehydrated taurine) transition을 이용한 targeted MS2 분석을 통해 TCBA 화합물을 선택적으로 스크리닝하였습니다 (Figure 3b, right panel).</li>
         </ul>
     </div>
+
 </div>
 
 <div class="row align-items-center mb-4">
