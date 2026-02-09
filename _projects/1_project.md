@@ -7,53 +7,83 @@ importance: 1
 related_publications: true
 ---
 
-<div class="row justify-content-center">
-    <div class="col-sm-12 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/project1_1.jpg" title="Workflow of Natural Products Discovery" class="img-fluid rounded z-depth-1" style="width: 70%;" %}
-        <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
-            Figure 1: General workflow for bioactive compound discovery from medicinal plants. Created and modified by Gemini
-        </p>
-    </div>
-</div>
-
-<div class="caption text-justify">
-    <p><strong>연구 과정</strong></p>
-    <strong>1. 추출 (Extraction)</strong>: 식물을 포함한 다양한 천연물(Natural Products)으로부터 유효성분을 효율적으로 얻어내기 위한 추출 과정
-    <br>
-    <strong>2. 분리 정제 (Isolation)</strong>: 분석용(Analytical) & 분리용(Preparative) 액체크로마토그래피(HPLC) 및 컬럼크로마토그래피 기술을 활용하여 복합적인 혼합물 상태의 추출물에서 개별성분들을 정밀하게 분리
-    <br>
-    <strong>3. 구조 규명 (Structural Elucidation)</strong>: 분리된 성분들의 화학적 구조를 밝히기 위해 질량분석(MS) 및 핵자기공명분광(NMR) 분석을 수행하고 화합물의 정확한 분자량과 원자 간 결합 형태를 분석
-    <br>
-    <strong>4. 신규 단일 화합물 확보 (Novel Single Compounds)</strong>: 최종적으로 구조가 규명된 순수 단일 화합물을 확보합니다. 이는 향후 신약 후보 물질이나 기능성 소재로 활용될 수 있는 신규 화합물(Novel Compound) 발견의 핵심 성과입니다. 
-</div>
-
-<br>
-
 <div class="row align-items-center">
 <div class="col-sm-7">
-        {% include figure.liquid loading="eager" path="assets/img/project1_2.jpg" title="Quantitative study of Natural Products" class="img-fluid rounded z-depth-1" style="width: 100%;" %}
+        {% include figure.liquid loading="eager" path="assets/img/project1_1.jpg" title="Workflow of Natural Products Discovery" class="img-fluid rounded z-depth-1" style="width: 70%;" %}
         <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
             Figure 2: Instrumental setup for LC/MS-based quantitative analysis. Created by Biorender
         </p>
     </div>
     <div class="col-sm-5">
         <p><strong>연구 과정</strong></p>
-        <p>
-        1. 용매 저장소 및 기울기 용리 (Solvent & Gradient): 분석 목적에 맞는 이동상(Mobile Phase) 용매를 준비하고, 시간에 따라 용매 조성을 변화시키는 기울기 용리 시스템을 설정합니다.
-        <br><br>
-        2. 고압 펌프 (High Pressure Pump): 이동상을 일정한 속도와 높은 압력으로 시스템 전체에 전달합니다.
-        <br><br>
-        3. 시료 주입 (Sample Injection): 분석하고자 하는 천연물 추출물을 시스템 내로 주입합니다. 이때 시료는 분석 물질(Analytes)과 기타 불순물(Impurities)이 섞인 상태입니다.
-        <br><br>
-        4. 컬럼 분리 (Column Separation): 가드 컬럼 (Pre-column)은 분석 컬럼을 보호하고 불순물을 1차적으로 거릅니다.
-        <br><br>
-        5. 분석 컬럼 (Analytical Column): C18 등 고정상을 이용하여 혼합물 속의 성분들을 물리·화학적 특성에 따라 정교하게 분리합니다.
-        <br><br>
-        6. 검출 및 데이터 획득 (Detection & Data Acquisition): UV-VIS 검출기로 분리된 성분들이 빛을 흡수하는 정도를 측정하여 신호를 감지합니다.
-        <br><br>
-        7. 데이터 분석: 검출된 신호를 크로마토그램으로 변환하여 지표성분의 양을 정량적으로 산출합니다.</p>
+    <strong>1. 추출 (Extraction)</strong>: 식물을 포함한 다양한 천연물(Natural Products)으로부터 유효성분을 효율적으로 얻어내기 위한 추출 과정
+    <br>
+    <strong>2. 분리 정제 (Isolation)</strong>: 분석용(Analytical) & 분리용(Preparative) 액체크로마토그래피(HPLC) 및 컬럼크로마토그래피 기술을 활용하여 복합적인 혼합물 상태의 추출물에서 개별성분들을 정밀하게 분리
+    <br>
+    <strong>3. 구조 규명 (Structural Elucidation)</strong>: 분리된 성분들의 화학적 구조를 밝히기 위해 질량분석(MS) 및 핵자기공명분광(NMR) 분석을 수행하고 화합물의 정확한 분자량과 원자 간 결합 형태를 분석
+    <br>
+    <strong>4. 신규 단일 화합물 확보 (Novel Single Compounds)</strong>: 구조가 규명된 단일 생리활성 화합물을 확보
     </div>
 </div>
+
+---
+
+### 구조분석 기술: MS와 NMR의 역할
+
+분리된 천연물의 정확한 화학 구조를 규명하기 위해서는 질량분석(Mass Spectrometry, MS)과 핵자기공명분광(Nuclear Magnetic Resonance, NMR)이 핵심적인 역할을 합니다. 이 두 분석법은 상호보완적으로 작용하여 화합물의 완전한 구조 정보를 제공합니다.
+
+<div class="row mt-3 mb-4">
+    <div class="col-sm-6">
+        <h4 style="font-size: 1.1rem; color: #2c5f2d;">질량분석(MS)</h4>
+        <p><strong>분자량 정보 제공</strong></p>
+        <ul style="font-size: 0.95rem;">
+            <li><strong>High-Resolution MS (HRMS)</strong>: 정밀한 분자량 측정을 통해 분자식(molecular formula)을 결정. 예를 들어, m/z 302.0447이 관찰되면 C₁₅H₁₀O₇의 분자식을 추정할 수 있음.</li>
+            <li><strong>MS/MS (Tandem MS)</strong>: 화합물을 단편화(fragmentation)시켜 부분 구조 정보 확인. 특정 작용기의 존재 여부를 확인하고 구조 추정의 단서 제공.</li>
+            <li><strong>Dereplication</strong>: MS 데이터를 데이터베이스와 비교하여 이미 알려진 화합물인지 신규 화합물인지 신속하게 판별.</li>
+        </ul>
+    </div>
+    <div class="col-sm-6">
+        <h4 style="font-size: 1.1rem; color: #2c5f2d;">핵자기공명분광(NMR)</h4>
+        <p><strong>원자 수준의 구조 정보</strong></p>
+        <ul style="font-size: 0.95rem;">
+            <li><strong>¹H NMR</strong>: 수소 원자의 화학적 환경과 수를 파악하여 작용기의 종류와 위치 결정.</li>
+            <li><strong>¹³C NMR</strong>: 탄소 골격 구조를 밝히고, 탄소의 화학적 환경(sp³, sp², carbonyl 등) 구분.</li>
+            <li><strong>2D NMR (COSY, HSQC, HMBC 등)</strong>: 원자 간의 연결성(connectivity)을 밝혀 분자의 완전한 골격 구조결정. HMBC는 2-3 결합 떨어진 수소-탄소 상관관계를 제공하여 분자의 장거리 연결성 파악.</li>
+            <li><strong>NOESY/ROESY</strong>: 공간적으로 가까운 원자들 간의 관계를 규명하여 입체화학(stereochemistry) 결정.</li>
+        </ul>
+    </div>
+</div>
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-12">
+        <h4 style="font-size: 1.1rem; color: #2c5f2d;">통합 구조 규명 전략</h4>
+        <p>MS와 NMR 데이터를 종합하여 다음과 같은 단계로 구조를 규명합니다:</p>
+        <ol style="font-size: 0.95rem;">
+            <li><strong>분자식 결정</strong>: HRMS로부터 정확한 분자량과 분자식 확인.</li>
+            <li><strong>작용기 확인</strong>: ¹H, ¹³C NMR 스펙트럼과 필요시 IR 데이터를 통해 주요 작용기(hydroxyl, carbonyl, aromatic 등)의 존재 확인.</li>
+            <li><strong>골격 구조 결정</strong>: 2D NMR (COSY, HSQC, HMBC)을 통해 원자 간 연결성을 파악하고 분자의 평면 구조 완성.</li>
+            <li><strong>입체화학 결정</strong>: NOESY/ROESY와 커플링 상수(coupling constants) 분석을 통해 3차원 입체 구조 결정.</li>
+            <li><strong>in silico 구조규명</strong>: 최신 연구에서는 NMR 데이터를 인공지능(AI)과 기계학습(ML) 알고리즘으로 구조규명의 정확도와 효율성을 높이고 있음.</li>
+        </ol>
+    </div>
+</div>
+
+<div class="row align-items-center mb-4">
+    <div class="col-sm-8">
+        {% include figure.liquid loading="eager" path="assets/img/project1_2.jpg" title="HPLC System Workflow" class="img-fluid rounded z-depth-1" %}
+        <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
+            Figure 3: HPLC 시스템의 구성 요소. 천연물 분리 정제에 필수적인 HPLC는 MS 및 NMR 분석을 위한 고순도 시료를 제공합니다.
+        </p>
+    </div>
+    <div class="col-sm-4">
+        <p style="font-size: 0.95rem;">
+            <strong>분석 순서</strong><br>
+            천연물 추출물 → HPLC 분리 정제 → 고순도 화합물 획득 → MS 분석 (분자량/분자식) → NMR 분석 (구조 결정) → 구조 확정
+        </p>
+    </div>
+</div>
+
+---
 
 ### Related Studies
 
