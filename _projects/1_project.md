@@ -7,11 +7,13 @@ importance: 1
 related_publications: true
 ---
 
+### 물질분리 기술: 크로마토그래피법의 이해
+
 <div class="row align-items-center">
 <div class="col-sm-7">
         {% include figure.liquid loading="eager" path="assets/img/project1_1.jpg" title="Workflow of Natural Products Discovery" class="img-fluid rounded z-depth-1" style="width: 70%;" %}
         <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
-            Figure 2: Instrumental setup for LC/MS-based quantitative analysis. Created by Biorender
+            Figure 1: Instrumental setup for LC/MS-based quantitative analysis. Created by Biorender
         </p>
     </div>
     <div class="col-sm-5">
@@ -63,7 +65,7 @@ related_publications: true
             <li><strong>작용기 확인</strong>: ¹H, ¹³C NMR 스펙트럼과 필요시 IR 데이터를 통해 주요 작용기(hydroxyl, carbonyl, aromatic 등)의 존재 확인.</li>
             <li><strong>골격 구조 결정</strong>: 2D NMR (COSY, HSQC, HMBC)을 통해 원자 간 연결성을 파악하고 분자의 평면 구조 완성.</li>
             <li><strong>입체화학 결정</strong>: NOESY/ROESY와 커플링 상수(coupling constants) 분석을 통해 3차원 입체 구조 결정.</li>
-            <li><strong>in silico 구조규명</strong>: 최신 연구에서는 NMR 데이터를 인공지능(AI)과 기계학습(ML) 알고리즘으로 구조규명의 정확도와 효율성을 높이고 있음.</li>
+            <li><strong>in silico 구조규명</strong>: 최신 연구에서는 NMR 데이터를 인공지능(AI)과 기계학습(ML) 알고리즘으로 구조규명의 정확도와 효율성을 높일 수 있음.</li>
         </ol>
     </div>
 </div>
@@ -72,7 +74,7 @@ related_publications: true
     <div class="col-sm-8">
         {% include figure.liquid loading="eager" path="assets/img/project1_2.jpg" title="HPLC System Workflow" class="img-fluid rounded z-depth-1" %}
         <p style="font-size: 0.8rem; color: #777; margin-top: 5px;">
-            Figure 3: HPLC 시스템의 구성 요소. 천연물 분리 정제에 필수적인 HPLC는 MS 및 NMR 분석을 위한 고순도 시료를 제공합니다.
+            Figure 2: HPLC Analysis Workflow. Created by Biorender
         </p>
     </div>
     <div class="col-sm-4">
@@ -97,22 +99,22 @@ related_publications: true
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>산형과 약용식물로부터 신규 chromone 유도체 발굴</strong></p>
-        <p>강활(Ostericum koreanum), 구릿대(Angelica dahurica, A. polymorpha) 등 산형과 식물에서 신규 chromone 화합물들을 분리 및 구조 규명하였습니다. 이들은 전통적으로 진통, 항염 등의 효능으로 사용되어 온 약재로부터 새로운 화학적 실체를 밝혀낸 연구입니다. {% cite lee2023new %} {% cite jeong2024new %} {% cite kim2024new %} {% cite kwon2022new %}</p>
+        <p><strong>동백나무 뿌리로부터 Nrf2 활성화 triterpenoidal saponins 분리</strong></p>
+        <p>동백나무(Camellia japonica) 뿌리에서 Nuclear Factor Erythroid 2-Related Factor 2 (Nrf2)를 활성화하는 신규 triterpenoid saponin들을 분리하고 구조를 규명하였습니다. 이들 화합물은 항산화 방어 시스템을 강화하여 산화 스트레스로부터 세포를 보호하는 효과를 나타냈으며, 천연물 기반 항산화제 개발의 가능성을 제시하였습니다. {% cite ko2018nuclear %} {% cite kim2022camellia %}</p>
     </div>
 </div>
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>덜꿩나무에서 신규 α-glucosidic hydroquinone 유도체 발견</strong></p>
-        <p>덜꿩나무(Viburnum erosum)에서 신규 α-glucosidic hydroquinone 유도체들을 발굴하고 구조를 규명하였습니다. 이는 당 결합 형태의 새로운 hydroquinone 골격을 가진 화합물로, 천연물 화학의 구조적 다양성을 확장하는 데 기여하였습니다. {% cite park2021alpha %}</p>
+        <p><strong>차나무 뿌리에서 세포독성 및 면역조절 효과 triterpenoid saponins 발견</strong></p>
+        <p>차나무(Camellia sinensis) 뿌리로부터 세포독성 및 면역조절 효과를 가진 triterpenoid saponin들을 분리하였습니다. 이들 화합물은 암세포에 대한 세포독성과 함께 면역 기능을 조절하는 이중 효과를 나타내어, 천연물 기반 항암 및 면역조절제 개발의 가능성을 제시하였습니다. {% cite lee2023camellia %}</p>
     </div>
 </div>
 
 <div class="row align-items-center mb-4">
     <div class="col-sm-12">
-        <p><strong>다육식물 Stapelia gigantea의 신규 pregnane glycosides</strong></p>
-        <p>아프리카 원산 다육식물인 Stapelia gigantea로부터 신규 pregnane 배당체들을 분리하고 입체화학을 포함한 완전한 구조를 규명하였습니다. Pregnane 골격은 스테로이드 계열의 독특한 화학 구조로, 다양한 생리활성의 기반이 됩니다. {% cite jang2022new %}</p>
+        <p><strong>담수 곰팡이 Talaromyces gwangjuensis에서 autophagy 활성화 물질 분리</strong></p>
+        <p>담수에서 분리된 곰팡이 Talaromyces gwangjuensis로부터 cyclodepsipeptide와 fatty acid lactone 화합물들을 분리하고 구조를 규명하였습니다. 이들 화합물은 autophagy(자가포식) 활성화 효과를 나타내어, 신경퇴행성 질환 및 노화 관련 질환의 치료제 개발에 응용 가능성을 보였습니다. {% cite mai2025talaromyces %}</p>
     </div>
 </div>
 
@@ -133,13 +135,6 @@ related_publications: true
     <div class="col-sm-12">
         <p><strong>Quercetin-3-Methyl Ether의 항바이러스 메커니즘 규명</strong></p>
         <p>HRV1B (Human Rhinovirus 1B) 바이러스에 대한 quercetin-3-methyl ether의 항바이러스 메커니즘을 규명하였습니다. 이 화합물은 초기 세포자멸사(apoptosis)를 유도하여 바이러스의 면역 회피를 극복하고, 바이러스 복제를 억제하며, 염증 병원성을 완화시키는 다면적 항바이러스 효과를 나타냈습니다. {% cite song2025quercetin %}</p>
-    </div>
-</div>
-
-<div class="row align-items-center mb-4">
-    <div class="col-sm-12">
-        <p><strong>동백나무 뿌리 유래 Nrf2 활성화 triterpenoid saponins</strong></p>
-        <p>동백나무(Camellia japonica) 뿌리에서 Nuclear Factor Erythroid 2-Related Factor-2 (Nrf2)를 활성화하는 triterpenoid saponin들을 분리하였으며, 항산화 유전자 발현을 증가시켜 산화 스트레스로부터 세포를 보호하는 효과를 확인하였습니다. {% cite ko2018nuclear %} {% cite kim2022camellia %}</p>
     </div>
 </div>
 
