@@ -436,6 +436,11 @@ ninja.data = [{
           description: "",
           section: "Photos",handler: () => {
               window.location.href = "/NPClab/photos/2025/";
+            },},{id: "photos-2026",
+          title: '2026',
+          description: "",
+          section: "Photos",handler: () => {
+              window.location.href = "/NPClab/photos/2026/";
             },},{id: "projects-natural-products-discovery",
           title: 'Natural Products Discovery',
           description: "Isolation &amp; Structural Elucidations of Natural Products",
