@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-02'
 papers:
   fO9fNboAAAAJ:-f6ydRqryjwC:
     citations: 42
     title: "Identification of ginsenoside markers from dry purified extract of Panax ginseng by a dereplication approach and UPLC\u2013QTOF/MS analysis"
     year: '2015'
   fO9fNboAAAAJ:08ZZubdj9fEC:
-    citations: 1
+    citations: 2
     title: Activation of Nuclear Factor Erythroid 2-Related Factor-2 by Oxylipin from Mangifera indica Leaves
     year: '2024'
   fO9fNboAAAAJ:0EnyYjriUFMC:
@@ -294,7 +294,7 @@ papers:
     title: Plant-derived juvenile hormone III analogues and other sesquiterpenes from the stem bark of Cananga latifolia
     year: '2013'
   fO9fNboAAAAJ:Zph67rFs4hoC:
-    citations: 20
+    citations: 21
     title: Cluster analysis of medicinal plants and targets based on multipartite network
     year: '2021'
   fO9fNboAAAAJ:_FxGoFyzp5QC:
@@ -306,7 +306,7 @@ papers:
     title: The polyherbal drug GGEx18 from Laminaria japonica, Rheum palmatum, and Ephedra sinica inhibits hepatic steatosis and fibroinflammtion in high-fat diet-induced obese mice
     year: '2018'
   fO9fNboAAAAJ:_kc_bZDykSQC:
-    citations: 39
+    citations: 40
     title: Neuroprotective compounds from Salix pseudo-lasiogyne twigs and their anti-amnesic effects on scopolamine-induced memory deficit in mice
     year: '2013'
   fO9fNboAAAAJ:_xSYboBqXhAC:
@@ -338,7 +338,7 @@ papers:
     title: Antibacterial activity of Platycarya strobilacea extract and stability of the extract-containing cream
     year: '2009'
   fO9fNboAAAAJ:blknAaTinKkC:
-    citations: 17
+    citations: 19
     title: Mass spectrometry data on specialized metabolome of medicinal plants used in East Asian traditional medicine
     year: '2022'
   fO9fNboAAAAJ:d1gkVwhDpl0C:
@@ -390,7 +390,7 @@ papers:
     title: "Fast and Simple Discriminative Analysis of Anthocyanins\u2010Containing Berries Using LC/MS Spectral Data"
     year: '2017'
   fO9fNboAAAAJ:geHnlv5EZngC:
-    citations: 2
+    citations: 3
     title: 'Ex Vivo Interaction Between Human Gut Microbiota and Artemisinin: A Multi-Omics Perspective'
     year: '2025'
   fO9fNboAAAAJ:hC7cP41nSMkC:
@@ -434,7 +434,7 @@ papers:
     title: Neuroprotective iridoid glycosides from Cornus officinalis fruits against glutamate-induced toxicity in HT22 hippocampal cells
     year: '2012'
   fO9fNboAAAAJ:ldfaerwXgEUC:
-    citations: 134
+    citations: 136
     title: Cognitive-enhancing effects of Rhus verniciflua bark extract and its active flavonoids with neuroprotective and anti-inflammatory activities
     year: '2013'
   fO9fNboAAAAJ:mB3voiENLucC:
@@ -486,11 +486,11 @@ papers:
     title: A new phenolic compound from Phedimus middendorffianus with antiproliferative activity
     year: '2020'
   fO9fNboAAAAJ:rO6llkc54NcC:
-    citations: 1558
+    citations: 1565
     title: Feature-based molecular networking in the GNPS analysis environment
     year: '2020'
   fO9fNboAAAAJ:roLk4NBRz8UC:
-    citations: 10
+    citations: 11
     title: Comparative transcriptome analysis reveals higher expression of stress and defense responsive genes in dwarf soybeans obtained from the crossing of G. max and G. soja
     year: '2019'
   fO9fNboAAAAJ:sSrBHYA8nusC:
@@ -530,7 +530,7 @@ papers:
     title: "Vitamin E Acetate \uB97C \uD568\uC720\uD55C Nano-emulsion \uC81C\uC870\uC640 Franz Diffusion Cell \uC744 \uC774\uC6A9\uD55C Vitamin E Acetate \uC758 \uACBD\uD45C\uD53C \uD761\uC218\uC5D0 \uAD00\uD55C In Vitro \uC5F0\uAD6C"
     year: '2009'
   fO9fNboAAAAJ:vV6vV6tmYwMC:
-    citations: 75
+    citations: 76
     title: Open access repository-scale propagated nearest neighbor suspect spectral library for untargeted metabolomics
     year: '2023'
   fO9fNboAAAAJ:xtRiw3GOFMkC:
