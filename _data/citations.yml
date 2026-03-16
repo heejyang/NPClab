@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-03-16'
 papers:
   fO9fNboAAAAJ:-f6ydRqryjwC:
     citations: 42
     title: "Identification of ginsenoside markers from dry purified extract of Panax ginseng by a dereplication approach and UPLC\u2013QTOF/MS analysis"
     year: '2015'
   fO9fNboAAAAJ:08ZZubdj9fEC:
-    citations: 2
+    citations: 3
     title: Activation of Nuclear Factor Erythroid 2-Related Factor-2 by Oxylipin from Mangifera indica Leaves
     year: '2024'
   fO9fNboAAAAJ:0EnyYjriUFMC:
@@ -30,7 +30,7 @@ papers:
     title: "Determination of five chemical markers in DF formula, the herbal composition of Ephedra intermedia, Rheum palmatum, and Lithospermum erythrorhizon, using high-performance \u2026"
     year: '2018'
   fO9fNboAAAAJ:3fE2CSJIrl8C:
-    citations: 23
+    citations: 24
     title: Cytotoxic activities of naturally occurring oleanane-, ursane-, and lupane-type triterpenes on HepG2 and AGS cells
     year: '2017'
   fO9fNboAAAAJ:3s1wT3WcHBgC:
@@ -50,7 +50,7 @@ papers:
     title: Feature-based Molecular Networking in the GNPS Analysis Environment. bioRxiv, 812404
     year: '2019'
   fO9fNboAAAAJ:4TOpqqG69KYC:
-    citations: 14
+    citations: 15
     title: Triterpenoid saponins from Camellia sinensis roots with cytotoxic and immunomodulatory effects
     year: '2023'
   fO9fNboAAAAJ:4fKUyHm3Qg0C:
@@ -78,7 +78,7 @@ papers:
     title: "Simultaneous analysis of four standards of the herbal formula, DF-02, of Ephedra intermedia and Rheum palmatum, using by High Performance Liquid Chromatography-Ultraviolet \u2026"
     year: '2019'
   fO9fNboAAAAJ:8AbLer7MMksC:
-    citations: 3
+    citations: 4
     title: Mass spectral data of primary and secondary metabolites changes in medicinal plants by solvent polarity
     year: '2025'
   fO9fNboAAAAJ:9yKSN-GCB0IC:
@@ -119,7 +119,7 @@ papers:
     year: '2014'
   fO9fNboAAAAJ:IWHjjKOFINEC:
     citations: 0
-    title: A New Phenolic Compound from Lespedeza tomentosa
+    title: A new phenolic compound from Lespedeza tomentosa.
     year: '2021'
   fO9fNboAAAAJ:IjCSPb-OGe4C:
     citations: 6
@@ -198,7 +198,7 @@ papers:
     title: Anti-inflammatory phenolics isolated from Juniperus rigida leaves and twigs in lipopolysaccharide-stimulated RAW264.7 macrophage cells
     year: '2012'
   fO9fNboAAAAJ:RHpTSmoSYBkC:
-    citations: 33
+    citations: 34
     title: Morin hydrate inhibits influenza virus entry into host cells and has anti-inflammatory effect in influenza-infected mice
     year: '2020'
   fO9fNboAAAAJ:RYcK_YlVTxYC:
@@ -218,7 +218,7 @@ papers:
     title: "E-p-Methoxycinnamoyl-\u03B1-l-rhamnopyranosyl Ester, a Phenylpropanoid Isolated from Scrophularia buergeriana, Increases Nuclear Factor Erythroid-Derived 2 \u2026"
     year: '2018'
   fO9fNboAAAAJ:TFP_iSt0sucC:
-    citations: 108
+    citations: 111
     title: "Hydrolyzable tannins from the fruits of Terminalia chebula Retz and their \u03B1-glucosidase inhibitory activities"
     year: '2017'
   fO9fNboAAAAJ:TQgYirikUcIC:
@@ -338,11 +338,11 @@ papers:
     title: Antibacterial activity of Platycarya strobilacea extract and stability of the extract-containing cream
     year: '2009'
   fO9fNboAAAAJ:blknAaTinKkC:
-    citations: 19
+    citations: 20
     title: Mass spectrometry data on specialized metabolome of medicinal plants used in East Asian traditional medicine
     year: '2022'
   fO9fNboAAAAJ:d1gkVwhDpl0C:
-    citations: 22
+    citations: 23
     title: A surrogate loss function for optimization of  score in binary classification with imbalanced data
     year: '2021'
   fO9fNboAAAAJ:dfsIfKJdRG4C:
@@ -350,7 +350,7 @@ papers:
     title: "Investigation of Chemical Profiles of Different Parts of Morus alba Using a Combination of Molecular Networking Methods with Mass Spectral Data from Two \u2026"
     year: '2021'
   fO9fNboAAAAJ:dhFuZR0502QC:
-    citations: 169
+    citations: 170
     title: Neuroprotective and anti-inflammatory effects of flavonoids isolated from Rhus verniciflua in neuronal HT22 and microglial BV2 cell lines
     year: '2012'
   fO9fNboAAAAJ:dshw04ExmUIC:
@@ -367,7 +367,7 @@ papers:
     year: '2025'
   fO9fNboAAAAJ:eQOLeE2rZwMC:
     citations: 7
-    title: The isolation of acetylcholinesterase inhibitory constituents from Lycoris radiata using on-line HPLC-biochemical detection system
+    title: The Isolation of Acetylcholinesterase Inhibitory Constituents from Lycoris radiate using On-Line HPLC-biochemical Detection System
     year: '2010'
   fO9fNboAAAAJ:eflP2zaiRacC:
     citations: 0
@@ -410,7 +410,7 @@ papers:
     title: Chemical constituents of Oplopanax elatus stem
     year: '2018'
   fO9fNboAAAAJ:iH-uZ7U-co4C:
-    citations: 13
+    citations: 14
     title: "Gangjihwan, a polyherbal composition, inhibits fat accumulation through the modulation of lipogenic transcription factors SREBP1C, PPAR\u03B3 and C/EBP\u03B1"
     year: '2018'
   fO9fNboAAAAJ:isC4tDSrTZIC:
@@ -434,7 +434,7 @@ papers:
     title: Neuroprotective iridoid glycosides from Cornus officinalis fruits against glutamate-induced toxicity in HT22 hippocampal cells
     year: '2012'
   fO9fNboAAAAJ:ldfaerwXgEUC:
-    citations: 136
+    citations: 134
     title: Cognitive-enhancing effects of Rhus verniciflua bark extract and its active flavonoids with neuroprotective and anti-inflammatory activities
     year: '2013'
   fO9fNboAAAAJ:mB3voiENLucC:
@@ -454,7 +454,7 @@ papers:
     title: Cytotoxic terpenoids from Juglans sinensis leaves and twigs
     year: '2012'
   fO9fNboAAAAJ:p2g8aNsByqUC:
-    citations: 9
+    citations: 10
     title: "Antiviral Mechanisms of Saucerneol from Saururus chinensis against Enterovirus A71, Coxsackievirus A16, and Coxsackievirus B3: Role of Mitochondrial ROS and \u2026"
     year: '2023'
   fO9fNboAAAAJ:pqnbT2bcN3wC:
@@ -466,11 +466,11 @@ papers:
     title: Antioxidative activity and component analysis of fermented Melissa officinalis extracts
     year: '2009'
   fO9fNboAAAAJ:q3oQSFYPqjQC:
-    citations: 6
+    citations: 7
     title: Feature-based molecular networking in the GNPS analysis environment. bioRxiv
     year: '2019'
   fO9fNboAAAAJ:qUcmZB5y_30C:
-    citations: 57
+    citations: 59
     title: Lysosomal SLC46A3 modulates hepatic cytosolic copper homeostasis
     year: '2021'
   fO9fNboAAAAJ:qjMakFHDy7sC:
@@ -486,7 +486,7 @@ papers:
     title: A new phenolic compound from Phedimus middendorffianus with antiproliferative activity
     year: '2020'
   fO9fNboAAAAJ:rO6llkc54NcC:
-    citations: 1565
+    citations: 1585
     title: Feature-based molecular networking in the GNPS analysis environment
     year: '2020'
   fO9fNboAAAAJ:roLk4NBRz8UC:
@@ -498,12 +498,12 @@ papers:
     title: plantMASST-Community-driven chemotaxonomic digitization of plants
     year: '2024'
   fO9fNboAAAAJ:tOudhMTPpwUC:
-    citations: 1
+    citations: 2
     title: A New Chromone from Angelica polymorpha Leaves
     year: '2024'
   fO9fNboAAAAJ:tS2w5q8j5-wC:
     citations: 3
-    title: Simultaneous determination of gastrodin and gastrodigenin in gastrodia elata by HPLC-UV
+    title: Simultaneous determination of gastrodin and gastrodigenin in Gastrodia elata by HPLC-UV.
     year: '2017'
   fO9fNboAAAAJ:u-x6o8ySG0sC:
     citations: 9
@@ -522,7 +522,7 @@ papers:
     title: Stereochemical elucidation of norbornene derivatives synthesized as leukotriene D4 receptor antagonists
     year: '2003'
   fO9fNboAAAAJ:ufrVoPGSRksC:
-    citations: 30
+    citations: 31
     title: Flavonoids isolated from Lespedeza cuneata G. Don and their inhibitory effects on nitric oxide production in lipopolysaccharide-stimulated BV-2 microglia cells
     year: '2015'
   fO9fNboAAAAJ:vRqMK49ujn8C:
@@ -530,7 +530,7 @@ papers:
     title: "Vitamin E Acetate \uB97C \uD568\uC720\uD55C Nano-emulsion \uC81C\uC870\uC640 Franz Diffusion Cell \uC744 \uC774\uC6A9\uD55C Vitamin E Acetate \uC758 \uACBD\uD45C\uD53C \uD761\uC218\uC5D0 \uAD00\uD55C In Vitro \uC5F0\uAD6C"
     year: '2009'
   fO9fNboAAAAJ:vV6vV6tmYwMC:
-    citations: 76
+    citations: 82
     title: Open access repository-scale propagated nearest neighbor suspect spectral library for untargeted metabolomics
     year: '2023'
   fO9fNboAAAAJ:xtRiw3GOFMkC:
