@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-04-20'
 papers:
   fO9fNboAAAAJ:-f6ydRqryjwC:
     citations: 42
     title: "Identification of ginsenoside markers from dry purified extract of Panax ginseng by a dereplication approach and UPLC\u2013QTOF/MS analysis"
     year: '2015'
   fO9fNboAAAAJ:08ZZubdj9fEC:
-    citations: 3
+    citations: 4
     title: Activation of Nuclear Factor Erythroid 2-Related Factor-2 by Oxylipin from Mangifera indica Leaves
     year: '2024'
   fO9fNboAAAAJ:0EnyYjriUFMC:
@@ -22,7 +22,7 @@ papers:
     title: "Therapeutic Efficacies of Artemisia capillaris Extract Cream Formulation in Imiquimod\u2010Induced Psoriasis Models"
     year: '2018'
   fO9fNboAAAAJ:2osOgNQ5qMEC:
-    citations: 3
+    citations: 4
     title: "Simultaneous Determination and Stability Test of Two Phthalic Anhydride Derivatives, Senkyunolide A and Z\u2010Ligustilide, in the Water Extract of Cnidium Rhizome \u2026"
     year: '2018'
   fO9fNboAAAAJ:35N4QoGY0k4C:
@@ -30,7 +30,7 @@ papers:
     title: "Determination of five chemical markers in DF formula, the herbal composition of Ephedra intermedia, Rheum palmatum, and Lithospermum erythrorhizon, using high-performance \u2026"
     year: '2018'
   fO9fNboAAAAJ:3fE2CSJIrl8C:
-    citations: 24
+    citations: 25
     title: Cytotoxic activities of naturally occurring oleanane-, ursane-, and lupane-type triterpenes on HepG2 and AGS cells
     year: '2017'
   fO9fNboAAAAJ:3s1wT3WcHBgC:
@@ -50,7 +50,7 @@ papers:
     title: Feature-based Molecular Networking in the GNPS Analysis Environment. bioRxiv, 812404
     year: '2019'
   fO9fNboAAAAJ:4TOpqqG69KYC:
-    citations: 15
+    citations: 16
     title: Triterpenoid saponins from Camellia sinensis roots with cytotoxic and immunomodulatory effects
     year: '2023'
   fO9fNboAAAAJ:4fKUyHm3Qg0C:
@@ -102,7 +102,7 @@ papers:
     title: Antioxidative activity and component analysis of Psidium guajava leaf extracts
     year: '2008'
   fO9fNboAAAAJ:D_sINldO8mEC:
-    citations: 6
+    citations: 7
     title: Nat. Methods
     year: '2020'
   fO9fNboAAAAJ:GnPB-g6toBAC:
@@ -110,11 +110,11 @@ papers:
     title: 'Lewis acid-mediated cyclization of allenyl-aldehyde dimethyl acetals: synthesis of cis-and trans-2-haloalkenylcycloalkyl methyl ethers'
     year: '2002'
   fO9fNboAAAAJ:HDshCWvjkbEC:
-    citations: 17
+    citations: 18
     title: Determination of five active compounds in Artemisia princeps and A. capillaris based on UPLC-DAD and discrimination of two species with multivariate analysis
     year: '2014'
   fO9fNboAAAAJ:HoB7MX3m0LUC:
-    citations: 46
+    citations: 47
     title: Complete 1H-NMR and 13C-NMR spectral analysis of the pairs of 20 (S) and 20 (R) ginsenosides
     year: '2014'
   fO9fNboAAAAJ:IWHjjKOFINEC:
@@ -126,7 +126,7 @@ papers:
     title: Two New Pterocarpans from Lespedeza tomentosa
     year: '2021'
   fO9fNboAAAAJ:JV2RwH3_ST0C:
-    citations: 26
+    citations: 27
     title: Hepatoprotective constituents of Firmiana simplex stem bark against ethanol insult to primary rat hepatocytes
     year: '2015'
   fO9fNboAAAAJ:J_g5lzvAfSwC:
@@ -142,7 +142,7 @@ papers:
     title: The amelioration effect of the ethanolic extract of cnidium officinale in mice with imiquimod-induced psoriasis-like skin lesion
     year: '2018'
   fO9fNboAAAAJ:L8Ckcad2t8MC:
-    citations: 101
+    citations: 102
     title: Anti-influenza activity of betulinic acid from Zizyphus jujuba on influenza A/PR/8 virus
     year: '2015'
   fO9fNboAAAAJ:LPZeul_q3PIC:
@@ -182,7 +182,7 @@ papers:
     title: Antioxidative and antiaging effects of Platycarya strobilacea extract and clinical trial
     year: '2008'
   fO9fNboAAAAJ:O3NaXMp0MMsC:
-    citations: 10
+    citations: 11
     title: Camellia japonica Root Extract Increases Antioxidant Genes by Induction of NRF2 in HeLa Cells
     year: '2022'
   fO9fNboAAAAJ:P5F9QuxV20EC:
@@ -198,7 +198,7 @@ papers:
     title: Anti-inflammatory phenolics isolated from Juniperus rigida leaves and twigs in lipopolysaccharide-stimulated RAW264.7 macrophage cells
     year: '2012'
   fO9fNboAAAAJ:RHpTSmoSYBkC:
-    citations: 34
+    citations: 35
     title: Morin hydrate inhibits influenza virus entry into host cells and has anti-inflammatory effect in influenza-infected mice
     year: '2020'
   fO9fNboAAAAJ:RYcK_YlVTxYC:
@@ -218,7 +218,7 @@ papers:
     title: "E-p-Methoxycinnamoyl-\u03B1-l-rhamnopyranosyl Ester, a Phenylpropanoid Isolated from Scrophularia buergeriana, Increases Nuclear Factor Erythroid-Derived 2 \u2026"
     year: '2018'
   fO9fNboAAAAJ:TFP_iSt0sucC:
-    citations: 111
+    citations: 112
     title: "Hydrolyzable tannins from the fruits of Terminalia chebula Retz and their \u03B1-glucosidase inhibitory activities"
     year: '2017'
   fO9fNboAAAAJ:TQgYirikUcIC:
@@ -250,7 +250,7 @@ papers:
     title: The stability of emulsions formed by phase inversion with variation of HLB of surfactant
     year: '2009'
   fO9fNboAAAAJ:VOx2b1Wkg3QC:
-    citations: 0
+    citations: 1
     title: "Discovery of natural ROR\u03B3t inhibitor using machine learning, virtual screening, and in vivo validation"
     year: '2025'
   fO9fNboAAAAJ:WF5omc3nYNoC:
@@ -258,19 +258,19 @@ papers:
     title: Effect of Gangjihwan on hepatic steatosis and inflammation in high fat diet-fed mice
     year: '2017'
   fO9fNboAAAAJ:WbkHhVStYXYC:
-    citations: 102
+    citations: 104
     title: 'Ginsenoside Rh1: a systematic review of its pharmacological properties'
     year: '2018'
   fO9fNboAAAAJ:Wp0gIr-vW9MC:
-    citations: 7
+    citations: 8
     title: Neuroprotective Benzyl Benzoate Glycosides from Disporum viridescens Roots in HT22 Hippocampal Neuronal Cells
     year: '2013'
   fO9fNboAAAAJ:XiSMed-E-HIC:
-    citations: 9
+    citations: 12
     title: Panaxydol extracted from Panax ginseng inhibits NLRP3 inflammasome activation to ameliorate NASH-induced liver injury
     year: '2024'
   fO9fNboAAAAJ:Y0pCki6q_DkC:
-    citations: 19
+    citations: 20
     title: Targeted Isolation of Cytotoxic Sesquiterpene Lactones from Eupatorium fortunei by the NMR Annotation Tool, SMART 2.0
     year: '2020'
   fO9fNboAAAAJ:YFjsv_pBGBYC:
@@ -330,7 +330,7 @@ papers:
     title: Chemical Constituents of the Aerial Parts of Lespedeza juncea
     year: '2020'
   fO9fNboAAAAJ:bEWYMUwI8FkC:
-    citations: 24
+    citations: 25
     title: Lignan Dimers from Forsythia viridissima Roots and Their Antiviral Effects
     year: '2019'
   fO9fNboAAAAJ:bFI3QPDXJZMC:
@@ -342,7 +342,7 @@ papers:
     title: Mass spectrometry data on specialized metabolome of medicinal plants used in East Asian traditional medicine
     year: '2022'
   fO9fNboAAAAJ:d1gkVwhDpl0C:
-    citations: 23
+    citations: 24
     title: A surrogate loss function for optimization of  score in binary classification with imbalanced data
     year: '2021'
   fO9fNboAAAAJ:dfsIfKJdRG4C:
@@ -378,7 +378,7 @@ papers:
     title: Evaluation of antioxidant potential of extract/fractions of Equisetum arvense (I)
     year: '2007'
   fO9fNboAAAAJ:fPk4N6BV_jEC:
-    citations: 4
+    citations: 6
     title: The Rapid Discrimination and Quality Assessment of Three Zanthoxylum Species Using 1H NMR Spectrometry
     year: '2020'
   fO9fNboAAAAJ:fQNAKQ3IYiAC:
@@ -418,7 +418,7 @@ papers:
     title: Triterpenoidal saponins of Pulsatilla koreana roots
     year: '2010'
   fO9fNboAAAAJ:j3f4tGmQtD8C:
-    citations: 30
+    citations: 31
     title: "Nanocomplexes based on amphiphilic hyaluronic acid derivative and polyethylene glycol\u2013lipid for ginsenoside Rg3 delivery"
     year: '2014'
   fO9fNboAAAAJ:kNdYIx-mwKoC:
@@ -434,7 +434,7 @@ papers:
     title: Neuroprotective iridoid glycosides from Cornus officinalis fruits against glutamate-induced toxicity in HT22 hippocampal cells
     year: '2012'
   fO9fNboAAAAJ:ldfaerwXgEUC:
-    citations: 134
+    citations: 135
     title: Cognitive-enhancing effects of Rhus verniciflua bark extract and its active flavonoids with neuroprotective and anti-inflammatory activities
     year: '2013'
   fO9fNboAAAAJ:mB3voiENLucC:
@@ -470,7 +470,7 @@ papers:
     title: Feature-based molecular networking in the GNPS analysis environment. bioRxiv
     year: '2019'
   fO9fNboAAAAJ:qUcmZB5y_30C:
-    citations: 59
+    citations: 62
     title: Lysosomal SLC46A3 modulates hepatic cytosolic copper homeostasis
     year: '2021'
   fO9fNboAAAAJ:qjMakFHDy7sC:
@@ -478,7 +478,7 @@ papers:
     title: Chemical constituents of Polygala tenuifolia roots and their inhibitory activity on lipopolysaccharide-induced nitric oxide production in BV2 microglia
     year: '2012'
   fO9fNboAAAAJ:qxL8FJ1GzNcC:
-    citations: 101
+    citations: 103
     title: Ginsenoside 20 (S)-Rh2 exerts anti-cancer activity through targeting IL-6-induced JAK2/STAT3 pathway in human colorectal cancer cells
     year: '2016'
   fO9fNboAAAAJ:r0BpntZqJG4C:
@@ -486,15 +486,15 @@ papers:
     title: A new phenolic compound from Phedimus middendorffianus with antiproliferative activity
     year: '2020'
   fO9fNboAAAAJ:rO6llkc54NcC:
-    citations: 1585
+    citations: 1633
     title: Feature-based molecular networking in the GNPS analysis environment
     year: '2020'
   fO9fNboAAAAJ:roLk4NBRz8UC:
-    citations: 11
+    citations: 12
     title: Comparative transcriptome analysis reveals higher expression of stress and defense responsive genes in dwarf soybeans obtained from the crossing of G. max and G. soja
     year: '2019'
   fO9fNboAAAAJ:sSrBHYA8nusC:
-    citations: 20
+    citations: 23
     title: plantMASST-Community-driven chemotaxonomic digitization of plants
     year: '2024'
   fO9fNboAAAAJ:tOudhMTPpwUC:
@@ -530,7 +530,7 @@ papers:
     title: "Vitamin E Acetate \uB97C \uD568\uC720\uD55C Nano-emulsion \uC81C\uC870\uC640 Franz Diffusion Cell \uC744 \uC774\uC6A9\uD55C Vitamin E Acetate \uC758 \uACBD\uD45C\uD53C \uD761\uC218\uC5D0 \uAD00\uD55C In Vitro \uC5F0\uAD6C"
     year: '2009'
   fO9fNboAAAAJ:vV6vV6tmYwMC:
-    citations: 82
+    citations: 85
     title: Open access repository-scale propagated nearest neighbor suspect spectral library for untargeted metabolomics
     year: '2023'
   fO9fNboAAAAJ:xtRiw3GOFMkC:
@@ -542,7 +542,7 @@ papers:
     title: A New Chromone from Angelica polymorpha
     year: '2022'
   fO9fNboAAAAJ:zA6iFVUQeVQC:
-    citations: 7
+    citations: 8
     title: Efficient preparation of narcissin from Opuntia ficus-indica fruits by combination of response surface methodology and high-speed countercurrent chromatography
     year: '2018'
   fO9fNboAAAAJ:zYLM7Y9cAGgC:
