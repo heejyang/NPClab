@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-27'
 papers:
   fO9fNboAAAAJ:-f6ydRqryjwC:
-    citations: 42
+    citations: 43
     title: "Identification of ginsenoside markers from dry purified extract of Panax ginseng by a dereplication approach and UPLC\u2013QTOF/MS analysis"
     year: '2015'
   fO9fNboAAAAJ:08ZZubdj9fEC:
@@ -90,11 +90,11 @@ papers:
     title: Development of hit compounds targeting STAT3 for autoimmune diseases and cancers using a chemoproteomics-driven approach
     year: '2025'
   fO9fNboAAAAJ:BqipwSGYUEgC:
-    citations: 59
+    citations: 60
     title: 'Stereoisomer-specific anticancer activities of ginsenoside Rg3 and Rh2 in HepG2 cells: disparity in cytotoxicity and autophagy-inducing effects due to 20 (S)-epimers'
     year: '2015'
   fO9fNboAAAAJ:BrmTIyaxlBUC:
-    citations: 0
+    citations: 1
     title: A searchable metadata network graph for microbiome metabolomics
     year: '2026'
   fO9fNboAAAAJ:D03iK_w7-QYC:
@@ -142,7 +142,7 @@ papers:
     title: The amelioration effect of the ethanolic extract of cnidium officinale in mice with imiquimod-induced psoriasis-like skin lesion
     year: '2018'
   fO9fNboAAAAJ:L8Ckcad2t8MC:
-    citations: 102
+    citations: 104
     title: Anti-influenza activity of betulinic acid from Zizyphus jujuba on influenza A/PR/8 virus
     year: '2015'
   fO9fNboAAAAJ:LPZeul_q3PIC:
@@ -218,7 +218,7 @@ papers:
     title: "E-p-Methoxycinnamoyl-\u03B1-l-rhamnopyranosyl Ester, a Phenylpropanoid Isolated from Scrophularia buergeriana, Increases Nuclear Factor Erythroid-Derived 2 \u2026"
     year: '2018'
   fO9fNboAAAAJ:TFP_iSt0sucC:
-    citations: 112
+    citations: 115
     title: "Hydrolyzable tannins from the fruits of Terminalia chebula Retz and their \u03B1-glucosidase inhibitory activities"
     year: '2017'
   fO9fNboAAAAJ:TQgYirikUcIC:
@@ -258,7 +258,7 @@ papers:
     title: Effect of Gangjihwan on hepatic steatosis and inflammation in high fat diet-fed mice
     year: '2017'
   fO9fNboAAAAJ:WbkHhVStYXYC:
-    citations: 104
+    citations: 105
     title: 'Ginsenoside Rh1: a systematic review of its pharmacological properties'
     year: '2018'
   fO9fNboAAAAJ:Wp0gIr-vW9MC:
@@ -306,7 +306,7 @@ papers:
     title: The polyherbal drug GGEx18 from Laminaria japonica, Rheum palmatum, and Ephedra sinica inhibits hepatic steatosis and fibroinflammtion in high-fat diet-induced obese mice
     year: '2018'
   fO9fNboAAAAJ:_kc_bZDykSQC:
-    citations: 40
+    citations: 41
     title: Neuroprotective compounds from Salix pseudo-lasiogyne twigs and their anti-amnesic effects on scopolamine-induced memory deficit in mice
     year: '2013'
   fO9fNboAAAAJ:_xSYboBqXhAC:
@@ -442,7 +442,7 @@ papers:
     title: Chemical constituents isolated from Disporum viridescens leaves and their inhibitory effect on nitric oxide production in BV2 microglial cells
     year: '2014'
   fO9fNboAAAAJ:mVmsd5A6BfQC:
-    citations: 6
+    citations: 7
     title: Simple identification of discriminative markers for four Citrus species using a combination of molecular networking and multivariate analysis
     year: '2023'
   fO9fNboAAAAJ:maZDTaKrznsC:
@@ -458,7 +458,7 @@ papers:
     title: "Antiviral Mechanisms of Saucerneol from Saururus chinensis against Enterovirus A71, Coxsackievirus A16, and Coxsackievirus B3: Role of Mitochondrial ROS and \u2026"
     year: '2023'
   fO9fNboAAAAJ:pqnbT2bcN3wC:
-    citations: 2
+    citations: 3
     title: "\u03B1-Glucosidic hydroquinone derivatives from Viburnum erosum"
     year: '2021'
   fO9fNboAAAAJ:pyW8ca7W8N0C:
@@ -486,7 +486,7 @@ papers:
     title: A new phenolic compound from Phedimus middendorffianus with antiproliferative activity
     year: '2020'
   fO9fNboAAAAJ:rO6llkc54NcC:
-    citations: 1633
+    citations: 1650
     title: Feature-based molecular networking in the GNPS analysis environment
     year: '2020'
   fO9fNboAAAAJ:roLk4NBRz8UC:
@@ -530,7 +530,7 @@ papers:
     title: "Vitamin E Acetate \uB97C \uD568\uC720\uD55C Nano-emulsion \uC81C\uC870\uC640 Franz Diffusion Cell \uC744 \uC774\uC6A9\uD55C Vitamin E Acetate \uC758 \uACBD\uD45C\uD53C \uD761\uC218\uC5D0 \uAD00\uD55C In Vitro \uC5F0\uAD6C"
     year: '2009'
   fO9fNboAAAAJ:vV6vV6tmYwMC:
-    citations: 85
+    citations: 86
     title: Open access repository-scale propagated nearest neighbor suspect spectral library for untargeted metabolomics
     year: '2023'
   fO9fNboAAAAJ:xtRiw3GOFMkC:
