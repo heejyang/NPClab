@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-06-01'
 papers:
   fO9fNboAAAAJ:-f6ydRqryjwC:
-    citations: 43
+    citations: 44
     title: "Identification of ginsenoside markers from dry purified extract of Panax ginseng by a dereplication approach and UPLC\u2013QTOF/MS analysis"
     year: '2015'
   fO9fNboAAAAJ:08ZZubdj9fEC:
@@ -94,7 +94,7 @@ papers:
     title: 'Stereoisomer-specific anticancer activities of ginsenoside Rg3 and Rh2 in HepG2 cells: disparity in cytotoxicity and autophagy-inducing effects due to 20 (S)-epimers'
     year: '2015'
   fO9fNboAAAAJ:BrmTIyaxlBUC:
-    citations: 1
+    citations: 3
     title: A searchable metadata network graph for microbiome metabolomics
     year: '2026'
   fO9fNboAAAAJ:D03iK_w7-QYC:
@@ -218,7 +218,7 @@ papers:
     title: "E-p-Methoxycinnamoyl-\u03B1-l-rhamnopyranosyl Ester, a Phenylpropanoid Isolated from Scrophularia buergeriana, Increases Nuclear Factor Erythroid-Derived 2 \u2026"
     year: '2018'
   fO9fNboAAAAJ:TFP_iSt0sucC:
-    citations: 118
+    citations: 120
     title: "Hydrolyzable tannins from the fruits of Terminalia chebula Retz and their \u03B1-glucosidase inhibitory activities"
     year: '2017'
   fO9fNboAAAAJ:TQgYirikUcIC:
@@ -238,7 +238,7 @@ papers:
     title: The ethanolic extract of Juglans sinensis leaves and twigs attenuates CCl4-induced hepatic oxidative stress in rats
     year: '2015'
   fO9fNboAAAAJ:UeHWp8X0CEIC:
-    citations: 15
+    citations: 16
     title: Nuclear Factor Erythroid 2-Related Factor 2 Activating Triterpenoid Saponins from Camellia japonica Roots
     year: '2018'
   fO9fNboAAAAJ:UebtZRa9Y70C:
@@ -258,7 +258,7 @@ papers:
     title: Effect of Gangjihwan on hepatic steatosis and inflammation in high fat diet-fed mice
     year: '2017'
   fO9fNboAAAAJ:WbkHhVStYXYC:
-    citations: 107
+    citations: 108
     title: 'Ginsenoside Rh1: a systematic review of its pharmacological properties'
     year: '2018'
   fO9fNboAAAAJ:Wp0gIr-vW9MC:
@@ -294,7 +294,7 @@ papers:
     title: Plant-derived juvenile hormone III analogues and other sesquiterpenes from the stem bark of Cananga latifolia
     year: '2013'
   fO9fNboAAAAJ:Zph67rFs4hoC:
-    citations: 21
+    citations: 22
     title: Cluster analysis of medicinal plants and targets based on multipartite network
     year: '2021'
   fO9fNboAAAAJ:_FxGoFyzp5QC:
@@ -302,7 +302,7 @@ papers:
     title: A study on compliance in self-medication of pulmonary tuberculosis patients
     year: '1998'
   fO9fNboAAAAJ:_Qo2XoVZTnwC:
-    citations: 27
+    citations: 28
     title: The polyherbal drug GGEx18 from Laminaria japonica, Rheum palmatum, and Ephedra sinica inhibits hepatic steatosis and fibroinflammtion in high-fat diet-induced obese mice
     year: '2018'
   fO9fNboAAAAJ:_kc_bZDykSQC:
@@ -330,7 +330,7 @@ papers:
     title: Chemical Constituents of the Aerial Parts of Lespedeza juncea
     year: '2020'
   fO9fNboAAAAJ:bEWYMUwI8FkC:
-    citations: 25
+    citations: 26
     title: Lignan Dimers from Forsythia viridissima Roots and Their Antiviral Effects
     year: '2019'
   fO9fNboAAAAJ:bFI3QPDXJZMC:
@@ -346,11 +346,11 @@ papers:
     title: A surrogate loss function for optimization of  score in binary classification with imbalanced data
     year: '2021'
   fO9fNboAAAAJ:dfsIfKJdRG4C:
-    citations: 9
+    citations: 10
     title: "Investigation of Chemical Profiles of Different Parts of Morus alba Using a Combination of Molecular Networking Methods with Mass Spectral Data from Two \u2026"
     year: '2021'
   fO9fNboAAAAJ:dhFuZR0502QC:
-    citations: 170
+    citations: 172
     title: Neuroprotective and anti-inflammatory effects of flavonoids isolated from Rhus verniciflua in neuronal HT22 and microglial BV2 cell lines
     year: '2012'
   fO9fNboAAAAJ:dshw04ExmUIC:
@@ -378,7 +378,7 @@ papers:
     title: Evaluation of antioxidant potential of extract/fractions of Equisetum arvense (I)
     year: '2007'
   fO9fNboAAAAJ:fPk4N6BV_jEC:
-    citations: 6
+    citations: 7
     title: The Rapid Discrimination and Quality Assessment of Three Zanthoxylum Species Using 1H NMR Spectrometry
     year: '2020'
   fO9fNboAAAAJ:fQNAKQ3IYiAC:
@@ -422,7 +422,7 @@ papers:
     title: "Nanocomplexes based on amphiphilic hyaluronic acid derivative and polyethylene glycol\u2013lipid for ginsenoside Rg3 delivery"
     year: '2014'
   fO9fNboAAAAJ:kNdYIx-mwKoC:
-    citations: 35
+    citations: 36
     title: "New polyhydroxytriterpenoid derivatives from fruits of Terminalia chebula Retz. and their \u03B1-glucosidase and \u03B1-amylase inhibitory activity"
     year: '2017'
   fO9fNboAAAAJ:k_IJM867U9cC:
@@ -470,7 +470,7 @@ papers:
     title: Feature-based molecular networking in the GNPS analysis environment. bioRxiv
     year: '2019'
   fO9fNboAAAAJ:qUcmZB5y_30C:
-    citations: 63
+    citations: 65
     title: Lysosomal SLC46A3 modulates hepatic cytosolic copper homeostasis
     year: '2021'
   fO9fNboAAAAJ:qjMakFHDy7sC:
@@ -478,7 +478,7 @@ papers:
     title: Chemical constituents of Polygala tenuifolia roots and their inhibitory activity on lipopolysaccharide-induced nitric oxide production in BV2 microglia
     year: '2012'
   fO9fNboAAAAJ:qxL8FJ1GzNcC:
-    citations: 104
+    citations: 105
     title: Ginsenoside 20 (S)-Rh2 exerts anti-cancer activity through targeting IL-6-induced JAK2/STAT3 pathway in human colorectal cancer cells
     year: '2016'
   fO9fNboAAAAJ:r0BpntZqJG4C:
@@ -486,7 +486,7 @@ papers:
     title: A new phenolic compound from Phedimus middendorffianus with antiproliferative activity
     year: '2020'
   fO9fNboAAAAJ:rO6llkc54NcC:
-    citations: 1673
+    citations: 1705
     title: Feature-based molecular networking in the GNPS analysis environment
     year: '2020'
   fO9fNboAAAAJ:roLk4NBRz8UC:
@@ -530,7 +530,7 @@ papers:
     title: "Vitamin E Acetate \uB97C \uD568\uC720\uD55C Nano-emulsion \uC81C\uC870\uC640 Franz Diffusion Cell \uC744 \uC774\uC6A9\uD55C Vitamin E Acetate \uC758 \uACBD\uD45C\uD53C \uD761\uC218\uC5D0 \uAD00\uD55C In Vitro \uC5F0\uAD6C"
     year: '2009'
   fO9fNboAAAAJ:vV6vV6tmYwMC:
-    citations: 87
+    citations: 89
     title: Open access repository-scale propagated nearest neighbor suspect spectral library for untargeted metabolomics
     year: '2023'
   fO9fNboAAAAJ:xtRiw3GOFMkC:
