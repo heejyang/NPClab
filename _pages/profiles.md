@@ -40,6 +40,8 @@ nav_order: 1
 
 ### **Researcher**
 
+- 이동교(Dongkyo LEE)
+- 송우현(Woohyun SONG)
 - 최경원(Kyeongwon CHOI)
 
 ---
@@ -55,6 +57,6 @@ nav_order: 1
 - 정비랑 Ph.D. (2023) - 우리씨드(URISEED)
 - 조인희 M.S. (2023) - 마더스제약(Mother's Pharmaceutical Co. Ltd.)
 - 강정연 M.S. (2023) - 삼성서울병원 단백질체학센터
-- 이동교 M.S. (2026) - job searching
-- 송우현 M.S. (2026) - job searching
+- 이동교 M.S. (2026) - 강원대학교 약학대학 천연물연구실 연구원
+- 송우현 M.S. (2026) - 강원대학교 약학대학 천연물연구실 연구원
 - 최경원 M.S. (2026) - 강원대학교 약학대학 천연물연구실 연구원
