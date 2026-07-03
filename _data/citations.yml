@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-03'
 papers:
   fO9fNboAAAAJ:-f6ydRqryjwC:
     citations: 44
@@ -34,7 +34,7 @@ papers:
     title: Cytotoxic activities of naturally occurring oleanane-, ursane-, and lupane-type triterpenes on HepG2 and AGS cells
     year: '2017'
   fO9fNboAAAAJ:3s1wT3WcHBgC:
-    citations: 5
+    citations: 6
     title: A new stereoisomeric monoterpene glycoside from Clematis heracleifolia leaves
     year: '2016'
   fO9fNboAAAAJ:4DMP91E08xMC:
@@ -82,7 +82,7 @@ papers:
     title: Mass spectral data of primary and secondary metabolites changes in medicinal plants by solvent polarity
     year: '2025'
   fO9fNboAAAAJ:9yKSN-GCB0IC:
-    citations: 30
+    citations: 31
     title: Antiproliferation of keratinocytes and alleviation of psoriasis by the ethanol extract of Artemisia capillaris
     year: '2018'
   fO9fNboAAAAJ:B3FOqHPlNUQC:
@@ -90,7 +90,7 @@ papers:
     title: Development of hit compounds targeting STAT3 for autoimmune diseases and cancers using a chemoproteomics-driven approach
     year: '2025'
   fO9fNboAAAAJ:BqipwSGYUEgC:
-    citations: 60
+    citations: 61
     title: 'Stereoisomer-specific anticancer activities of ginsenoside Rg3 and Rh2 in HepG2 cells: disparity in cytotoxicity and autophagy-inducing effects due to 20 (S)-epimers'
     year: '2015'
   fO9fNboAAAAJ:BrmTIyaxlBUC:
@@ -119,7 +119,7 @@ papers:
     year: '2014'
   fO9fNboAAAAJ:IWHjjKOFINEC:
     citations: 0
-    title: A new phenolic compound from Lespedeza tomentosa.
+    title: A New Phenolic Compound from Lespedeza tomentosa
     year: '2021'
   fO9fNboAAAAJ:IjCSPb-OGe4C:
     citations: 6
@@ -350,7 +350,7 @@ papers:
     title: "Investigation of Chemical Profiles of Different Parts of Morus alba Using a Combination of Molecular Networking Methods with Mass Spectral Data from Two \u2026"
     year: '2021'
   fO9fNboAAAAJ:dhFuZR0502QC:
-    citations: 174
+    citations: 175
     title: Neuroprotective and anti-inflammatory effects of flavonoids isolated from Rhus verniciflua in neuronal HT22 and microglial BV2 cell lines
     year: '2012'
   fO9fNboAAAAJ:dshw04ExmUIC:
@@ -419,10 +419,10 @@ papers:
     year: '2010'
   fO9fNboAAAAJ:j3f4tGmQtD8C:
     citations: 31
-    title: "Nanocomplexes based on amphiphilic hyaluronic acid derivative and polyethylene glycol\u2013lipid for ginsenoside Rg3 delivery"
+    title: "Nanocomplexes Based on Amphiphilic Hyaluronic Acid Derivative and Polyethylene Glycol\u2013Lipid for Ginsenoside R g3 Delivery"
     year: '2014'
   fO9fNboAAAAJ:kNdYIx-mwKoC:
-    citations: 36
+    citations: 37
     title: "New polyhydroxytriterpenoid derivatives from fruits of Terminalia chebula Retz. and their \u03B1-glucosidase and \u03B1-amylase inhibitory activity"
     year: '2017'
   fO9fNboAAAAJ:k_IJM867U9cC:
@@ -486,7 +486,7 @@ papers:
     title: A new phenolic compound from Phedimus middendorffianus with antiproliferative activity
     year: '2020'
   fO9fNboAAAAJ:rO6llkc54NcC:
-    citations: 1744
+    citations: 1749
     title: Feature-based molecular networking in the GNPS analysis environment
     year: '2020'
   fO9fNboAAAAJ:roLk4NBRz8UC:
@@ -494,7 +494,7 @@ papers:
     title: Comparative transcriptome analysis reveals higher expression of stress and defense responsive genes in dwarf soybeans obtained from the crossing of G. max and G. soja
     year: '2019'
   fO9fNboAAAAJ:sSrBHYA8nusC:
-    citations: 26
+    citations: 27
     title: plantMASST-Community-driven chemotaxonomic digitization of plants
     year: '2024'
   fO9fNboAAAAJ:tOudhMTPpwUC:
@@ -503,7 +503,7 @@ papers:
     year: '2024'
   fO9fNboAAAAJ:tS2w5q8j5-wC:
     citations: 3
-    title: Simultaneous determination of gastrodin and gastrodigenin in Gastrodia elata by HPLC-UV.
+    title: Simultaneous determination of gastrodin and gastrodigenin in gastrodia elata by HPLC-UV
     year: '2017'
   fO9fNboAAAAJ:u-x6o8ySG0sC:
     citations: 9
@@ -530,7 +530,7 @@ papers:
     title: "Vitamin E Acetate \uB97C \uD568\uC720\uD55C Nano-emulsion \uC81C\uC870\uC640 Franz Diffusion Cell \uC744 \uC774\uC6A9\uD55C Vitamin E Acetate \uC758 \uACBD\uD45C\uD53C \uD761\uC218\uC5D0 \uAD00\uD55C In Vitro \uC5F0\uAD6C"
     year: '2009'
   fO9fNboAAAAJ:vV6vV6tmYwMC:
-    citations: 90
+    citations: 91
     title: Open access repository-scale propagated nearest neighbor suspect spectral library for untargeted metabolomics
     year: '2023'
   fO9fNboAAAAJ:xtRiw3GOFMkC:
