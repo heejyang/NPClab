@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-17'
 papers:
   fO9fNboAAAAJ:-f6ydRqryjwC:
     citations: 44
@@ -50,11 +50,11 @@ papers:
     title: Feature-based Molecular Networking in the GNPS Analysis Environment. bioRxiv, 812404
     year: '2019'
   fO9fNboAAAAJ:4TOpqqG69KYC:
-    citations: 16
+    citations: 18
     title: Triterpenoid saponins from Camellia sinensis roots with cytotoxic and immunomodulatory effects
     year: '2023'
   fO9fNboAAAAJ:4fKUyHm3Qg0C:
-    citations: 4
+    citations: 5
     title: Two new phenolic glycosides from the aerial part of Dryopteris erythrosora
     year: '2017'
   fO9fNboAAAAJ:5Ul4iDaHHb8C:
@@ -78,7 +78,7 @@ papers:
     title: "Simultaneous analysis of four standards of the herbal formula, DF-02, of Ephedra intermedia and Rheum palmatum, using by High Performance Liquid Chromatography-Ultraviolet \u2026"
     year: '2019'
   fO9fNboAAAAJ:8AbLer7MMksC:
-    citations: 6
+    citations: 8
     title: Mass spectral data of primary and secondary metabolites changes in medicinal plants by solvent polarity
     year: '2025'
   fO9fNboAAAAJ:9yKSN-GCB0IC:
@@ -122,7 +122,7 @@ papers:
     title: A New Phenolic Compound from Lespedeza tomentosa
     year: '2021'
   fO9fNboAAAAJ:IjCSPb-OGe4C:
-    citations: 6
+    citations: 7
     title: Two New Pterocarpans from Lespedeza tomentosa
     year: '2021'
   fO9fNboAAAAJ:JV2RwH3_ST0C:
@@ -142,7 +142,7 @@ papers:
     title: The amelioration effect of the ethanolic extract of cnidium officinale in mice with imiquimod-induced psoriasis-like skin lesion
     year: '2018'
   fO9fNboAAAAJ:L8Ckcad2t8MC:
-    citations: 104
+    citations: 105
     title: Anti-influenza activity of betulinic acid from Zizyphus jujuba on influenza A/PR/8 virus
     year: '2015'
   fO9fNboAAAAJ:LPZeul_q3PIC:
@@ -174,7 +174,7 @@ papers:
     title: The Homodimerization of Thalictrum tuberosum O-methyltransferases by Homology-based Modelling
     year: '2003'
   fO9fNboAAAAJ:NaGl4SEjCO4C:
-    citations: 38
+    citations: 39
     title: Phenolic compounds isolated from Opuntia ficus-indica fruits
     year: '2016'
   fO9fNboAAAAJ:NhqRSupF_l8C:
@@ -258,7 +258,7 @@ papers:
     title: Effect of Gangjihwan on hepatic steatosis and inflammation in high fat diet-fed mice
     year: '2017'
   fO9fNboAAAAJ:WbkHhVStYXYC:
-    citations: 108
+    citations: 109
     title: 'Ginsenoside Rh1: a systematic review of its pharmacological properties'
     year: '2018'
   fO9fNboAAAAJ:Wp0gIr-vW9MC:
@@ -266,7 +266,7 @@ papers:
     title: Neuroprotective Benzyl Benzoate Glycosides from Disporum viridescens Roots in HT22 Hippocampal Neuronal Cells
     year: '2013'
   fO9fNboAAAAJ:XiSMed-E-HIC:
-    citations: 12
+    citations: 13
     title: Panaxydol extracted from Panax ginseng inhibits NLRP3 inflammasome activation to ameliorate NASH-induced liver injury
     year: '2024'
   fO9fNboAAAAJ:Y0pCki6q_DkC:
@@ -278,7 +278,7 @@ papers:
     title: Stereochemical assignment of five new lignan glycosides from Viscum album by NMR study combined with CD spectroscopy
     year: '2012'
   fO9fNboAAAAJ:YOwf2qJgpHMC:
-    citations: 2
+    citations: 3
     title: "Simultaneous determination of four compounds from Artemisia capillaris using high performance liquid chromatography-ultraviolet detector (HPLC-UVD) and their quantitative study \u2026"
     year: '2018'
   fO9fNboAAAAJ:YsMSGLbcyi4C:
@@ -286,7 +286,7 @@ papers:
     title: Exploring novel secondary metabolites from natural products using pre-processed mass spectral data
     year: '2019'
   fO9fNboAAAAJ:ZHo1McVdvXMC:
-    citations: 28
+    citations: 29
     title: In silico annotation of discriminative markers of three Zanthoxylum species using molecular network derived annotation propagation
     year: '2019'
   fO9fNboAAAAJ:ZeXyd9-uunAC:
@@ -294,7 +294,7 @@ papers:
     title: Plant-derived juvenile hormone III analogues and other sesquiterpenes from the stem bark of Cananga latifolia
     year: '2013'
   fO9fNboAAAAJ:Zph67rFs4hoC:
-    citations: 22
+    citations: 23
     title: Cluster analysis of medicinal plants and targets based on multipartite network
     year: '2021'
   fO9fNboAAAAJ:_FxGoFyzp5QC:
@@ -422,7 +422,7 @@ papers:
     title: "Nanocomplexes Based on Amphiphilic Hyaluronic Acid Derivative and Polyethylene Glycol\u2013Lipid for Ginsenoside R g3 Delivery"
     year: '2014'
   fO9fNboAAAAJ:kNdYIx-mwKoC:
-    citations: 37
+    citations: 36
     title: "New polyhydroxytriterpenoid derivatives from fruits of Terminalia chebula Retz. and their \u03B1-glucosidase and \u03B1-amylase inhibitory activity"
     year: '2017'
   fO9fNboAAAAJ:k_IJM867U9cC:
@@ -454,7 +454,7 @@ papers:
     title: Cytotoxic terpenoids from Juglans sinensis leaves and twigs
     year: '2012'
   fO9fNboAAAAJ:p2g8aNsByqUC:
-    citations: 10
+    citations: 11
     title: "Antiviral Mechanisms of Saucerneol from Saururus chinensis against Enterovirus A71, Coxsackievirus A16, and Coxsackievirus B3: Role of Mitochondrial ROS and \u2026"
     year: '2023'
   fO9fNboAAAAJ:pqnbT2bcN3wC:
@@ -478,7 +478,7 @@ papers:
     title: Chemical constituents of Polygala tenuifolia roots and their inhibitory activity on lipopolysaccharide-induced nitric oxide production in BV2 microglia
     year: '2012'
   fO9fNboAAAAJ:qxL8FJ1GzNcC:
-    citations: 105
+    citations: 106
     title: Ginsenoside 20 (S)-Rh2 exerts anti-cancer activity through targeting IL-6-induced JAK2/STAT3 pathway in human colorectal cancer cells
     year: '2016'
   fO9fNboAAAAJ:r0BpntZqJG4C:
@@ -486,7 +486,7 @@ papers:
     title: A new phenolic compound from Phedimus middendorffianus with antiproliferative activity
     year: '2020'
   fO9fNboAAAAJ:rO6llkc54NcC:
-    citations: 1749
+    citations: 1775
     title: Feature-based molecular networking in the GNPS analysis environment
     year: '2020'
   fO9fNboAAAAJ:roLk4NBRz8UC:
@@ -494,7 +494,7 @@ papers:
     title: Comparative transcriptome analysis reveals higher expression of stress and defense responsive genes in dwarf soybeans obtained from the crossing of G. max and G. soja
     year: '2019'
   fO9fNboAAAAJ:sSrBHYA8nusC:
-    citations: 27
+    citations: 28
     title: plantMASST-Community-driven chemotaxonomic digitization of plants
     year: '2024'
   fO9fNboAAAAJ:tOudhMTPpwUC:
@@ -530,7 +530,7 @@ papers:
     title: "Vitamin E Acetate \uB97C \uD568\uC720\uD55C Nano-emulsion \uC81C\uC870\uC640 Franz Diffusion Cell \uC744 \uC774\uC6A9\uD55C Vitamin E Acetate \uC758 \uACBD\uD45C\uD53C \uD761\uC218\uC5D0 \uAD00\uD55C In Vitro \uC5F0\uAD6C"
     year: '2009'
   fO9fNboAAAAJ:vV6vV6tmYwMC:
-    citations: 91
+    citations: 94
     title: Open access repository-scale propagated nearest neighbor suspect spectral library for untargeted metabolomics
     year: '2023'
   fO9fNboAAAAJ:xtRiw3GOFMkC:
