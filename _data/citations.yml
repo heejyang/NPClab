@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-27'
 papers:
   fO9fNboAAAAJ:-f6ydRqryjwC:
     citations: 44
@@ -70,7 +70,7 @@ papers:
     title: New Pregnane Glycosides Isolated from Stapelia gigantea
     year: '2022'
   fO9fNboAAAAJ:738O_yMBCRsC:
-    citations: 7
+    citations: 8
     title: Identification of novel dimers and chemical profiling of acid amide alkaloids in Piper nigrum
     year: '2024'
   fO9fNboAAAAJ:7PzlFSSx8tAC:
@@ -282,7 +282,7 @@ papers:
     title: "Simultaneous determination of four compounds from Artemisia capillaris using high performance liquid chromatography-ultraviolet detector (HPLC-UVD) and their quantitative study \u2026"
     year: '2018'
   fO9fNboAAAAJ:YsMSGLbcyi4C:
-    citations: 14
+    citations: 15
     title: Exploring novel secondary metabolites from natural products using pre-processed mass spectral data
     year: '2019'
   fO9fNboAAAAJ:ZHo1McVdvXMC:
@@ -327,10 +327,10 @@ papers:
     year: '2002'
   fO9fNboAAAAJ:b0M2c_1WBrUC:
     citations: 0
-    title: Chemical constituents of the aerial parts of Lespedeza juncea.
+    title: Chemical Constituents of the Aerial Parts of Lespedeza juncea
     year: '2020'
   fO9fNboAAAAJ:bEWYMUwI8FkC:
-    citations: 26
+    citations: 27
     title: Lignan Dimers from Forsythia viridissima Roots and Their Antiviral Effects
     year: '2019'
   fO9fNboAAAAJ:bFI3QPDXJZMC:
@@ -342,7 +342,7 @@ papers:
     title: Mass spectrometry data on specialized metabolome of medicinal plants used in East Asian traditional medicine
     year: '2022'
   fO9fNboAAAAJ:d1gkVwhDpl0C:
-    citations: 25
+    citations: 26
     title: A surrogate loss function for optimization of  score in binary classification with imbalanced data
     year: '2021'
   fO9fNboAAAAJ:dfsIfKJdRG4C:
@@ -419,10 +419,10 @@ papers:
     year: '2010'
   fO9fNboAAAAJ:j3f4tGmQtD8C:
     citations: 31
-    title: "Nanocomplexes Based on Amphiphilic Hyaluronic Acid Derivative and Polyethylene Glycol\u2013Lipid for Ginsenoside R g3 Delivery"
+    title: "Nanocomplexes based on amphiphilic hyaluronic acid derivative and polyethylene glycol\u2013lipid for ginsenoside Rg3 delivery"
     year: '2014'
   fO9fNboAAAAJ:kNdYIx-mwKoC:
-    citations: 36
+    citations: 37
     title: "New polyhydroxytriterpenoid derivatives from fruits of Terminalia chebula Retz. and their \u03B1-glucosidase and \u03B1-amylase inhibitory activity"
     year: '2017'
   fO9fNboAAAAJ:k_IJM867U9cC:
@@ -434,7 +434,7 @@ papers:
     title: Neuroprotective iridoid glycosides from Cornus officinalis fruits against glutamate-induced toxicity in HT22 hippocampal cells
     year: '2012'
   fO9fNboAAAAJ:ldfaerwXgEUC:
-    citations: 136
+    citations: 137
     title: Cognitive-enhancing effects of Rhus verniciflua bark extract and its active flavonoids with neuroprotective and anti-inflammatory activities
     year: '2013'
   fO9fNboAAAAJ:mB3voiENLucC:
@@ -470,7 +470,7 @@ papers:
     title: Feature-based molecular networking in the GNPS analysis environment. bioRxiv
     year: '2019'
   fO9fNboAAAAJ:qUcmZB5y_30C:
-    citations: 66
+    citations: 67
     title: Lysosomal SLC46A3 modulates hepatic cytosolic copper homeostasis
     year: '2021'
   fO9fNboAAAAJ:qjMakFHDy7sC:
@@ -478,7 +478,7 @@ papers:
     title: Chemical constituents of Polygala tenuifolia roots and their inhibitory activity on lipopolysaccharide-induced nitric oxide production in BV2 microglia
     year: '2012'
   fO9fNboAAAAJ:qxL8FJ1GzNcC:
-    citations: 106
+    citations: 107
     title: Ginsenoside 20 (S)-Rh2 exerts anti-cancer activity through targeting IL-6-induced JAK2/STAT3 pathway in human colorectal cancer cells
     year: '2016'
   fO9fNboAAAAJ:r0BpntZqJG4C:
@@ -486,7 +486,7 @@ papers:
     title: A new phenolic compound from Phedimus middendorffianus with antiproliferative activity
     year: '2020'
   fO9fNboAAAAJ:rO6llkc54NcC:
-    citations: 1775
+    citations: 1798
     title: Feature-based molecular networking in the GNPS analysis environment
     year: '2020'
   fO9fNboAAAAJ:roLk4NBRz8UC:
@@ -530,7 +530,7 @@ papers:
     title: "Vitamin E Acetate \uB97C \uD568\uC720\uD55C Nano-emulsion \uC81C\uC870\uC640 Franz Diffusion Cell \uC744 \uC774\uC6A9\uD55C Vitamin E Acetate \uC758 \uACBD\uD45C\uD53C \uD761\uC218\uC5D0 \uAD00\uD55C In Vitro \uC5F0\uAD6C"
     year: '2009'
   fO9fNboAAAAJ:vV6vV6tmYwMC:
-    citations: 94
+    citations: 93
     title: Open access repository-scale propagated nearest neighbor suspect spectral library for untargeted metabolomics
     year: '2023'
   fO9fNboAAAAJ:xtRiw3GOFMkC:
@@ -543,7 +543,7 @@ papers:
     year: '2022'
   fO9fNboAAAAJ:zA6iFVUQeVQC:
     citations: 8
-    title: Efficient preparation of narcissin from Opuntia ficus-indica fruits by combination of response surface methodology and high-speed countercurrent chromatography
+    title: Efficient preparation of narcissin from Opuntia ficus-indica fruits by combination of response surface methodology and high-speed countercurrent chromatography.
     year: '2018'
   fO9fNboAAAAJ:zYLM7Y9cAGgC:
     citations: 24
